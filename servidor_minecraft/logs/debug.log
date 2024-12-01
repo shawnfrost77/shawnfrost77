@@ -4425,3 +4425,7 @@ java.lang.NullPointerException: null
 [01Dec2024 03:13:04.065] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [facundoph: Set own game mode to Creative Mode]
 [01Dec2024 03:13:37.782] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: facundoph has made the advancement [Sweet Dreams]
 [01Dec2024 03:14:04.199] [Server thread/DEBUG] [de.teamlapen.vampirism.entity.converted.BiteableEntryManager/]: Calculated size 0.39 and blood value 2 for entity alexsmobs:tasmanian_devil
+[01Dec2024 03:17:29.072] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: Gathering id map for writing to world save world
+[01Dec2024 03:17:29.083] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: ID Map collection complete world
+[01Dec2024 03:22:27.898] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: Gathering id map for writing to world save world
+[01Dec2024 03:22:27.909] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: ID Map collection complete world

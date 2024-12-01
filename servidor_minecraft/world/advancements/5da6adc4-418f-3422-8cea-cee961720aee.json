@@ -71,6 +71,12 @@
     },
     "done": true
   },
+  "vampirism:recipes/vampirism/vampire/garlic_finder": {
+    "criteria": {
+      "has_redstone": "2024-12-01 03:14:30 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/ladder": {
     "criteria": {
       "has_stick": "2024-12-01 03:01:35 +0000"
@@ -251,6 +257,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/note_block": {
+    "criteria": {
+      "has_redstone": "2024-12-01 03:14:30 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/oak_wood": {
     "criteria": {
       "has_log": "2024-12-01 03:00:31 +0000"
@@ -260,6 +272,12 @@
   "minecraft:story/root": {
     "criteria": {
       "crafting_table": "2024-12-01 03:01:31 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/dropper": {
+    "criteria": {
+      "has_redstone": "2024-12-01 03:14:30 +0000"
     },
     "done": true
   },
@@ -335,6 +353,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/repeater": {
+    "criteria": {
+      "has_redstone_torch": "2024-12-01 03:14:28 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/compass": {
+    "criteria": {
+      "has_redstone": "2024-12-01 03:14:30 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/oak_button": {
     "criteria": {
       "has_planks": "2024-12-01 03:01:28 +0000"
@@ -365,6 +395,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/target": {
+    "criteria": {
+      "has_redstone": "2024-12-01 03:14:30 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/furnace": {
     "criteria": {
       "has_cobblestone": "2024-12-01 03:01:49 +0000"
@@ -383,6 +419,8 @@
       "minecraft:mountains": "2024-12-01 03:01:19 +0000",
       "minecraft:taiga": "2024-12-01 02:57:35 +0000",
       "minecraft:taiga_hills": "2024-12-01 03:04:28 +0000",
+      "minecraft:river": "2024-12-01 03:13:54 +0000",
+      "minecraft:wooded_mountains": "2024-12-01 03:12:36 +0000",
       "minecraft:wooded_hills": "2024-12-01 03:00:48 +0000"
     },
     "done": false
@@ -390,6 +428,12 @@
   "vampirism:recipes/vampirism/general/grave_cage": {
     "criteria": {
       "has_coal": "2024-12-01 03:02:35 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/sleep_in_bed": {
+    "criteria": {
+      "slept_in_bed": "2024-12-01 03:13:37 +0000"
     },
     "done": true
   },
@@ -414,6 +458,12 @@
   "vampirism:recipes/vampirism/cursed_spruce_boat": {
     "criteria": {
       "in_water": "2024-12-01 03:00:56 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/redstone_torch": {
+    "criteria": {
+      "has_redstone": "2024-12-01 03:14:30 +0000"
     },
     "done": true
   },
@@ -519,6 +569,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/tools/clock": {
+    "criteria": {
+      "has_redstone": "2024-12-01 03:14:30 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/stone_hoe": {
     "criteria": {
       "has_cobblestone": "2024-12-01 03:01:49 +0000"
@@ -555,6 +611,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/redstone_block": {
+    "criteria": {
+      "has_redstone": "2024-12-01 03:14:30 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/granite_slab": {
     "criteria": {
       "has_granite": "2024-12-01 03:05:37 +0000"
@@ -564,6 +626,12 @@
   "minecraft:recipes/food/cooked_beef_from_smoking": {
     "criteria": {
       "has_beef": "2024-12-01 03:04:47 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/piston": {
+    "criteria": {
+      "has_redstone": "2024-12-01 03:14:30 +0000"
     },
     "done": true
   },
