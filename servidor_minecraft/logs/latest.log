@@ -1602,3 +1602,24 @@ java.lang.NullPointerException: null
 [01Dec2024 01:32:22.636] [Worker-Main-2/WARN] [net.minecraft.world.gen.feature.jigsaw.JigsawManager/]: Empty or none existent pool: dungeons_arise:underworld/foundry/foundry_corridor_gears
 [01Dec2024 01:32:22.834] [Worker-Main-2/WARN] [net.minecraft.world.gen.feature.jigsaw.JigsawManager/]: Empty or none existent pool: dungeons_arise:underworld/foundry/foundry_corridor_gears
 [01Dec2024 01:32:22.838] [Worker-Main-2/WARN] [net.minecraft.world.gen.feature.jigsaw.JigsawManager/]: Empty or none existent pool: dungeons_arise:underworld/foundry/foundry_corridor_gears
+[01Dec2024 01:42:24.230] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Stopping the server
+[01Dec2024 01:42:24.248] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping server
+[01Dec2024 01:42:24.250] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving players
+[01Dec2024 01:42:24.254] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: facundoph lost connection: Server closed
+[01Dec2024 01:42:24.254] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: facundoph left the game
+[01Dec2024 01:42:24.259] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving worlds
+[01Dec2024 01:42:24.260] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[01Dec2024 01:42:24.803] [Server thread/INFO] [net.minecraft.world.server.ChunkManager/]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[01Dec2024 01:42:24.803] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[01Dec2024 01:42:24.804] [Server thread/INFO] [net.minecraft.world.server.ChunkManager/]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[01Dec2024 01:42:24.804] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[01Dec2024 01:42:24.805] [Server thread/INFO] [net.minecraft.world.server.ChunkManager/]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[01Dec2024 01:42:24.806] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/twilightforest:skylight_forest
+[01Dec2024 01:42:24.806] [Server thread/INFO] [net.minecraft.world.server.ChunkManager/]: ThreadedAnvilChunkStorage (skylight_forest): All chunks are saved
+[01Dec2024 01:42:24.806] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/twilightforest:twilightforest
+[01Dec2024 01:42:24.807] [Server thread/INFO] [net.minecraft.world.server.ChunkManager/]: ThreadedAnvilChunkStorage (twilightforest): All chunks are saved
+[01Dec2024 01:42:24.833] [Server thread/INFO] [net.minecraft.world.server.ChunkManager/]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[01Dec2024 01:42:24.865] [Server thread/INFO] [net.minecraft.world.server.ChunkManager/]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[01Dec2024 01:42:24.866] [Server thread/INFO] [net.minecraft.world.server.ChunkManager/]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[01Dec2024 01:42:24.867] [Server thread/INFO] [net.minecraft.world.server.ChunkManager/]: ThreadedAnvilChunkStorage (skylight_forest): All chunks are saved
+[01Dec2024 01:42:24.867] [Server thread/INFO] [net.minecraft.world.server.ChunkManager/]: ThreadedAnvilChunkStorage (twilightforest): All chunks are saved
