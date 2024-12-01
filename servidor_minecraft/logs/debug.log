@@ -4458,3 +4458,22 @@ java.lang.NullPointerException: null
 [01Dec2024 03:45:43.290] [Server thread/DEBUG] [de.teamlapen.vampirism.entity.converted.BiteableEntryManager/]: Calculated size 1.87 and blood value 13 for entity alexsmobs:snow_leopard
 [01Dec2024 03:45:43.291] [Server thread/DEBUG] [de.teamlapen.vampirism.entity.converted.BiteableEntryManager/]: Calculated size 1.87 and blood value 13 for entity alexsmobs:snow_leopard
 [01Dec2024 03:45:43.383] [Server thread/DEBUG] [de.teamlapen.vampirism.entity.converted.BiteableEntryManager/]: Calculated size 1.87 and blood value 13 for entity alexsmobs:snow_leopard
+[01Dec2024 03:46:32.034] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: facundoph moved too quickly! -9.102213030585062,0.32640001296996957,5.062678901752065
+[01Dec2024 03:46:34.139] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: facundoph moved too quickly! -10.396493243178725,0.6554259482270055,2.312279766729091
+[01Dec2024 03:46:48.036] [Server thread/INFO] [net.minecraft.entity.Entity/]: Villager VillagerEntityMCA['Kyoichi'/16897, l='ServerLevel[world]', x=641.37, y=73.00, z=-341.28] died, message: 'Kyoichi suffocated in a wall'
+[01Dec2024 03:46:50.884] [Server thread/INFO] [net.minecraft.entity.Entity/]: Villager VillagerEntityMCA['Naoji'/16953, l='ServerLevel[world]', x=630.20, y=76.00, z=-359.30] died, message: 'Naoji suffocated in a wall'
+[01Dec2024 03:47:36.229] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: Gathering id map for writing to world save world
+[01Dec2024 03:47:36.235] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: ID Map collection complete world
+[01Dec2024 03:47:40.520] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 6447ms or 128 ticks behind
+[01Dec2024 03:50:37.585] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4212ms or 84 ticks behind
+[01Dec2024 03:52:48.757] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: Gathering id map for writing to world save world
+[01Dec2024 03:52:48.764] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: ID Map collection complete world
+[01Dec2024 03:52:48.796] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: facundoph moved too quickly! 7.262491442589351,0.0,-7.388132272092776
+[01Dec2024 03:52:48.841] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4168ms or 83 ticks behind
+[01Dec2024 03:53:33.554] [Worker-Main-2/WARN] [net.minecraft.world.gen.feature.jigsaw.JigsawManager/]: Empty or none existent pool: dungeons_arise:underworld/foundry/foundry_corridor_gears
+[01Dec2024 03:53:33.560] [Worker-Main-2/WARN] [net.minecraft.world.gen.feature.jigsaw.JigsawManager/]: Empty or none existent pool: dungeons_arise:underworld/foundry/foundry_corridor_gears
+[01Dec2024 03:53:33.580] [Worker-Main-2/WARN] [net.minecraft.world.gen.feature.jigsaw.JigsawManager/]: Empty or none existent pool: dungeons_arise:underworld/foundry/foundry_corridor_gears
+[01Dec2024 03:53:33.580] [Worker-Main-2/WARN] [net.minecraft.world.gen.feature.jigsaw.JigsawManager/]: Empty or none existent pool: dungeons_arise:underworld/foundry/foundry_corridor_gears
+[01Dec2024 03:53:33.582] [Worker-Main-2/WARN] [net.minecraft.world.gen.feature.jigsaw.JigsawManager/]: Empty or none existent pool: dungeons_arise:underworld/foundry/foundry_corridor_gears
+[01Dec2024 03:53:33.588] [Worker-Main-2/WARN] [net.minecraft.world.gen.feature.jigsaw.JigsawManager/]: Empty or none existent pool: dungeons_arise:underworld/foundry/foundry_corridor_gears
+[01Dec2024 03:53:46.188] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: facundoph has completed the challenge [The Power of the Sun]

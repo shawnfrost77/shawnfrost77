@@ -251,6 +251,12 @@
     },
     "done": true
   },
+  "dungeons_arise:find_abandoned_temple": {
+    "criteria": {
+      "location0": "2024-12-01 03:47:09 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/light_blue_wool": {
     "criteria": {
       "has_white_wool": "2024-12-01 03:41:11 +0000"
@@ -667,10 +673,13 @@
   },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
+      "minecraft:snowy_mountains": "2024-12-01 03:46:16 +0000",
       "minecraft:forest": "2024-12-01 03:01:00 +0000",
       "minecraft:mountains": "2024-12-01 03:01:19 +0000",
       "minecraft:taiga": "2024-12-01 02:57:35 +0000",
+      "minecraft:snowy_tundra": "2024-12-01 03:46:29 +0000",
       "minecraft:taiga_hills": "2024-12-01 03:04:28 +0000",
+      "minecraft:frozen_river": "2024-12-01 03:46:34 +0000",
       "minecraft:birch_forest": "2024-12-01 03:35:45 +0000",
       "minecraft:beach": "2024-12-01 03:41:42 +0000",
       "minecraft:dark_forest": "2024-12-01 03:37:34 +0000",
@@ -859,6 +868,12 @@
   "minecraft:recipes/decorations/cobblestone_wall_from_cobblestone_stonecutting": {
     "criteria": {
       "has_cobblestone": "2024-12-01 03:01:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/black_dye": {
+    "criteria": {
+      "has_ink_sac": "2024-12-01 03:42:51 +0000"
     },
     "done": true
   },
