@@ -1610,3 +1610,5 @@ java.lang.NullPointerException: null
 [01Dec2024 03:12:34.689] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [facundoph: The difficulty has been set to Hard]
 [01Dec2024 03:13:04.065] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [facundoph: Set own game mode to Creative Mode]
 [01Dec2024 03:13:37.782] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: facundoph has made the advancement [Sweet Dreams]
+[01Dec2024 03:29:39.888] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: facundoph has made the advancement [Vampire Diaries]
+[01Dec2024 03:35:19.536] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: facundoph has made the advancement [Blood Feeders' Home]
