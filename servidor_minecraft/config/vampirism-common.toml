@@ -16,7 +16,7 @@
 	#Range: 1 ~ 100
 	villageSeparation = 6
 	#INTERNAL - Set to 'never' if you don't want to be notified about integration mods
-	integrationsNotifier = "evilcraft:"
+	integrationsNotifier = ""
 	#INTERNAL
 	optifineBloodvisionWarning = false
 

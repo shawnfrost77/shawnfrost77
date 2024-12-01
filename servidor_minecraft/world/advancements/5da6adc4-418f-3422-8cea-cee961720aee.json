@@ -1,124 +1,470 @@
 {
-  "minecraft:adventure/sleep_in_bed": {
+  "mca:recipes/building_blocks/headstones": {
     "criteria": {
-      "slept_in_bed": "2024-12-01 01:30:56 +0000"
+      "has_ingredients": "2024-12-01 02:57:35 +0000"
     },
     "done": true
   },
-  "mca:recipes/building_blocks/headstones": {
+  "minecraft:recipes/redstone/oak_fence_gate": {
     "criteria": {
-      "has_ingredients": "2024-12-01 00:56:04 +0000"
+      "has_planks": "2024-12-01 03:01:28 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/wooden_axe": {
+    "criteria": {
+      "has_stick": "2024-12-01 03:01:35 +0000"
     },
     "done": true
   },
   "mca:recipes/misc/potions": {
     "criteria": {
-      "has_item": "2024-12-01 00:56:04 +0000"
+      "has_item": "2024-12-01 02:57:35 +0000"
     },
     "done": true
   },
-  "tombstone:adventure/root": {
+  "minecraft:recipes/redstone/lever": {
     "criteria": {
-      "auto": "2024-12-01 00:56:04 +0000"
+      "has_cobblestone": "2024-12-01 03:01:49 +0000"
     },
     "done": true
   },
-  "mca:recipes/misc/books": {
+  "minecraft:recipes/building_blocks/cobblestone_stairs_from_cobblestone_stonecutting": {
     "criteria": {
-      "has_item": "2024-12-01 00:56:04 +0000"
+      "has_cobblestone": "2024-12-01 03:01:49 +0000"
     },
     "done": true
   },
-  "mca:recipes/misc/rose_gold_ingot_smelting": {
+  "minecraft:recipes/redstone/oak_button": {
     "criteria": {
-      "has_item": "2024-12-01 00:56:04 +0000"
-    },
-    "done": true
-  },
-  "mca:recipes/misc/blueprint": {
-    "criteria": {
-      "has_item": "2024-12-01 00:56:04 +0000"
+      "has_planks": "2024-12-01 03:01:28 +0000"
     },
     "done": true
   },
   "mca:recipes/building_blocks/rose_gold_block": {
     "criteria": {
-      "has_item": "2024-12-01 00:56:04 +0000"
+      "has_item": "2024-12-01 02:57:35 +0000"
     },
     "done": true
   },
-  "dungeons_arise:wda_root": {
+  "vampirism:recipes/vampirism/hunter/stake": {
     "criteria": {
-      "WDA": "2024-12-01 00:56:05 +0000"
-    },
-    "done": true
-  },
-  "mca:recipes/misc/whistle": {
-    "criteria": {
-      "has_item": "2024-12-01 00:56:04 +0000"
-    },
-    "done": true
-  },
-  "mca:recipes/misc/rose_gold_ingot": {
-    "criteria": {
-      "has_item": "2024-12-01 00:56:04 +0000"
+      "has_sticks": "2024-12-01 03:01:35 +0000"
     },
     "done": true
   },
   "mca:recipes/misc/needle_and_thread": {
     "criteria": {
-      "has_item": "2024-12-01 00:56:04 +0000"
+      "has_item": "2024-12-01 02:57:35 +0000"
     },
     "done": true
   },
-  "mca:recipes/misc/comb": {
+  "vampirism:recipes/vampirism/general/fire_place": {
     "criteria": {
-      "has_item": "2024-12-01 00:56:04 +0000"
+      "has_logs": "2024-12-01 03:00:31 +0000"
     },
     "done": true
   },
-  "mca:recipes/misc/staff_of_life": {
+  "minecraft:story/mine_stone": {
     "criteria": {
-      "has_item": "2024-12-01 00:56:04 +0000"
+      "get_stone": "2024-12-01 03:01:49 +0000"
     },
     "done": true
   },
-  "mca:recipes/misc/rose_gold_ingot_blasting": {
+  "minecraft:recipes/building_blocks/stone": {
     "criteria": {
-      "has_item": "2024-12-01 00:56:04 +0000"
+      "has_cobblestone": "2024-12-01 03:01:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/furnace": {
+    "criteria": {
+      "has_cobblestone": "2024-12-01 03:01:49 +0000"
     },
     "done": true
   },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
-      "minecraft:forest": "2024-11-30 23:59:40 +0000",
-      "minecraft:desert_hills": "2024-12-01 01:01:05 +0000",
-      "minecraft:desert": "2024-12-01 00:57:34 +0000",
-      "minecraft:birch_forest": "2024-12-01 01:31:35 +0000",
-      "minecraft:savanna_plateau": "2024-12-01 01:00:01 +0000",
-      "minecraft:dark_forest": "2024-12-01 01:31:44 +0000",
-      "minecraft:river": "2024-12-01 01:30:31 +0000",
-      "minecraft:birch_forest_hills": "2024-12-01 01:32:27 +0000",
-      "minecraft:wooded_hills": "2024-12-01 01:32:15 +0000",
-      "minecraft:swamp": "2024-12-01 01:31:56 +0000",
-      "minecraft:savanna": "2024-12-01 00:59:46 +0000",
-      "minecraft:plains": "2024-12-01 01:32:10 +0000"
+      "minecraft:forest": "2024-12-01 03:01:00 +0000",
+      "minecraft:mountains": "2024-12-01 03:01:19 +0000",
+      "minecraft:taiga": "2024-12-01 02:57:35 +0000",
+      "minecraft:wooded_hills": "2024-12-01 03:00:48 +0000"
     },
     "done": false
   },
+  "minecraft:recipes/decorations/crafting_table": {
+    "criteria": {
+      "has_planks": "2024-12-01 03:01:28 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/campfire": {
+    "criteria": {
+      "has_stick": "2024-12-01 03:01:35 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/charcoal": {
+    "criteria": {
+      "has_log": "2024-12-01 03:00:31 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/wooden_pickaxe": {
+    "criteria": {
+      "has_stick": "2024-12-01 03:01:35 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cobblestone_slab_from_cobblestone_stonecutting": {
+    "criteria": {
+      "has_cobblestone": "2024-12-01 03:01:49 +0000"
+    },
+    "done": true
+  },
+  "vampirism:recipes/vampirism/cursed_spruce_boat": {
+    "criteria": {
+      "in_water": "2024-12-01 03:00:56 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/ladder": {
+    "criteria": {
+      "has_stick": "2024-12-01 03:01:35 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/birch_boat": {
+    "criteria": {
+      "in_water": "2024-12-01 03:00:56 +0000"
+    },
+    "done": true
+  },
+  "vampirism:recipes/vampirism/hunter/cross": {
+    "criteria": {
+      "has_planks": "2024-12-01 03:01:28 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/stone_sword": {
+    "criteria": {
+      "has_cobblestone": "2024-12-01 03:01:49 +0000"
+    },
+    "done": true
+  },
+  "vampirism:recipes/vampirism/general/church_altar": {
+    "criteria": {
+      "has_vampire_book": "2024-12-01 03:01:28 +0000"
+    },
+    "done": true
+  },
+  "mca:recipes/misc/books": {
+    "criteria": {
+      "has_item": "2024-12-01 02:57:35 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/oak_stairs": {
+    "criteria": {
+      "has_planks": "2024-12-01 03:01:28 +0000"
+    },
+    "done": true
+  },
+  "mca:recipes/misc/rose_gold_ingot_smelting": {
+    "criteria": {
+      "has_item": "2024-12-01 02:57:35 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/cobblestone_wall": {
+    "criteria": {
+      "has_cobblestone": "2024-12-01 03:01:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/barrel": {
+    "criteria": {
+      "has_planks": "2024-12-01 03:01:28 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/wooden_shovel": {
+    "criteria": {
+      "has_stick": "2024-12-01 03:01:35 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/torch": {
+    "criteria": {
+      "has_stone_pickaxe": "2024-12-01 03:02:14 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/acacia_boat": {
+    "criteria": {
+      "in_water": "2024-12-01 03:00:56 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/stone_pickaxe": {
+    "criteria": {
+      "has_cobblestone": "2024-12-01 03:01:49 +0000"
+    },
+    "done": true
+  },
+  "vampirism:recipes/vampirism/dark_spruce_boat": {
+    "criteria": {
+      "in_water": "2024-12-01 03:00:56 +0000"
+    },
+    "done": true
+  },
+  "mca:recipes/misc/rose_gold_ingot": {
+    "criteria": {
+      "has_item": "2024-12-01 02:57:35 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/oak_door": {
+    "criteria": {
+      "has_planks": "2024-12-01 03:01:28 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/stick": {
+    "criteria": {
+      "has_planks": "2024-12-01 03:01:28 +0000"
+    },
+    "done": true
+  },
+  "mca:recipes/misc/staff_of_life": {
+    "criteria": {
+      "has_item": "2024-12-01 02:57:35 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/jungle_boat": {
+    "criteria": {
+      "in_water": "2024-12-01 03:00:56 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/spruce_boat": {
+    "criteria": {
+      "in_water": "2024-12-01 03:00:56 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/cobblestone_wall_from_cobblestone_stonecutting": {
+    "criteria": {
+      "has_cobblestone": "2024-12-01 03:01:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/wooden_sword": {
+    "criteria": {
+      "has_stick": "2024-12-01 03:01:35 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/stone_shovel": {
+    "criteria": {
+      "has_cobblestone": "2024-12-01 03:01:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/oak_planks": {
+    "criteria": {
+      "has_logs": "2024-12-01 03:00:31 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/stone_hoe": {
+    "criteria": {
+      "has_cobblestone": "2024-12-01 03:01:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/dark_oak_boat": {
+    "criteria": {
+      "in_water": "2024-12-01 03:00:56 +0000"
+    },
+    "done": true
+  },
+  "vampirism:recipes/vampirism/hunter/crucifix": {
+    "criteria": {
+      "planks": "2024-12-01 03:01:28 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/root": {
+    "criteria": {
+      "auto": "2024-12-01 02:57:35 +0000"
+    },
+    "done": true
+  },
+  "vampirism:recipes/vampirism/general/throne": {
+    "criteria": {
+      "has_planks": "2024-12-01 03:01:28 +0000"
+    },
+    "done": true
+  },
+  "dungeons_arise:wda_root": {
+    "criteria": {
+      "WDA": "2024-12-01 02:57:35 +0000"
+    },
+    "done": true
+  },
+  "vampirism:recipes/vampirism/alchemy_table": {
+    "criteria": {
+      "has_planks": "2024-12-01 03:01:28 +0000"
+    },
+    "done": true
+  },
+  "vampirism:recipes/vampirism/general/vampire_rack": {
+    "criteria": {
+      "has_planks": "2024-12-01 03:01:28 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/wooden_hoe": {
+    "criteria": {
+      "has_stick": "2024-12-01 03:01:35 +0000"
+    },
+    "done": true
+  },
+  "mca:recipes/misc/comb": {
+    "criteria": {
+      "has_item": "2024-12-01 02:57:35 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cobblestone_slab": {
+    "criteria": {
+      "has_cobblestone": "2024-12-01 03:01:49 +0000"
+    },
+    "done": true
+  },
+  "mca:recipes/misc/rose_gold_ingot_blasting": {
+    "criteria": {
+      "has_item": "2024-12-01 02:57:35 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/oak_pressure_plate": {
+    "criteria": {
+      "has_planks": "2024-12-01 03:01:28 +0000"
+    },
+    "done": true
+  },
   "mca:recipes/misc/family_tree": {
     "criteria": {
-      "has_item": "2024-12-01 00:56:04 +0000"
+      "has_item": "2024-12-01 02:57:35 +0000"
     },
     "done": true
   },
   "mca:root": {
     "criteria": {
-      "village_taiga": "2024-12-01 00:56:04 +0000",
-      "village_savanna": "2024-12-01 00:56:04 +0000",
-      "village_snowy": "2024-12-01 00:56:04 +0000",
-      "village_desert": "2024-12-01 00:56:04 +0000",
-      "village_plains": "2024-12-01 00:56:04 +0000"
+      "village_taiga": "2024-12-01 02:57:35 +0000",
+      "village_savanna": "2024-12-01 02:57:35 +0000",
+      "village_snowy": "2024-12-01 02:57:35 +0000",
+      "village_desert": "2024-12-01 02:57:35 +0000",
+      "village_plains": "2024-12-01 02:57:35 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cobblestone_stairs": {
+    "criteria": {
+      "has_cobblestone": "2024-12-01 03:01:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/upgrade_tools": {
+    "criteria": {
+      "stone_pickaxe": "2024-12-01 03:02:14 +0000"
+    },
+    "done": true
+  },
+  "mca:recipes/misc/blueprint": {
+    "criteria": {
+      "has_item": "2024-12-01 02:57:35 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/oak_wood": {
+    "criteria": {
+      "has_log": "2024-12-01 03:00:31 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/root": {
+    "criteria": {
+      "crafting_table": "2024-12-01 03:01:31 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/oak_fence": {
+    "criteria": {
+      "has_planks": "2024-12-01 03:01:28 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/oak_boat": {
+    "criteria": {
+      "in_water": "2024-12-01 03:00:56 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/soul_campfire": {
+    "criteria": {
+      "has_stick": "2024-12-01 03:01:35 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/crossbow": {
+    "criteria": {
+      "has_stick": "2024-12-01 03:01:35 +0000"
+    },
+    "done": true
+  },
+  "mca:recipes/misc/whistle": {
+    "criteria": {
+      "has_item": "2024-12-01 02:57:35 +0000"
+    },
+    "done": true
+  },
+  "vampirism:recipes/vampirism/general/tombstone2": {
+    "criteria": {
+      "has_coble": "2024-12-01 03:01:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/stone_axe": {
+    "criteria": {
+      "has_cobblestone": "2024-12-01 03:01:49 +0000"
+    },
+    "done": true
+  },
+  "vampirism:recipes/vampirism/vampire/altar_inspiration": {
+    "criteria": {
+      "has_planks": "2024-12-01 03:01:28 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/oak_sign": {
+    "criteria": {
+      "has_oak_planks": "2024-12-01 03:01:28 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/oak_trapdoor": {
+    "criteria": {
+      "has_planks": "2024-12-01 03:01:28 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/oak_slab": {
+    "criteria": {
+      "has_planks": "2024-12-01 03:01:28 +0000"
     },
     "done": true
   },
