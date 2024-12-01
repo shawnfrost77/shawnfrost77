@@ -4448,3 +4448,14 @@ java.lang.NullPointerException: null
 [01Dec2024 01:19:23.705] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: Gathering id map for writing to world save world
 [01Dec2024 01:19:23.722] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: ID Map collection complete world
 [01Dec2024 01:23:33.153] [Server thread/INFO] [net.minecraft.entity.Entity/]: Villager VillagerEntityMCA['Nichita'/2841, l='ServerLevel[world]', x=-246.27, y=68.00, z=-361.73] died, message: 'Nichita hit the ground too hard whilst trying to escape Guster'
+[01Dec2024 01:24:23.597] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: Gathering id map for writing to world save world
+[01Dec2024 01:24:23.605] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: ID Map collection complete world
+[01Dec2024 01:29:24.075] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: Gathering id map for writing to world save world
+[01Dec2024 01:29:24.082] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: ID Map collection complete world
+[01Dec2024 01:30:56.781] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: facundoph has made the advancement [Sweet Dreams]
+[01Dec2024 01:31:25.360] [Server thread/DEBUG] [de.teamlapen.vampirism.entity.converted.BiteableEntryManager/]: Calculated size 4.61 and blood value 15 for entity alexsmobs:grizzly_bear
+[01Dec2024 01:32:22.635] [Worker-Main-2/WARN] [net.minecraft.world.gen.feature.jigsaw.JigsawManager/]: Empty or none existent pool: dungeons_arise:underworld/foundry/foundry_corridor_gears
+[01Dec2024 01:32:22.636] [Worker-Main-2/WARN] [net.minecraft.world.gen.feature.jigsaw.JigsawManager/]: Empty or none existent pool: dungeons_arise:underworld/foundry/foundry_corridor_gears
+[01Dec2024 01:32:22.834] [Worker-Main-2/WARN] [net.minecraft.world.gen.feature.jigsaw.JigsawManager/]: Empty or none existent pool: dungeons_arise:underworld/foundry/foundry_corridor_gears
+[01Dec2024 01:32:22.838] [Worker-Main-2/WARN] [net.minecraft.world.gen.feature.jigsaw.JigsawManager/]: Empty or none existent pool: dungeons_arise:underworld/foundry/foundry_corridor_gears
+[01Dec2024 01:32:39.867] [Server thread/DEBUG] [de.teamlapen.vampirism.entity.converted.BiteableEntryManager/]: Calculated size 1.02 and blood value 7 for entity alexsmobs:alligator_snapping_turtle

@@ -1597,3 +1597,8 @@ java.lang.NullPointerException: null
 [01Dec2024 00:59:16.709] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [facundoph: Set own game mode to Creative Mode]
 [01Dec2024 00:59:23.296] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2098ms or 41 ticks behind
 [01Dec2024 01:23:33.153] [Server thread/INFO] [net.minecraft.entity.Entity/]: Villager VillagerEntityMCA['Nichita'/2841, l='ServerLevel[world]', x=-246.27, y=68.00, z=-361.73] died, message: 'Nichita hit the ground too hard whilst trying to escape Guster'
+[01Dec2024 01:30:56.781] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: facundoph has made the advancement [Sweet Dreams]
+[01Dec2024 01:32:22.635] [Worker-Main-2/WARN] [net.minecraft.world.gen.feature.jigsaw.JigsawManager/]: Empty or none existent pool: dungeons_arise:underworld/foundry/foundry_corridor_gears
+[01Dec2024 01:32:22.636] [Worker-Main-2/WARN] [net.minecraft.world.gen.feature.jigsaw.JigsawManager/]: Empty or none existent pool: dungeons_arise:underworld/foundry/foundry_corridor_gears
+[01Dec2024 01:32:22.834] [Worker-Main-2/WARN] [net.minecraft.world.gen.feature.jigsaw.JigsawManager/]: Empty or none existent pool: dungeons_arise:underworld/foundry/foundry_corridor_gears
+[01Dec2024 01:32:22.838] [Worker-Main-2/WARN] [net.minecraft.world.gen.feature.jigsaw.JigsawManager/]: Empty or none existent pool: dungeons_arise:underworld/foundry/foundry_corridor_gears
