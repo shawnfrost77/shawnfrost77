@@ -1596,3 +1596,4 @@ java.lang.NullPointerException: null
 [01Dec2024 00:57:28.723] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2925ms or 58 ticks behind
 [01Dec2024 00:59:16.709] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [facundoph: Set own game mode to Creative Mode]
 [01Dec2024 00:59:23.296] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2098ms or 41 ticks behind
+[01Dec2024 01:23:33.153] [Server thread/INFO] [net.minecraft.entity.Entity/]: Villager VillagerEntityMCA['Nichita'/2841, l='ServerLevel[world]', x=-246.27, y=68.00, z=-361.73] died, message: 'Nichita hit the ground too hard whilst trying to escape Guster'

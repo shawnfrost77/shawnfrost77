@@ -4443,3 +4443,8 @@ java.lang.NullPointerException: null
 [01Dec2024 01:04:24.786] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: ID Map collection complete world
 [01Dec2024 01:09:23.904] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: Gathering id map for writing to world save world
 [01Dec2024 01:09:23.911] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: ID Map collection complete world
+[01Dec2024 01:14:23.831] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: Gathering id map for writing to world save world
+[01Dec2024 01:14:23.839] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: ID Map collection complete world
+[01Dec2024 01:19:23.705] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: Gathering id map for writing to world save world
+[01Dec2024 01:19:23.722] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: ID Map collection complete world
+[01Dec2024 01:23:33.153] [Server thread/INFO] [net.minecraft.entity.Entity/]: Villager VillagerEntityMCA['Nichita'/2841, l='ServerLevel[world]', x=-246.27, y=68.00, z=-361.73] died, message: 'Nichita hit the ground too hard whilst trying to escape Guster'
