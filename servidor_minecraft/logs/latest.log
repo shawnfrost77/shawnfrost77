@@ -1604,3 +1604,9 @@ java.lang.NullPointerException: null
 [01Dec2024 02:57:35.250] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: facundoph has made the advancement [Minecraft Comes Alive]
 [01Dec2024 03:01:49.889] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: facundoph has made the advancement [Stone Age]
 [01Dec2024 03:02:14.482] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: facundoph has made the advancement [Getting an Upgrade]
+[01Dec2024 03:08:09.022] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: facundoph has made the advancement [Alex's Mobs]
+[01Dec2024 03:11:32.379] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Made facundoph a server operator
+[01Dec2024 03:11:53.974] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [facundoph: Set own game mode to Spectator Mode]
+[01Dec2024 03:12:34.689] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [facundoph: The difficulty has been set to Hard]
+[01Dec2024 03:13:04.065] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [facundoph: Set own game mode to Creative Mode]
+[01Dec2024 03:13:37.782] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: facundoph has made the advancement [Sweet Dreams]
