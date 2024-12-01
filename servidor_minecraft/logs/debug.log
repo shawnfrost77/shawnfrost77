@@ -4437,3 +4437,24 @@ java.lang.NullPointerException: null
 [01Dec2024 03:35:15.845] [Server thread/DEBUG] [de.teamlapen.vampirism.entity.converted.BiteableEntryManager/]: Calculated size 0.32 and blood value 2 for entity alexsmobs:platypus
 [01Dec2024 03:35:19.536] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: facundoph has made the advancement [Blood Feeders' Home]
 [01Dec2024 03:35:24.736] [Server thread/DEBUG] [de.teamlapen.vampirism.entity.converted.BiteableEntryManager/]: Calculated size 0.09 and blood value 0 for entity alexsmobs:hummingbird
+[01Dec2024 03:37:29.246] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: Gathering id map for writing to world save world
+[01Dec2024 03:37:29.250] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: ID Map collection complete world
+[01Dec2024 03:37:29.279] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: facundoph moved too quickly! 8.897051195326412,0.35395339646483137,4.857644496345529
+[01Dec2024 03:37:29.593] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2020ms or 40 ticks behind
+[01Dec2024 03:38:54.440] [Server thread/DEBUG] [de.teamlapen.vampirism.entity.converted.BiteableEntryManager/]: Calculated size 1.18 and blood value 8 for entity alexsmobs:seal
+[01Dec2024 03:39:00.791] [Server thread/DEBUG] [de.teamlapen.vampirism.entity.converted.BiteableEntryManager/]: Calculated size 1.18 and blood value 8 for entity alexsmobs:seal
+[01Dec2024 03:39:00.792] [Server thread/DEBUG] [de.teamlapen.vampirism.entity.converted.BiteableEntryManager/]: Calculated size 1.18 and blood value 8 for entity alexsmobs:seal
+[01Dec2024 03:39:00.793] [Server thread/DEBUG] [de.teamlapen.vampirism.entity.converted.BiteableEntryManager/]: Calculated size 1.18 and blood value 8 for entity alexsmobs:seal
+[01Dec2024 03:39:58.071] [Server thread/DEBUG] [de.teamlapen.vampirism.entity.converted.BiteableEntryManager/]: Calculated size 0.96 and blood value 6 for entity alexsmobs:shoebill
+[01Dec2024 03:41:11.394] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2721ms or 54 ticks behind
+[01Dec2024 03:41:11.453] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: facundoph has made the advancement [Suit Up]
+[01Dec2024 03:41:11.478] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: facundoph has made the advancement [Acquire Hardware]
+[01Dec2024 03:42:34.043] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: Gathering id map for writing to world save world
+[01Dec2024 03:42:34.049] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: ID Map collection complete world
+[01Dec2024 03:42:34.091] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2018ms or 40 ticks behind
+[01Dec2024 03:45:09.349] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: facundoph moved too quickly! -10.02286856529895,0.0,3.55066234214371
+[01Dec2024 03:45:17.138] [Server thread/DEBUG] [de.teamlapen.vampirism.entity.converted.BiteableEntryManager/]: Calculated size 6.94 and blood value 0 for entity alexsmobs:moose
+[01Dec2024 03:45:38.791] [Server thread/DEBUG] [de.teamlapen.vampirism.entity.converted.BiteableEntryManager/]: Calculated size 1.87 and blood value 13 for entity alexsmobs:snow_leopard
+[01Dec2024 03:45:43.290] [Server thread/DEBUG] [de.teamlapen.vampirism.entity.converted.BiteableEntryManager/]: Calculated size 1.87 and blood value 13 for entity alexsmobs:snow_leopard
+[01Dec2024 03:45:43.291] [Server thread/DEBUG] [de.teamlapen.vampirism.entity.converted.BiteableEntryManager/]: Calculated size 1.87 and blood value 13 for entity alexsmobs:snow_leopard
+[01Dec2024 03:45:43.383] [Server thread/DEBUG] [de.teamlapen.vampirism.entity.converted.BiteableEntryManager/]: Calculated size 1.87 and blood value 13 for entity alexsmobs:snow_leopard

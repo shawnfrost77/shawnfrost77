@@ -1612,3 +1612,10 @@ java.lang.NullPointerException: null
 [01Dec2024 03:13:37.782] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: facundoph has made the advancement [Sweet Dreams]
 [01Dec2024 03:29:39.888] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: facundoph has made the advancement [Vampire Diaries]
 [01Dec2024 03:35:19.536] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: facundoph has made the advancement [Blood Feeders' Home]
+[01Dec2024 03:37:29.279] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: facundoph moved too quickly! 8.897051195326412,0.35395339646483137,4.857644496345529
+[01Dec2024 03:37:29.593] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2020ms or 40 ticks behind
+[01Dec2024 03:41:11.394] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2721ms or 54 ticks behind
+[01Dec2024 03:41:11.453] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: facundoph has made the advancement [Suit Up]
+[01Dec2024 03:41:11.478] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: facundoph has made the advancement [Acquire Hardware]
+[01Dec2024 03:42:34.091] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2018ms or 40 ticks behind
+[01Dec2024 03:45:09.349] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: facundoph moved too quickly! -10.02286856529895,0.0,3.55066234214371
