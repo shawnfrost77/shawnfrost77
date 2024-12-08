@@ -494,3 +494,14 @@ Caused by: java.lang.IllegalArgumentException
 [17:18:44] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [facundoph: Set game difficulty to Hard]
 [17:23:32] [Server thread/INFO] [Astral Sorcery]: Load CachedWorldData 'structures' for world 0
 [17:23:32] [Server thread/INFO] [Astral Sorcery]: Loading of 'structures' for world 0 finished.
+[17:26:26] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: facundoph lost connection: Disconnected
+[17:26:26] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: facundoph left the game
+[17:27:08] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Stopping the server
+[17:27:08] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Stopping server
+[17:27:08] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Saving players
+[17:27:08] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Saving worlds
+[17:27:08] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Saving chunks for level 'world'/overworld
+[17:27:08] [Server thread/INFO] [FML]: Unloading dimension 0
+[17:27:08] [Server Shutdown Thread/INFO] [net.minecraft.server.MinecraftServer]: Stopping server
+[17:27:08] [Server Shutdown Thread/INFO] [net.minecraft.server.MinecraftServer]: Saving players
+[17:27:08] [Server Shutdown Thread/INFO] [net.minecraft.server.MinecraftServer]: Saving worlds
