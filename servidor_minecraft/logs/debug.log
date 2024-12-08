@@ -1,456 +1,1188 @@
-[00:53:00] [main/INFO] [LaunchWrapper]: Loading tweak class name net.minecraftforge.fml.common.launcher.FMLServerTweaker
-[00:53:00] [main/INFO] [LaunchWrapper]: Using primary tweak class name net.minecraftforge.fml.common.launcher.FMLServerTweaker
-[00:53:00] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.common.launcher.FMLServerTweaker
-[00:53:00] [main/DEBUG] [FML]: Injecting tracing printstreams for STDOUT/STDERR.
-[00:53:00] [main/INFO] [FML]: Forge Mod Loader version 14.23.5.2860 for Minecraft 1.12.2 loading
-[00:53:00] [main/INFO] [FML]: Java is OpenJDK 64-Bit Server VM, version 1.8.0_432, running on Linux:amd64:6.5.0-1025-azure, installed at /usr/lib/jvm/java-8-openjdk-amd64/jre
-[00:53:00] [main/DEBUG] [FML]: Java classpath at launch is:
-[00:53:00] [main/DEBUG] [FML]:     /workspaces/shawnfrost77/servidor_minecraft/forge-1.12.2-14.23.5.2860.jar
-[00:53:00] [main/DEBUG] [FML]: Java library path at launch is:
-[00:53:00] [main/DEBUG] [FML]:     /tmp/_MEI5Pxoj7
-[00:53:00] [main/DEBUG] [FML]:     /usr/java/packages/lib/amd64
-[00:53:00] [main/DEBUG] [FML]:     /usr/lib/x86_64-linux-gnu/jni
-[00:53:00] [main/DEBUG] [FML]:     /lib/x86_64-linux-gnu
-[00:53:00] [main/DEBUG] [FML]:     /usr/lib/x86_64-linux-gnu
-[00:53:00] [main/DEBUG] [FML]:     /usr/lib/jni
-[00:53:00] [main/DEBUG] [FML]:     /lib
-[00:53:00] [main/DEBUG] [FML]:     /usr/lib
-[00:53:00] [main/DEBUG] [FML]: Determined Minecraft Libraries Root: /workspaces/shawnfrost77/servidor_minecraft/libraries
-[00:53:00] [main/DEBUG] [FML]: Enabling runtime deobfuscation
-[00:53:00] [main/DEBUG] [FML]: Instantiating coremod class FMLCorePlugin
-[00:53:00] [main/DEBUG] [FML]: Found signing certificates for coremod FMLCorePlugin (net.minecraftforge.fml.relauncher.FMLCorePlugin)
-[00:53:00] [main/DEBUG] [FML]: Found certificate e3c3d50c7c986df74c645c0ac54639741c90a557
-[00:53:00] [main/DEBUG] [FML]: Added access transformer class net.minecraftforge.fml.common.asm.transformers.AccessTransformer to enqueued access transformers
-[00:53:00] [main/DEBUG] [FML]: Enqueued coremod FMLCorePlugin
-[00:53:00] [main/DEBUG] [FML]: Instantiating coremod class FMLForgePlugin
-[00:53:00] [main/DEBUG] [FML]: Found signing certificates for coremod FMLForgePlugin (net.minecraftforge.classloading.FMLForgePlugin)
-[00:53:00] [main/DEBUG] [FML]: Found certificate e3c3d50c7c986df74c645c0ac54639741c90a557
-[00:53:00] [main/DEBUG] [FML]: Enqueued coremod FMLForgePlugin
-[00:53:00] [main/DEBUG] [FML]: All fundamental core mods are successfully located
-[00:53:00] [main/DEBUG] [FML]: Discovering coremods
-[00:53:00] [main/INFO] [FML]: Searching /workspaces/shawnfrost77/servidor_minecraft/./mods for mods
-[00:53:00] [main/INFO] [LaunchWrapper]: Loading tweak class name net.minecraftforge.fml.common.launcher.FMLInjectionAndSortingTweaker
-[00:53:00] [main/INFO] [LaunchWrapper]: Loading tweak class name net.minecraftforge.fml.common.launcher.FMLDeobfTweaker
-[00:53:00] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.common.launcher.FMLInjectionAndSortingTweaker
-[00:53:01] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.common.launcher.FMLInjectionAndSortingTweaker
-[00:53:01] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.relauncher.CoreModManager$FMLPluginWrapper
-[00:53:01] [main/DEBUG] [FML]: Injecting coremod FMLCorePlugin \{net.minecraftforge.fml.relauncher.FMLCorePlugin\} class transformers
-[00:53:01] [main/TRACE] [FML]: Registering transformer net.minecraftforge.fml.common.asm.transformers.SideTransformer
-[00:53:01] [main/TRACE] [FML]: Registering transformer net.minecraftforge.fml.common.asm.transformers.EventSubscriptionTransformer
-[00:53:01] [main/TRACE] [FML]: Registering transformer net.minecraftforge.fml.common.asm.transformers.EventSubscriberTransformer
-[00:53:01] [main/TRACE] [FML]: Registering transformer net.minecraftforge.fml.common.asm.transformers.SoundEngineFixTransformer
-[00:53:01] [main/DEBUG] [FML]: Injection complete
-[00:53:01] [main/DEBUG] [FML]: Running coremod plugin for FMLCorePlugin \{net.minecraftforge.fml.relauncher.FMLCorePlugin\}
-[00:53:01] [main/DEBUG] [FML]: Running coremod plugin FMLCorePlugin
-[00:53:02] [main/DEBUG] [FML]: Read 1154 binary patches
-[00:53:02] [main/DEBUG] [FML]: Loading deobfuscation resource /deobfuscation_data-1.12.2.lzma with 36076 records
-[00:53:02] [main/INFO] [FML]: Found valid fingerprint for Minecraft Forge. Certificate fingerprint e3c3d50c7c986df74c645c0ac54639741c90a557
-[00:53:02] [main/DEBUG] [FML]: Coremod plugin class FMLCorePlugin run successfully
-[00:53:02] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.relauncher.CoreModManager$FMLPluginWrapper
-[00:53:02] [main/DEBUG] [FML]: Injecting coremod FMLForgePlugin \{net.minecraftforge.classloading.FMLForgePlugin\} class transformers
-[00:53:02] [main/DEBUG] [FML]: Injection complete
-[00:53:02] [main/DEBUG] [FML]: Running coremod plugin for FMLForgePlugin \{net.minecraftforge.classloading.FMLForgePlugin\}
-[00:53:02] [main/DEBUG] [FML]: Running coremod plugin FMLForgePlugin
-[00:53:02] [main/DEBUG] [FML]: Coremod plugin class FMLForgePlugin run successfully
-[00:53:02] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.common.launcher.FMLDeobfTweaker
-[00:53:02] [main/DEBUG] [FML]: Loaded 215 rules from AccessTransformer config file forge_at.cfg
-[00:53:02] [main/DEBUG] [FML]: Validating minecraft
-[00:53:03] [main/DEBUG] [FML]: Minecraft validated, launching...
-[00:53:03] [main/INFO] [LaunchWrapper]: Loading tweak class name net.minecraftforge.fml.common.launcher.TerminalTweaker
-[00:53:03] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.common.launcher.TerminalTweaker
-[00:53:03] [main/INFO] [LaunchWrapper]: Launching wrapped minecraft {net.minecraft.server.MinecraftServer}
-[00:53:06] [main/DEBUG] [FML]: Creating vanilla freeze snapshot
-[00:53:06] [main/DEBUG] [FML]: Vanilla freeze snapshot created
-[00:53:07] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Starting minecraft server version 1.12.2
-[00:53:07] [Server thread/INFO] [FML]: MinecraftForge v14.23.5.2860 Initialized
-[00:53:07] [Server thread/INFO] [FML]: Starts to replace vanilla recipe ingredients with ore ingredients.
-[00:53:07] [Server thread/INFO] [FML]: Invalid recipe found with multiple oredict ingredients in the same ingredient...
-[00:53:07] [Server thread/INFO] [FML]: Replaced 1227 ore ingredients
-[00:53:07] [Server thread/DEBUG] [FML]: No config directory found, creating one: /workspaces/shawnfrost77/servidor_minecraft/config
-[00:53:07] [Server thread/INFO] [FML]: Config directory created successfully
-[00:53:08] [Server thread/DEBUG] [FML]: File /workspaces/shawnfrost77/servidor_minecraft/config/injectedDependencies.json not found. No dependencies injected
-[00:53:08] [Server thread/DEBUG] [FML]: Building injected Mod Containers [net.minecraftforge.fml.common.FMLContainer, net.minecraftforge.common.ForgeModContainer]
-[00:53:08] [Server thread/DEBUG] [FML]: Attempting to load mods contained in the minecraft jar file and associated classes
-[00:53:08] [Server thread/DEBUG] [FML]: Minecraft is a file at /workspaces/shawnfrost77/servidor_minecraft/forge-1.12.2-14.23.5.2860.jar, loading
-[00:53:08] [Server thread/DEBUG] [FML]: Minecraft jar mods loaded successfully
-[00:53:08] [Server thread/INFO] [FML]: Searching /workspaces/shawnfrost77/servidor_minecraft/./mods for mods
-[00:53:08] [Server thread/DEBUG] [FML]: Examining file forge-1.12.2-14.23.5.2860.jar for potential mods
-[00:53:08] [Server thread/DEBUG] [FML]: The mod container forge-1.12.2-14.23.5.2860.jar appears to be missing an mcmod.info file
-[00:53:08] [Server thread/INFO] [FML]: Forge Mod Loader has identified 4 mods to load
-[00:53:08] [Server thread/TRACE] [FML]: Received a system property request ''
-[00:53:08] [Server thread/TRACE] [FML]: System property request managing the state of 0 mods
-[00:53:08] [Server thread/DEBUG] [FML]: After merging, found state information for 0 mods
-[00:53:08] [Server thread/WARN] [FML]: Missing English translation for FML: assets/fml/lang/en_us.lang
-[00:53:08] [Server thread/TRACE] [FML]: Verifying mod requirements are satisfied
-[00:53:08] [Server thread/TRACE] [FML]: All mod requirements are satisfied
-[00:53:08] [Server thread/TRACE] [FML]: Sorting mods into an ordered list
-[00:53:08] [Server thread/TRACE] [FML]: Mod sorting completed successfully
-[00:53:08] [Server thread/DEBUG] [FML]: Mod sorting data
-[00:53:08] [Server thread/DEBUG] [FML]: No user mods found to sort
-[00:53:08] [Server thread/DEBUG] [FML]: Loading @Config anotation data
-[00:53:08] [Server thread/TRACE] [FML]: Sending event FMLConstructionEvent to mod minecraft
-[00:53:08] [Server thread/TRACE] [FML]: Sent event FMLConstructionEvent to mod minecraft
-[00:53:08] [Server thread/DEBUG] [FML]: Bar Step: Construction - Minecraft took 0.010s
-[00:53:08] [Server thread/TRACE] [FML]: Sending event FMLConstructionEvent to mod mcp
-[00:53:08] [Server thread/TRACE] [FML]: Sent event FMLConstructionEvent to mod mcp
-[00:53:08] [Server thread/DEBUG] [FML]: Bar Step: Construction - Minecraft Coder Pack took 0.013s
-[00:53:08] [Server thread/TRACE] [FML]: Sending event FMLConstructionEvent to mod FML
-[00:53:09] [Server thread/TRACE] [FML]: Mod FML is using network checker : Invoking method checkModLists
-[00:53:09] [Server thread/TRACE] [FML]: Testing mod FML to verify it accepts its own version in a remote connection
-[00:53:09] [Server thread/TRACE] [FML]: The mod FML accepts its own version (8.0.99.99)
-[00:53:09] [Server thread/INFO] [FML]: Attempting connection with missing mods [minecraft, mcp, FML, forge] at CLIENT
-[00:53:09] [Server thread/INFO] [FML]: Attempting connection with missing mods [minecraft, mcp, FML, forge] at SERVER
-[00:53:09] [Server thread/TRACE] [FML]: Sent event FMLConstructionEvent to mod FML
-[00:53:09] [Server thread/DEBUG] [FML]: Bar Step: Construction - Forge Mod Loader took 0.388s
-[00:53:09] [Server thread/TRACE] [FML]: Sending event FMLConstructionEvent to mod forge
-[00:53:09] [Server thread/DEBUG] [forge]: Loading Vanilla annotations: null
-[00:53:09] [Server thread/DEBUG] [forge]: Preloading CrashReport Classes
-[00:53:09] [Server thread/DEBUG] [forge]: 	net/minecraftforge/common/util/TextTable
-[00:53:09] [Server thread/DEBUG] [forge]: 	net/minecraftforge/common/util/TextTable$Alignment
-[00:53:09] [Server thread/DEBUG] [forge]: 	net/minecraftforge/common/util/TextTable$Column
-[00:53:09] [Server thread/DEBUG] [forge]: 	net/minecraftforge/common/util/TextTable$Row
-[00:53:09] [Server thread/DEBUG] [forge]: 	net/minecraftforge/fml/client/SplashProgress$1
-[00:53:09] [Server thread/DEBUG] [forge]: 	net/minecraftforge/fml/common/FMLCommonHandler$1
-[00:53:09] [Server thread/DEBUG] [forge]: 	net/minecraftforge/fml/common/Loader$1
-[00:53:09] [Server thread/TRACE] [FML]: Mod forge is using network checker : No network checking performed
-[00:53:09] [Server thread/TRACE] [FML]: Testing mod forge to verify it accepts its own version in a remote connection
-[00:53:09] [Server thread/TRACE] [FML]: The mod forge accepts its own version (14.23.5.2860)
-[00:53:09] [Server thread/DEBUG] [FML]: Attempting to inject @Config classes into forge for type INSTANCE
-[00:53:09] [Server thread/TRACE] [FML]: Sent event FMLConstructionEvent to mod forge
-[00:53:09] [Server thread/DEBUG] [FML]: Bar Step: Construction - Minecraft Forge took 0.037s
-[00:53:09] [Server thread/DEBUG] [FML]: Bar Finished: Construction took 0.448s
-[00:53:09] [Server thread/DEBUG] [FML]: Mod signature data
-[00:53:09] [Server thread/DEBUG] [FML]:  	Valid Signatures:
-[00:53:09] [Server thread/DEBUG] [FML]: 		(e3c3d50c7c986df74c645c0ac54639741c90a557) FML	(Forge Mod Loader	8.0.99.99)	forge-1.12.2-14.23.5.2860.jar
-[00:53:09] [Server thread/DEBUG] [FML]: 		(e3c3d50c7c986df74c645c0ac54639741c90a557) forge	(Minecraft Forge	14.23.5.2860)	forge-1.12.2-14.23.5.2860.jar
-[00:53:09] [Server thread/DEBUG] [FML]:  	Missing Signatures:
-[00:53:09] [Server thread/DEBUG] [FML]: 		minecraft	(Minecraft	1.12.2)	minecraft.jar
-[00:53:09] [Server thread/DEBUG] [FML]: 		mcp	(Minecraft Coder Pack	9.42)	minecraft.jar
-[00:53:09] [Server thread/INFO] [FML]: Processing ObjectHolder annotations
-[00:53:09] [Server thread/INFO] [FML]: Found 1168 ObjectHolder annotations
-[00:53:09] [Server thread/INFO] [FML]: Identifying ItemStackHolder annotations
-[00:53:09] [Server thread/INFO] [FML]: Found 0 ItemStackHolder annotations
-[00:53:09] [Server thread/TRACE] [FML]: Sending event FMLPreInitializationEvent to mod minecraft
-[00:53:09] [Server thread/TRACE] [FML]: Sent event FMLPreInitializationEvent to mod minecraft
-[00:53:09] [Server thread/DEBUG] [FML]: Bar Step: PreInitialization - Minecraft took 0.001s
-[00:53:09] [Server thread/TRACE] [FML]: Sending event FMLPreInitializationEvent to mod mcp
-[00:53:09] [Server thread/TRACE] [FML]: Sent event FMLPreInitializationEvent to mod mcp
-[00:53:09] [Server thread/DEBUG] [FML]: Bar Step: PreInitialization - Minecraft Coder Pack took 0.001s
-[00:53:09] [Server thread/TRACE] [FML]: Sending event FMLPreInitializationEvent to mod FML
-[00:53:09] [Server thread/TRACE] [FML]: Sent event FMLPreInitializationEvent to mod FML
-[00:53:09] [Server thread/DEBUG] [FML]: Bar Step: PreInitialization - Forge Mod Loader took 0.001s
-[00:53:09] [Server thread/TRACE] [FML]: Sending event FMLPreInitializationEvent to mod forge
-[00:53:09] [Server thread/INFO] [FML]: Configured a dormant chunk cache size of 0
-[00:53:09] [Server thread/TRACE] [FML]: Sent event FMLPreInitializationEvent to mod forge
-[00:53:09] [Server thread/DEBUG] [FML]: Bar Step: PreInitialization - Minecraft Forge took 0.068s
-[00:53:09] [Server thread/DEBUG] [FML]: Bar Finished: PreInitialization took 0.071s
-[00:53:09] [Server thread/INFO] [FML]: Applying holder lookups
-[00:53:09] [Server thread/INFO] [FML]: Holder lookups applied
-[00:53:09] [Server thread/INFO] [FML]: Applying holder lookups
-[00:53:09] [Forge Version Check/INFO] [forge.VersionCheck]: [forge] Starting version check at http://files.minecraftforge.net/maven/net/minecraftforge/forge/promotions_slim.json
-[00:53:09] [Server thread/INFO] [FML]: Holder lookups applied
-[00:53:09] [Server thread/INFO] [FML]: Applying holder lookups
-[00:53:09] [Server thread/INFO] [FML]: Holder lookups applied
-[00:53:09] [Server thread/INFO] [FML]: Applying holder lookups
-[00:53:09] [Server thread/INFO] [FML]: Holder lookups applied
-[00:53:09] [Server thread/INFO] [FML]: Injecting itemstacks
-[00:53:09] [Server thread/INFO] [FML]: Itemstack injection complete
-[00:53:09] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Loading properties
-[00:53:09] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Default game type: SURVIVAL
-[00:53:09] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Generating keypair
-[00:53:09] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Starting Minecraft server on *:25565
-[00:53:10] [Server thread/INFO] [net.minecraft.network.NetworkSystem]: Using epoll channel type
-[00:53:10] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
-[00:53:10] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer]: The server will make no attempt to authenticate usernames. Beware.
-[00:53:10] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
-[00:53:10] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer]: To change this, set "online-mode" to "true" in the server.properties file.
-[00:53:10] [Server thread/INFO] [FML]: Applying holder lookups
-[00:53:10] [Server thread/INFO] [FML]: Holder lookups applied
-[00:53:10] [Server thread/TRACE] [FML]: Sending event FMLInitializationEvent to mod minecraft
-[00:53:10] [Server thread/TRACE] [FML]: Sent event FMLInitializationEvent to mod minecraft
-[00:53:10] [Server thread/DEBUG] [FML]: Bar Step: Initialization - Minecraft took 0.000s
-[00:53:10] [Server thread/TRACE] [FML]: Sending event FMLInitializationEvent to mod mcp
-[00:53:10] [Server thread/TRACE] [FML]: Sent event FMLInitializationEvent to mod mcp
-[00:53:10] [Server thread/DEBUG] [FML]: Bar Step: Initialization - Minecraft Coder Pack took 0.001s
-[00:53:10] [Server thread/TRACE] [FML]: Sending event FMLInitializationEvent to mod FML
-[00:53:10] [Server thread/TRACE] [FML]: Sent event FMLInitializationEvent to mod FML
-[00:53:10] [Server thread/DEBUG] [FML]: Bar Step: Initialization - Forge Mod Loader took 0.001s
-[00:53:10] [Server thread/TRACE] [FML]: Sending event FMLInitializationEvent to mod forge
-[00:53:10] [Server thread/TRACE] [FML]: Sent event FMLInitializationEvent to mod forge
-[00:53:10] [Server thread/DEBUG] [FML]: Bar Step: Initialization - Minecraft Forge took 0.003s
-[00:53:10] [Server thread/DEBUG] [FML]: Bar Finished: Initialization took 0.005s
-[00:53:10] [Server thread/TRACE] [FML]: Attempting to deliver 0 IMC messages to mod minecraft
-[00:53:10] [Server thread/TRACE] [FML]: Sending event IMCEvent to mod minecraft
-[00:53:10] [Server thread/TRACE] [FML]: Sent event IMCEvent to mod minecraft
-[00:53:10] [Server thread/DEBUG] [FML]: Bar Step: InterModComms$IMC - Minecraft took 0.018s
-[00:53:10] [Server thread/TRACE] [FML]: Attempting to deliver 0 IMC messages to mod mcp
-[00:53:10] [Server thread/TRACE] [FML]: Sending event IMCEvent to mod mcp
-[00:53:10] [Server thread/TRACE] [FML]: Sent event IMCEvent to mod mcp
-[00:53:10] [Server thread/DEBUG] [FML]: Bar Step: InterModComms$IMC - Minecraft Coder Pack took 0.001s
-[00:53:10] [Server thread/TRACE] [FML]: Attempting to deliver 0 IMC messages to mod FML
-[00:53:10] [Server thread/TRACE] [FML]: Sending event IMCEvent to mod FML
-[00:53:10] [Server thread/TRACE] [FML]: Sent event IMCEvent to mod FML
-[00:53:10] [Server thread/DEBUG] [FML]: Bar Step: InterModComms$IMC - Forge Mod Loader took 0.001s
-[00:53:10] [Server thread/TRACE] [FML]: Attempting to deliver 0 IMC messages to mod forge
-[00:53:10] [Server thread/TRACE] [FML]: Sending event IMCEvent to mod forge
-[00:53:10] [Server thread/TRACE] [FML]: Sent event IMCEvent to mod forge
-[00:53:10] [Server thread/DEBUG] [FML]: Bar Step: InterModComms$IMC - Minecraft Forge took 0.001s
-[00:53:10] [Server thread/DEBUG] [FML]: Bar Finished: InterModComms$IMC took 0.020s
-[00:53:10] [Server thread/INFO] [FML]: Injecting itemstacks
-[00:53:10] [Server thread/INFO] [FML]: Itemstack injection complete
-[00:53:10] [Server thread/TRACE] [FML]: Sending event FMLPostInitializationEvent to mod minecraft
-[00:53:10] [Server thread/TRACE] [FML]: Sent event FMLPostInitializationEvent to mod minecraft
-[00:53:10] [Server thread/DEBUG] [FML]: Bar Step: PostInitialization - Minecraft took 0.000s
-[00:53:10] [Server thread/TRACE] [FML]: Sending event FMLPostInitializationEvent to mod mcp
-[00:53:10] [Server thread/TRACE] [FML]: Sent event FMLPostInitializationEvent to mod mcp
-[00:53:10] [Server thread/DEBUG] [FML]: Bar Step: PostInitialization - Minecraft Coder Pack took 0.001s
-[00:53:10] [Server thread/TRACE] [FML]: Sending event FMLPostInitializationEvent to mod FML
-[00:53:10] [Server thread/TRACE] [FML]: Sent event FMLPostInitializationEvent to mod FML
-[00:53:10] [Server thread/DEBUG] [FML]: Bar Step: PostInitialization - Forge Mod Loader took 0.001s
-[00:53:10] [Server thread/TRACE] [FML]: Sending event FMLPostInitializationEvent to mod forge
-[00:53:10] [Server thread/TRACE] [FML]: Sent event FMLPostInitializationEvent to mod forge
-[00:53:10] [Server thread/DEBUG] [FML]: Bar Step: PostInitialization - Minecraft Forge took 0.020s
-[00:53:10] [Server thread/DEBUG] [FML]: Bar Finished: PostInitialization took 0.022s
-[00:53:10] [Server thread/TRACE] [FML]: Sending event FMLLoadCompleteEvent to mod minecraft
-[00:53:10] [Server thread/TRACE] [FML]: Sent event FMLLoadCompleteEvent to mod minecraft
-[00:53:10] [Server thread/DEBUG] [FML]: Bar Step: LoadComplete - Minecraft took 0.000s
-[00:53:10] [Server thread/TRACE] [FML]: Sending event FMLLoadCompleteEvent to mod mcp
-[00:53:10] [Server thread/TRACE] [FML]: Sent event FMLLoadCompleteEvent to mod mcp
-[00:53:10] [Server thread/DEBUG] [FML]: Bar Step: LoadComplete - Minecraft Coder Pack took 0.001s
-[00:53:10] [Server thread/TRACE] [FML]: Sending event FMLLoadCompleteEvent to mod FML
-[00:53:10] [Server thread/TRACE] [FML]: Sent event FMLLoadCompleteEvent to mod FML
-[00:53:10] [Server thread/DEBUG] [FML]: Bar Step: LoadComplete - Forge Mod Loader took 0.001s
-[00:53:10] [Server thread/TRACE] [FML]: Sending event FMLLoadCompleteEvent to mod forge
-[00:53:10] [Server thread/DEBUG] [FML]: Forge RecipeSorter Baking:
-[00:53:10] [Server thread/DEBUG] [FML]:   16: RecipeEntry("Before", UNKNOWN, )
-[00:53:10] [Server thread/DEBUG] [FML]:   15: RecipeEntry("minecraft:shaped", SHAPED, net.minecraft.item.crafting.ShapedRecipes) Before: minecraft:shapeless
-[00:53:10] [Server thread/DEBUG] [FML]:   14: RecipeEntry("forge:shapedore", SHAPED, net.minecraftforge.oredict.ShapedOreRecipe) Before: minecraft:shapeless After: minecraft:shaped
-[00:53:10] [Server thread/DEBUG] [FML]:   13: RecipeEntry("minecraft:mapextending", SHAPED, net.minecraft.item.crafting.RecipesMapExtending) Before: minecraft:shapeless After: minecraft:shaped
-[00:53:10] [Server thread/DEBUG] [FML]:   12: RecipeEntry("minecraft:shapeless", SHAPELESS, net.minecraft.item.crafting.ShapelessRecipes) After: minecraft:shaped
-[00:53:10] [Server thread/DEBUG] [FML]:   11: RecipeEntry("minecraft:repair", SHAPELESS, net.minecraft.item.crafting.RecipeRepairItem) After: minecraft:shapeless
-[00:53:10] [Server thread/DEBUG] [FML]:   10: RecipeEntry("minecraft:shield_deco", SHAPELESS, net.minecraft.item.crafting.ShieldRecipes$Decoration) After: minecraft:shapeless
-[00:53:10] [Server thread/DEBUG] [FML]:   9: RecipeEntry("minecraft:armordyes", SHAPELESS, net.minecraft.item.crafting.RecipesArmorDyes) After: minecraft:shapeless
-[00:53:10] [Server thread/DEBUG] [FML]:   8: RecipeEntry("minecraft:fireworks", SHAPELESS, net.minecraft.item.crafting.RecipeFireworks) After: minecraft:shapeless
-[00:53:10] [Server thread/DEBUG] [FML]:   7: RecipeEntry("minecraft:pattern_dupe", SHAPELESS, net.minecraft.item.crafting.RecipesBanners$RecipeDuplicatePattern) After: minecraft:shapeless
-[00:53:10] [Server thread/DEBUG] [FML]:   6: RecipeEntry("minecraft:tippedarrow", SHAPELESS, net.minecraft.item.crafting.RecipeTippedArrow) After: minecraft:shapeless
-[00:53:10] [Server thread/DEBUG] [FML]:   5: RecipeEntry("minecraft:mapcloning", SHAPELESS, net.minecraft.item.crafting.RecipesMapCloning) After: minecraft:shapeless
-[00:53:10] [Server thread/DEBUG] [FML]:   4: RecipeEntry("forge:shapelessore", SHAPELESS, net.minecraftforge.oredict.ShapelessOreRecipe) After: minecraft:shapeless
-[00:53:10] [Server thread/DEBUG] [FML]:   3: RecipeEntry("minecraft:pattern_add", SHAPELESS, net.minecraft.item.crafting.RecipesBanners$RecipeAddPattern) After: minecraft:shapeless
-[00:53:10] [Server thread/DEBUG] [FML]:   2: RecipeEntry("minecraft:bookcloning", SHAPELESS, net.minecraft.item.crafting.RecipeBookCloning) After: minecraft:shapeless
-[00:53:10] [Server thread/DEBUG] [FML]:   1: RecipeEntry("After", UNKNOWN, )
-[00:53:10] [Server thread/DEBUG] [FML]: Sorting recipes
-[00:53:10] [Server thread/TRACE] [FML]: Sent event FMLLoadCompleteEvent to mod forge
-[00:53:10] [Server thread/DEBUG] [FML]: Bar Step: LoadComplete - Minecraft Forge took 0.017s
-[00:53:10] [Server thread/DEBUG] [FML]: Bar Finished: LoadComplete took 0.018s
-[00:53:10] [Server thread/DEBUG] [FML]: Freezing registries
-[00:53:10] [Server thread/TRACE] [FML]: Sending event FMLModIdMappingEvent to mod minecraft
-[00:53:10] [Server thread/TRACE] [FML]: Sent event FMLModIdMappingEvent to mod minecraft
-[00:53:10] [Server thread/DEBUG] [FML]: Bar Step: ModIdMapping - Minecraft took 0.002s
-[00:53:10] [Server thread/TRACE] [FML]: Sending event FMLModIdMappingEvent to mod mcp
-[00:53:10] [Server thread/TRACE] [FML]: Sent event FMLModIdMappingEvent to mod mcp
-[00:53:10] [Server thread/DEBUG] [FML]: Bar Step: ModIdMapping - Minecraft Coder Pack took 0.002s
-[00:53:10] [Server thread/TRACE] [FML]: Sending event FMLModIdMappingEvent to mod FML
-[00:53:10] [Server thread/TRACE] [FML]: Sent event FMLModIdMappingEvent to mod FML
-[00:53:10] [Server thread/DEBUG] [FML]: Bar Step: ModIdMapping - Forge Mod Loader took 0.001s
-[00:53:10] [Server thread/TRACE] [FML]: Sending event FMLModIdMappingEvent to mod forge
-[00:53:10] [Server thread/TRACE] [FML]: Sent event FMLModIdMappingEvent to mod forge
-[00:53:10] [Server thread/DEBUG] [FML]: Bar Step: ModIdMapping - Minecraft Forge took 0.053s
-[00:53:10] [Server thread/DEBUG] [FML]: Bar Finished: ModIdMapping took 0.057s
-[00:53:10] [Server thread/DEBUG] [FML]: All registries frozen
-[00:53:10] [Server thread/INFO] [FML]: Forge Mod Loader has successfully loaded 4 mods
-[00:53:10] [Server thread/TRACE] [FML]: Sending event FMLServerAboutToStartEvent to mod minecraft
-[00:53:10] [Server thread/TRACE] [FML]: Sent event FMLServerAboutToStartEvent to mod minecraft
-[00:53:10] [Server thread/DEBUG] [FML]: Bar Step: ServerAboutToStart - Minecraft took 0.000s
-[00:53:10] [Server thread/TRACE] [FML]: Sending event FMLServerAboutToStartEvent to mod mcp
-[00:53:10] [Server thread/TRACE] [FML]: Sent event FMLServerAboutToStartEvent to mod mcp
-[00:53:10] [Server thread/DEBUG] [FML]: Bar Step: ServerAboutToStart - Minecraft Coder Pack took 0.001s
-[00:53:10] [Server thread/TRACE] [FML]: Sending event FMLServerAboutToStartEvent to mod FML
-[00:53:10] [Server thread/TRACE] [FML]: Sent event FMLServerAboutToStartEvent to mod FML
-[00:53:10] [Server thread/DEBUG] [FML]: Bar Step: ServerAboutToStart - Forge Mod Loader took 0.000s
-[00:53:10] [Server thread/TRACE] [FML]: Sending event FMLServerAboutToStartEvent to mod forge
-[00:53:10] [Server thread/TRACE] [FML]: Sent event FMLServerAboutToStartEvent to mod forge
-[00:53:10] [Server thread/DEBUG] [FML]: Bar Step: ServerAboutToStart - Minecraft Forge took 0.000s
-[00:53:10] [Server thread/DEBUG] [FML]: Bar Finished: ServerAboutToStart took 0.002s
-[00:53:10] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Preparing level "world"
-[00:53:10] [Forge Version Check/DEBUG] [forge.VersionCheck]: [forge] Received version check data:
-{
-  "homepage": "https://files.minecraftforge.net/net/minecraftforge/forge/",
-  "promos": {
-    "1.1-latest": "1.3.4.29",
-    "1.2.3-latest": "1.4.1.64",
-    "1.2.4-latest": "2.0.0.68",
-    "1.2.5-latest": "3.4.9.171",
-    "1.3.2-latest": "4.3.5.318",
-    "1.4.0-latest": "5.0.0.326",
-    "1.4.1-latest": "6.0.0.329",
-    "1.4.2-latest": "6.0.1.355",
-    "1.4.3-latest": "6.2.1.358",
-    "1.4.4-latest": "6.3.0.378",
-    "1.4.5-latest": "6.4.2.448",
-    "1.4.6-latest": "6.5.0.489",
-    "1.4.7-latest": "6.6.2.534",
-    "1.5-latest": "7.7.0.598",
-    "1.5.1-latest": "7.7.2.682",
-    "1.5.2-latest": "7.8.1.738",
-    "1.5.2-recommended": "7.8.1.738",
-    "1.6.1-latest": "8.9.0.775",
-    "1.6.2-latest": "9.10.1.871",
-    "1.6.2-recommended": "9.10.1.871",
-    "1.6.3-latest": "9.11.0.878",
-    "1.6.4-latest": "9.11.1.1345",
-    "1.6.4-recommended": "9.11.1.1345",
-    "1.7.2-latest": "10.12.2.1161",
-    "1.7.2-recommended": "10.12.2.1161",
-    "1.7.10_pre4-latest": "10.12.2.1149",
-    "1.7.10-latest": "10.13.4.1614",
-    "1.7.10-recommended": "10.13.4.1614",
-    "1.8-latest": "11.14.4.1577",
-    "1.8-recommended": "11.14.4.1563",
-    "1.8.8-latest": "11.15.0.1655",
-    "1.8.9-latest": "11.15.1.2318",
-    "1.8.9-recommended": "11.15.1.2318",
-    "1.9-latest": "12.16.1.1938",
-    "1.9-recommended": "12.16.1.1887",
-    "1.9.4-latest": "12.17.0.2317",
-    "1.9.4-recommended": "12.17.0.2317",
-    "1.10-latest": "12.18.0.2000",
-    "1.10.2-latest": "12.18.3.2511",
-    "1.10.2-recommended": "12.18.3.2511",
-    "1.11-latest": "13.19.1.2199",
-    "1.11-recommended": "13.19.1.2189",
-    "1.11.2-latest": "13.20.1.2588",
-    "1.11.2-recommended": "13.20.1.2588",
-    "1.12-latest": "14.21.1.2443",
-    "1.12-recommended": "14.21.1.2387",
-    "1.12.1-latest": "14.22.1.2485",
-    "1.12.1-recommended": "14.22.1.2478",
-    "1.12.2-latest": "14.23.5.2860",
-    "1.12.2-recommended": "14.23.5.2859",
-    "1.13.2-latest": "25.0.223",
-    "1.14.2-latest": "26.0.63",
-    "1.14.3-latest": "27.0.60",
-    "1.14.4-latest": "28.2.26",
-    "1.14.4-recommended": "28.2.26",
-    "1.15-latest": "29.0.4",
-    "1.15.1-latest": "30.0.51",
-    "1.15.2-latest": "31.2.57",
-    "1.15.2-recommended": "31.2.57",
-    "1.16.1-latest": "32.0.108",
-    "1.16.2-latest": "33.0.61",
-    "1.16.3-latest": "34.1.42",
-    "1.16.3-recommended": "34.1.0",
-    "1.16.4-latest": "35.1.37",
-    "1.16.4-recommended": "35.1.4",
-    "1.16.5-latest": "36.2.42",
-    "1.16.5-recommended": "36.2.34",
-    "1.17.1-latest": "37.1.1",
-    "1.17.1-recommended": "37.1.1",
-    "1.18-latest": "38.0.17",
-    "1.18.1-latest": "39.1.2",
-    "1.18.1-recommended": "39.1.0",
-    "1.18.2-recommended": "40.2.0",
-    "1.18.2-latest": "40.2.26",
-    "1.19-latest": "41.1.0",
-    "1.19-recommended": "41.1.0",
-    "1.19.1-latest": "42.0.9",
-    "1.19.2-recommended": "43.4.0",
-    "1.19.2-latest": "43.4.6",
-    "1.19.3-latest": "44.1.23",
-    "1.19.3-recommended": "44.1.0",
-    "1.19.4-recommended": "45.3.0",
-    "1.19.4-latest": "45.3.9",
-    "1.20-latest": "46.0.14",
-    "1.20.1-recommended": "47.3.0",
-    "1.20.1-latest": "47.3.12",
-    "1.20.2-latest": "48.1.0",
-    "1.20.2-recommended": "48.1.0",
-    "1.20.3-latest": "49.0.2",
-    "1.20.4-latest": "49.1.13",
-    "1.20.4-recommended": "49.1.0",
-    "1.20.6-latest": "50.1.23",
-    "1.20.6-recommended": "50.1.0",
-    "1.21-latest": "51.0.33",
-    "1.21.1-latest": "52.0.28",
-    "1.21.3-latest": "53.0.25",
-    "1.21.4-latest": "54.0.6"
-  }
-}
-[00:53:10] [Forge Version Check/INFO] [forge.VersionCheck]: [forge] Found status: AHEAD Target: null
-[00:53:10] [Server thread/INFO] [FML]: Loading dimension 0 (world) (net.minecraft.server.dedicated.DedicatedServer@2275a59e)
-[00:53:11] [Server thread/INFO] [net.minecraft.advancements.AdvancementList]: Loaded 488 advancements
-[00:53:11] [Server thread/WARN] [net.minecraft.world.WorldServer]: Unable to find spawn biome
-[00:53:13] [Server thread/INFO] [FML]: Loading dimension -1 (world) (net.minecraft.server.dedicated.DedicatedServer@2275a59e)
-[00:53:13] [Server thread/INFO] [FML]: Loading dimension 1 (world) (net.minecraft.server.dedicated.DedicatedServer@2275a59e)
-[00:53:13] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Preparing start region for level 0
-[00:53:14] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Preparing spawn area: 9%
-[00:53:15] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Preparing spawn area: 20%
-[00:53:16] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Preparing spawn area: 37%
-[00:53:17] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Preparing spawn area: 50%
-[00:53:18] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Preparing spawn area: 65%
-[00:53:19] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Preparing spawn area: 80%
-[00:53:20] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Preparing spawn area: 99%
-[00:53:20] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Done (10.439s)! For help, type "help" or "?"
-[00:53:20] [Server thread/TRACE] [FML]: Sending event FMLServerStartingEvent to mod minecraft
-[00:53:20] [Server thread/TRACE] [FML]: Sent event FMLServerStartingEvent to mod minecraft
-[00:53:20] [Server thread/DEBUG] [FML]: Bar Step: ServerStarting - Minecraft took 0.000s
-[00:53:20] [Server thread/TRACE] [FML]: Sending event FMLServerStartingEvent to mod mcp
-[00:53:20] [Server thread/TRACE] [FML]: Sent event FMLServerStartingEvent to mod mcp
-[00:53:20] [Server thread/DEBUG] [FML]: Bar Step: ServerStarting - Minecraft Coder Pack took 0.001s
-[00:53:20] [Server thread/TRACE] [FML]: Sending event FMLServerStartingEvent to mod FML
-[00:53:20] [Server thread/TRACE] [FML]: Sent event FMLServerStartingEvent to mod FML
-[00:53:20] [Server thread/DEBUG] [FML]: Bar Step: ServerStarting - Forge Mod Loader took 0.001s
-[00:53:20] [Server thread/TRACE] [FML]: Sending event FMLServerStartingEvent to mod forge
-[00:53:20] [Server thread/TRACE] [FML]: Sent event FMLServerStartingEvent to mod forge
-[00:53:20] [Server thread/DEBUG] [FML]: Bar Step: ServerStarting - Minecraft Forge took 0.028s
-[00:53:20] [Server thread/DEBUG] [FML]: Bar Finished: ServerStarting took 0.030s
-[00:53:20] [Server thread/TRACE] [FML]: Sending event FMLServerStartedEvent to mod minecraft
-[00:53:20] [Server thread/TRACE] [FML]: Sent event FMLServerStartedEvent to mod minecraft
-[00:53:20] [Server thread/DEBUG] [FML]: Bar Step: ServerStarted - Minecraft took 0.000s
-[00:53:20] [Server thread/TRACE] [FML]: Sending event FMLServerStartedEvent to mod mcp
-[00:53:20] [Server thread/TRACE] [FML]: Sent event FMLServerStartedEvent to mod mcp
-[00:53:20] [Server thread/DEBUG] [FML]: Bar Step: ServerStarted - Minecraft Coder Pack took 0.001s
-[00:53:20] [Server thread/TRACE] [FML]: Sending event FMLServerStartedEvent to mod FML
-[00:53:20] [Server thread/TRACE] [FML]: Sent event FMLServerStartedEvent to mod FML
-[00:53:20] [Server thread/DEBUG] [FML]: Bar Step: ServerStarted - Forge Mod Loader took 0.001s
-[00:53:20] [Server thread/TRACE] [FML]: Sending event FMLServerStartedEvent to mod forge
-[00:53:20] [Server thread/TRACE] [FML]: Sent event FMLServerStartedEvent to mod forge
-[00:53:20] [Server thread/DEBUG] [FML]: Bar Step: ServerStarted - Minecraft Forge took 0.001s
-[00:53:20] [Server thread/DEBUG] [FML]: Bar Finished: ServerStarted took 0.002s
-[00:53:21] [Server thread/DEBUG] [FML]: Queueing dimension -1 to unload
-[00:53:21] [Server thread/DEBUG] [FML]: Queueing dimension 1 to unload
-[00:53:21] [Server thread/INFO] [FML]: Unloading dimension -1
-[00:53:21] [Server thread/INFO] [FML]: Unloading dimension 1
-[00:53:57] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Stopping the server
-[00:53:57] [Server thread/TRACE] [FML]: Sending event FMLServerStoppingEvent to mod minecraft
-[00:53:57] [Server thread/TRACE] [FML]: Sent event FMLServerStoppingEvent to mod minecraft
-[00:53:57] [Server thread/DEBUG] [FML]: Bar Step: ServerStopping - Minecraft took 0.000s
-[00:53:57] [Server thread/TRACE] [FML]: Sending event FMLServerStoppingEvent to mod mcp
-[00:53:57] [Server thread/TRACE] [FML]: Sent event FMLServerStoppingEvent to mod mcp
-[00:53:57] [Server thread/DEBUG] [FML]: Bar Step: ServerStopping - Minecraft Coder Pack took 0.000s
-[00:53:57] [Server thread/TRACE] [FML]: Sending event FMLServerStoppingEvent to mod FML
-[00:53:57] [Server thread/TRACE] [FML]: Sent event FMLServerStoppingEvent to mod FML
-[00:53:57] [Server thread/DEBUG] [FML]: Bar Step: ServerStopping - Forge Mod Loader took 0.000s
-[00:53:57] [Server thread/TRACE] [FML]: Sending event FMLServerStoppingEvent to mod forge
-[00:53:57] [Server thread/TRACE] [FML]: Sent event FMLServerStoppingEvent to mod forge
-[00:53:57] [Server thread/DEBUG] [FML]: Bar Step: ServerStopping - Minecraft Forge took 0.000s
-[00:53:57] [Server thread/DEBUG] [FML]: Bar Finished: ServerStopping took 0.001s
-[00:53:57] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Stopping server
-[00:53:57] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Saving players
-[00:53:57] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Saving worlds
-[00:53:57] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Saving chunks for level 'world'/overworld
-[00:53:57] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
-[00:53:58] [Server thread/INFO] [FML]: Unloading dimension 0
-[00:53:58] [Server thread/TRACE] [FML]: Sending event FMLServerStoppedEvent to mod minecraft
-[00:53:58] [Server thread/TRACE] [FML]: Sent event FMLServerStoppedEvent to mod minecraft
-[00:53:58] [Server thread/DEBUG] [FML]: Bar Step: ServerStopped - Minecraft took 0.000s
-[00:53:58] [Server thread/TRACE] [FML]: Sending event FMLServerStoppedEvent to mod mcp
-[00:53:58] [Server thread/TRACE] [FML]: Sent event FMLServerStoppedEvent to mod mcp
-[00:53:58] [Server thread/DEBUG] [FML]: Bar Step: ServerStopped - Minecraft Coder Pack took 0.000s
-[00:53:58] [Server thread/TRACE] [FML]: Sending event FMLServerStoppedEvent to mod FML
-[00:53:58] [Server thread/TRACE] [FML]: Sent event FMLServerStoppedEvent to mod FML
-[00:53:58] [Server thread/DEBUG] [FML]: Bar Step: ServerStopped - Forge Mod Loader took 0.000s
-[00:53:58] [Server thread/TRACE] [FML]: Sending event FMLServerStoppedEvent to mod forge
-[00:53:58] [Server thread/TRACE] [FML]: Sent event FMLServerStoppedEvent to mod forge
-[00:53:58] [Server thread/DEBUG] [FML]: Bar Step: ServerStopped - Minecraft Forge took 0.000s
-[00:53:58] [Server thread/DEBUG] [FML]: Bar Finished: ServerStopped took 0.001s
-[00:53:58] [Server Shutdown Thread/INFO] [net.minecraft.server.MinecraftServer]: Stopping server
+[00:57:30] [main/INFO] [LaunchWrapper]: Loading tweak class name net.minecraftforge.fml.common.launcher.FMLServerTweaker
+[00:57:30] [main/INFO] [LaunchWrapper]: Using primary tweak class name net.minecraftforge.fml.common.launcher.FMLServerTweaker
+[00:57:30] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.common.launcher.FMLServerTweaker
+[00:57:30] [main/DEBUG] [FML]: Injecting tracing printstreams for STDOUT/STDERR.
+[00:57:30] [main/INFO] [FML]: Forge Mod Loader version 14.23.5.2860 for Minecraft 1.12.2 loading
+[00:57:30] [main/INFO] [FML]: Java is OpenJDK 64-Bit Server VM, version 1.8.0_432, running on Linux:amd64:6.5.0-1025-azure, installed at /usr/lib/jvm/java-8-openjdk-amd64/jre
+[00:57:30] [main/DEBUG] [FML]: Java classpath at launch is:
+[00:57:30] [main/DEBUG] [FML]:     /workspaces/shawnfrost77/servidor_minecraft/forge-1.12.2-14.23.5.2860.jar
+[00:57:30] [main/DEBUG] [FML]: Java library path at launch is:
+[00:57:30] [main/DEBUG] [FML]:     /tmp/_MEI5Pxoj7
+[00:57:30] [main/DEBUG] [FML]:     /usr/java/packages/lib/amd64
+[00:57:30] [main/DEBUG] [FML]:     /usr/lib/x86_64-linux-gnu/jni
+[00:57:30] [main/DEBUG] [FML]:     /lib/x86_64-linux-gnu
+[00:57:30] [main/DEBUG] [FML]:     /usr/lib/x86_64-linux-gnu
+[00:57:30] [main/DEBUG] [FML]:     /usr/lib/jni
+[00:57:30] [main/DEBUG] [FML]:     /lib
+[00:57:30] [main/DEBUG] [FML]:     /usr/lib
+[00:57:30] [main/DEBUG] [FML]: Determined Minecraft Libraries Root: /workspaces/shawnfrost77/servidor_minecraft/libraries
+[00:57:30] [main/DEBUG] [FML]: Cleaning up mods folder: ./mods
+[00:57:30] [main/DEBUG] [FML]: Examining file: betteranimalsplus-1.12.2-9.0.1.jar
+[00:57:30] [main/DEBUG] [FML]: Making maven link for dev.itsmeow.betteranimalsplus:betteranimalsplus:1.12.2-9.0.1 in memory to /workspaces/shawnfrost77/servidor_minecraft/./mods/betteranimalsplus-1.12.2-9.0.1.jar.
+[00:57:30] [main/DEBUG] [FML]: Examining file: TravelersBackpack-1.12.2-1.0.35.jar
+[00:57:30] [main/DEBUG] [FML]: Examining file: PlayerRevive_v1.2.40_mc1.12.2.jar
+[00:57:30] [main/DEBUG] [FML]: Examining file: DynamicTrees-1.12.2-0.9.29.jar
+[00:57:30] [main/DEBUG] [FML]: Examining file: gravestone-1.10.3.jar
+[00:57:30] [main/DEBUG] [FML]: Examining file: tl_skin_cape_forge_1.16.5-1.19.jar
+[00:57:30] [main/DEBUG] [FML]: Examining file: jeiintegration_1.12.2-1.6.0.jar
+[00:57:30] [main/DEBUG] [FML]: Examining file: WolfArmorAndStorage-1.12.2-3.8.0-universal-signed.jar
+[00:57:30] [main/DEBUG] [FML]: Examining file: Baubles-1.12-1.5.2.jar
+[00:57:30] [main/DEBUG] [FML]: Examining file: RoguelikeDungeons-1.12.2-1.8.0.jar
+[00:57:30] [main/DEBUG] [FML]: Examining file: tl_skin_cape_forge_1.21.3-1.35.jar
+[00:57:30] [main/DEBUG] [FML]: Examining file: jei_1.12.2-4.16.1.1000.jar
+[00:57:30] [main/DEBUG] [FML]: Examining file: OpenBlocks-1.12.2-1.8.1.jar
+[00:57:30] [main/DEBUG] [FML]: Examining file: xptome-1.12.2-v2.0.1.jar
+[00:57:30] [main/DEBUG] [FML]: Examining file: exp_bottling-1.12.2-3.jar
+[00:57:30] [main/DEBUG] [FML]: Examining file: Hwyla-1.8.26-B41_1.12.2.jar
+[00:57:30] [main/DEBUG] [FML]: Examining file: MCA-Español-1.12.2.jar
+[00:57:30] [main/DEBUG] [FML]: Examining file: DurabilityViewer-1.12-forge14.21.1.2387-1.6.jar
+[00:57:30] [main/DEBUG] [FML]: Examining file: RadixCore-1.12.x-2.2.1-universal.jar
+[00:57:30] [main/DEBUG] [FML]: Examining file: astralsorcery-1.12.2-1.10.27.jar
+[00:57:31] [main/DEBUG] [FML]: Examining file: ElevatorMod-1.12.2-1.3.14.jar
+[00:57:31] [main/DEBUG] [FML]: Examining file: OpenModsLib-1.12.2-0.12.2.jar
+[00:57:31] [main/DEBUG] [FML]: Examining file: [1.12.2]+SecurityCraft+v1.9.8.jar
+[00:57:31] [main/DEBUG] [FML]: Examining file: MedievalCraft-1.12.2-1.18.1.jar
+[00:57:31] [main/DEBUG] [FML]: Examining file: journeymap-1.12.2-5.7.1.jar
+[00:57:31] [main/DEBUG] [FML]: Examining file: HammerLib-1.12.2-12.2.46.jar
+[00:57:31] [main/DEBUG] [FML]: Examining file: ImprovableSkills-1.12.2-12.4.68.jar
+[00:57:31] [main/DEBUG] [FML]: Examining file: ElectroblobsWizardry-4.3.11.jar
+[00:57:31] [main/DEBUG] [FML]: Examining file: TubeTransportSystem_1.7.10-0.6.jar
+[00:57:31] [main/DEBUG] [FML]: Examining file: EvilCraft-1.12.2-0.10.78.jar
+[00:57:31] [main/DEBUG] [FML]: Examining file: Vampirism-1.12.2-1.6.2.jar
+[00:57:31] [main/DEBUG] [FML]: Examining file: backpacks+1.12.2+-+3.5.12.jar
+[00:57:31] [main/DEBUG] [FML]: Examining file: CreativeCore_v1.10.71_mc1.12.2.jar
+[00:57:31] [main/DEBUG] [FML]: Examining file: CyclopsCore-1.12.2-1.6.7.jar
+[00:57:31] [main/DEBUG] [FML]: File already proccessed /workspaces/shawnfrost77/servidor_minecraft/./mods/betteranimalsplus-1.12.2-9.0.1.jar, Skipping
+[00:57:31] [main/DEBUG] [FML]: Enabling runtime deobfuscation
+[00:57:31] [main/DEBUG] [FML]: Instantiating coremod class FMLCorePlugin
+[00:57:31] [main/DEBUG] [FML]: Found signing certificates for coremod FMLCorePlugin (net.minecraftforge.fml.relauncher.FMLCorePlugin)
+[00:57:31] [main/DEBUG] [FML]: Found certificate e3c3d50c7c986df74c645c0ac54639741c90a557
+[00:57:31] [main/DEBUG] [FML]: Added access transformer class net.minecraftforge.fml.common.asm.transformers.AccessTransformer to enqueued access transformers
+[00:57:31] [main/DEBUG] [FML]: Enqueued coremod FMLCorePlugin
+[00:57:31] [main/DEBUG] [FML]: Instantiating coremod class FMLForgePlugin
+[00:57:31] [main/DEBUG] [FML]: Found signing certificates for coremod FMLForgePlugin (net.minecraftforge.classloading.FMLForgePlugin)
+[00:57:31] [main/DEBUG] [FML]: Found certificate e3c3d50c7c986df74c645c0ac54639741c90a557
+[00:57:31] [main/DEBUG] [FML]: Enqueued coremod FMLForgePlugin
+[00:57:31] [main/DEBUG] [FML]: All fundamental core mods are successfully located
+[00:57:31] [main/DEBUG] [FML]: Discovering coremods
+[00:57:31] [main/INFO] [FML]: Searching /workspaces/shawnfrost77/servidor_minecraft/./mods for mods
+[00:57:31] [main/DEBUG] [FML]:   Adding betteranimalsplus-1.12.2-9.0.1.jar to the mod list
+[00:57:31] [main/DEBUG] [FML]:   Adding TravelersBackpack-1.12.2-1.0.35.jar to the mod list
+[00:57:31] [main/DEBUG] [FML]:   Adding PlayerRevive_v1.2.40_mc1.12.2.jar to the mod list
+[00:57:31] [main/DEBUG] [FML]:   Adding DynamicTrees-1.12.2-0.9.29.jar to the mod list
+[00:57:31] [main/DEBUG] [FML]:   Adding gravestone-1.10.3.jar to the mod list
+[00:57:31] [main/DEBUG] [FML]:   Adding tl_skin_cape_forge_1.16.5-1.19.jar to the mod list
+[00:57:31] [main/DEBUG] [FML]:   Adding jeiintegration_1.12.2-1.6.0.jar to the mod list
+[00:57:31] [main/DEBUG] [FML]:   Adding WolfArmorAndStorage-1.12.2-3.8.0-universal-signed.jar to the mod list
+[00:57:31] [main/DEBUG] [FML]:   Adding Baubles-1.12-1.5.2.jar to the mod list
+[00:57:31] [main/DEBUG] [FML]:   Adding RoguelikeDungeons-1.12.2-1.8.0.jar to the mod list
+[00:57:31] [main/DEBUG] [FML]:   Adding tl_skin_cape_forge_1.21.3-1.35.jar to the mod list
+[00:57:31] [main/DEBUG] [FML]:   Adding jei_1.12.2-4.16.1.1000.jar to the mod list
+[00:57:31] [main/DEBUG] [FML]:   Adding OpenBlocks-1.12.2-1.8.1.jar to the mod list
+[00:57:31] [main/DEBUG] [FML]:   Adding xptome-1.12.2-v2.0.1.jar to the mod list
+[00:57:31] [main/DEBUG] [FML]:   Adding exp_bottling-1.12.2-3.jar to the mod list
+[00:57:31] [main/DEBUG] [FML]:   Adding Hwyla-1.8.26-B41_1.12.2.jar to the mod list
+[00:57:31] [main/DEBUG] [FML]:   Adding MCA-Español-1.12.2.jar to the mod list
+[00:57:31] [main/DEBUG] [FML]:   Adding DurabilityViewer-1.12-forge14.21.1.2387-1.6.jar to the mod list
+[00:57:31] [main/DEBUG] [FML]:   Adding RadixCore-1.12.x-2.2.1-universal.jar to the mod list
+[00:57:31] [main/DEBUG] [FML]:   Adding astralsorcery-1.12.2-1.10.27.jar to the mod list
+[00:57:31] [main/DEBUG] [FML]:   Adding ElevatorMod-1.12.2-1.3.14.jar to the mod list
+[00:57:31] [main/DEBUG] [FML]:   Adding OpenModsLib-1.12.2-0.12.2.jar to the mod list
+[00:57:31] [main/DEBUG] [FML]:   Adding [1.12.2]+SecurityCraft+v1.9.8.jar to the mod list
+[00:57:31] [main/DEBUG] [FML]:   Adding MedievalCraft-1.12.2-1.18.1.jar to the mod list
+[00:57:31] [main/DEBUG] [FML]:   Adding journeymap-1.12.2-5.7.1.jar to the mod list
+[00:57:31] [main/DEBUG] [FML]:   Adding HammerLib-1.12.2-12.2.46.jar to the mod list
+[00:57:31] [main/DEBUG] [FML]:   Adding ImprovableSkills-1.12.2-12.4.68.jar to the mod list
+[00:57:31] [main/DEBUG] [FML]:   Adding ElectroblobsWizardry-4.3.11.jar to the mod list
+[00:57:31] [main/DEBUG] [FML]:   Adding TubeTransportSystem_1.7.10-0.6.jar to the mod list
+[00:57:31] [main/DEBUG] [FML]:   Adding EvilCraft-1.12.2-0.10.78.jar to the mod list
+[00:57:31] [main/DEBUG] [FML]:   Adding Vampirism-1.12.2-1.6.2.jar to the mod list
+[00:57:31] [main/DEBUG] [FML]:   Adding backpacks+1.12.2+-+3.5.12.jar to the mod list
+[00:57:31] [main/DEBUG] [FML]:   Adding CreativeCore_v1.10.71_mc1.12.2.jar to the mod list
+[00:57:31] [main/DEBUG] [FML]:   Adding CyclopsCore-1.12.2-1.6.7.jar to the mod list
+[00:57:31] [main/DEBUG] [FML]: Examining for coremod candidacy [1.12.2]+SecurityCraft+v1.9.8.jar
+[00:57:31] [main/INFO] [FML]: Loading tweaker org.spongepowered.asm.launch.MixinTweaker from [1.12.2]+SecurityCraft+v1.9.8.jar
+[00:57:31] [main/DEBUG] [FML]: Examining for coremod candidacy astralsorcery-1.12.2-1.10.27.jar
+[00:57:31] [main/WARN] [FML]: Found FMLCorePluginContainsFMLMod marker in astralsorcery-1.12.2-1.10.27.jar. This is not recommended, @Mods should be in a separate jar from the coremod.
+[00:57:31] [main/DEBUG] [FML]: Instantiating coremod class AstralCore
+[00:57:31] [main/TRACE] [FML]: coremod named AstralCore is loading
+[00:57:31] [main/WARN] [FML]: The coremod hellfirepvp.astralsorcery.core.AstralCore does not have a MCVersion annotation, it may cause issues with this version of Minecraft
+[00:57:31] [main/DEBUG] [FML]: Found signing certificates for coremod AstralCore (hellfirepvp.astralsorcery.core.AstralCore)
+[00:57:31] [main/DEBUG] [FML]: Found certificate a0f0b759d895c15ceb3e3bcb5f3c2db7c582edf0
+[00:57:31] [main/INFO] [Astral Core]: [AstralCore] Initialized.
+[00:57:31] [main/DEBUG] [FML]: Added access transformer class hellfirepvp.astralsorcery.core.AstralTransformer to enqueued access transformers
+[00:57:31] [main/DEBUG] [FML]: Enqueued coremod AstralCore
+[00:57:31] [main/DEBUG] [FML]: Examining for coremod candidacy backpacks+1.12.2+-+3.5.12.jar
+[00:57:31] [main/WARN] [FML]: Found FMLCorePluginContainsFMLMod marker in backpacks+1.12.2+-+3.5.12.jar. This is not recommended, @Mods should be in a separate jar from the coremod.
+[00:57:31] [main/DEBUG] [FML]: Instantiating coremod class BCModPlugin
+[00:57:31] [main/DEBUG] [FML]: The coremod brad16840.core.BCModPlugin requested minecraft version 1.12.2 and minecraft is 1.12.2. It will be loaded.
+[00:57:31] [main/WARN] [FML]: The coremod BCModPlugin (brad16840.core.BCModPlugin) is not signed!
+[00:57:31] [main/DEBUG] [FML]: Enqueued coremod BCModPlugin
+[00:57:31] [main/DEBUG] [FML]: Examining for coremod candidacy Baubles-1.12-1.5.2.jar
+[00:57:31] [main/DEBUG] [FML]: Not found coremod data in Baubles-1.12-1.5.2.jar
+[00:57:31] [main/DEBUG] [FML]: Examining for coremod candidacy CreativeCore_v1.10.71_mc1.12.2.jar
+[00:57:31] [main/WARN] [FML]: Found FMLCorePluginContainsFMLMod marker in CreativeCore_v1.10.71_mc1.12.2.jar. This is not recommended, @Mods should be in a separate jar from the coremod.
+[00:57:31] [main/DEBUG] [FML]: Instantiating coremod class CreativePatchingLoader
+[00:57:31] [main/WARN] [FML]: The coremod com.creativemd.creativecore.core.CreativePatchingLoader does not have a MCVersion annotation, it may cause issues with this version of Minecraft
+[00:57:31] [main/WARN] [FML]: The coremod CreativePatchingLoader (com.creativemd.creativecore.core.CreativePatchingLoader) is not signed!
+[00:57:31] [main/DEBUG] [FML]: Enqueued coremod CreativePatchingLoader
+[00:57:31] [main/DEBUG] [FML]: Examining for coremod candidacy CyclopsCore-1.12.2-1.6.7.jar
+[00:57:31] [main/DEBUG] [FML]: Not found coremod data in CyclopsCore-1.12.2-1.6.7.jar
+[00:57:31] [main/DEBUG] [FML]: Examining for coremod candidacy DurabilityViewer-1.12-forge14.21.1.2387-1.6.jar
+[00:57:31] [main/DEBUG] [FML]: Not found coremod data in DurabilityViewer-1.12-forge14.21.1.2387-1.6.jar
+[00:57:31] [main/DEBUG] [FML]: Examining for coremod candidacy DynamicTrees-1.12.2-0.9.29.jar
+[00:57:31] [main/DEBUG] [FML]: Not found coremod data in DynamicTrees-1.12.2-0.9.29.jar
+[00:57:31] [main/DEBUG] [FML]: Examining for coremod candidacy ElectroblobsWizardry-4.3.11.jar
+[00:57:31] [main/DEBUG] [FML]: Not found coremod data in ElectroblobsWizardry-4.3.11.jar
+[00:57:31] [main/DEBUG] [FML]: Examining for coremod candidacy ElevatorMod-1.12.2-1.3.14.jar
+[00:57:31] [main/DEBUG] [FML]: Not found coremod data in ElevatorMod-1.12.2-1.3.14.jar
+[00:57:31] [main/DEBUG] [FML]: Examining for coremod candidacy EvilCraft-1.12.2-0.10.78.jar
+[00:57:31] [main/DEBUG] [FML]: Not found coremod data in EvilCraft-1.12.2-0.10.78.jar
+[00:57:31] [main/DEBUG] [FML]: Examining for coremod candidacy exp_bottling-1.12.2-3.jar
+[00:57:31] [main/DEBUG] [FML]: Not found coremod data in exp_bottling-1.12.2-3.jar
+[00:57:31] [main/DEBUG] [FML]: Examining for coremod candidacy gravestone-1.10.3.jar
+[00:57:31] [main/DEBUG] [FML]: Not found coremod data in gravestone-1.10.3.jar
+[00:57:31] [main/DEBUG] [FML]: Examining for coremod candidacy HammerLib-1.12.2-12.2.46.jar
+[00:57:31] [main/WARN] [FML]: Found FMLCorePluginContainsFMLMod marker in HammerLib-1.12.2-12.2.46.jar. This is not recommended, @Mods should be in a separate jar from the coremod.
+[00:57:31] [main/DEBUG] [FML]: Instantiating coremod class HCASM
+[00:57:31] [main/DEBUG] [FML]: The coremod com.zeitheron.hammercore.asm.HCASM requested minecraft version 1.12.2 and minecraft is 1.12.2. It will be loaded.
+[00:57:31] [main/DEBUG] [FML]: Found signing certificates for coremod HCASM (com.zeitheron.hammercore.asm.HCASM)
+[00:57:31] [main/DEBUG] [FML]: Found certificate 9f5e2a811a8332a842b34f6967b7db0ac4f24856
+[00:57:31] [main/DEBUG] [FML]: Enqueued coremod HCASM
+[00:57:31] [main/DEBUG] [FML]: Examining for coremod candidacy Hwyla-1.8.26-B41_1.12.2.jar
+[00:57:31] [main/DEBUG] [FML]: Not found coremod data in Hwyla-1.8.26-B41_1.12.2.jar
+[00:57:31] [main/DEBUG] [FML]: Examining for coremod candidacy ImprovableSkills-1.12.2-12.4.68.jar
+[00:57:31] [main/DEBUG] [FML]: Not found coremod data in ImprovableSkills-1.12.2-12.4.68.jar
+[00:57:31] [main/DEBUG] [FML]: Examining for coremod candidacy jei_1.12.2-4.16.1.1000.jar
+[00:57:31] [main/DEBUG] [FML]: Not found coremod data in jei_1.12.2-4.16.1.1000.jar
+[00:57:31] [main/DEBUG] [FML]: Examining for coremod candidacy jeiintegration_1.12.2-1.6.0.jar
+[00:57:31] [main/DEBUG] [FML]: Not found coremod data in jeiintegration_1.12.2-1.6.0.jar
+[00:57:31] [main/DEBUG] [FML]: Examining for coremod candidacy journeymap-1.12.2-5.7.1.jar
+[00:57:31] [main/DEBUG] [FML]: Not found coremod data in journeymap-1.12.2-5.7.1.jar
+[00:57:31] [main/DEBUG] [FML]: Examining for coremod candidacy MCA-Español-1.12.2.jar
+[00:57:31] [main/DEBUG] [FML]: Not found coremod data in MCA-Español-1.12.2.jar
+[00:57:31] [main/DEBUG] [FML]: Examining for coremod candidacy MedievalCraft-1.12.2-1.18.1.jar
+[00:57:31] [main/DEBUG] [FML]: Not found coremod data in MedievalCraft-1.12.2-1.18.1.jar
+[00:57:31] [main/DEBUG] [FML]: Examining for coremod candidacy OpenBlocks-1.12.2-1.8.1.jar
+[00:57:31] [main/DEBUG] [FML]: Not found coremod data in OpenBlocks-1.12.2-1.8.1.jar
+[00:57:31] [main/DEBUG] [FML]: Examining for coremod candidacy OpenModsLib-1.12.2-0.12.2.jar
+[00:57:31] [main/WARN] [FML]: Found FMLCorePluginContainsFMLMod marker in OpenModsLib-1.12.2-0.12.2.jar. This is not recommended, @Mods should be in a separate jar from the coremod.
+[00:57:31] [main/DEBUG] [FML]: Instantiating coremod class OpenModsCorePlugin
+[00:57:31] [main/WARN] [FML]: The coremod openmods.core.OpenModsCorePlugin does not have a MCVersion annotation, it may cause issues with this version of Minecraft
+[00:57:31] [main/DEBUG] [FML]: Found signing certificates for coremod OpenModsCorePlugin (openmods.core.OpenModsCorePlugin)
+[00:57:31] [main/DEBUG] [FML]: Found certificate d2a9a8e8440196e26a268d1f3ddc01b2e9c572a5
+[00:57:31] [main/DEBUG] [OpenMods]: openmods.core.OpenModsCorePlugin.<init>(OpenModsCorePlugin.java:18): <OpenModsLib 0.12.2>\o
+[00:57:31] [main/DEBUG] [FML]: Enqueued coremod OpenModsCorePlugin
+[00:57:31] [main/DEBUG] [FML]: Examining for coremod candidacy PlayerRevive_v1.2.40_mc1.12.2.jar
+[00:57:31] [main/DEBUG] [FML]: Examining for coremod candidacy RadixCore-1.12.x-2.2.1-universal.jar
+[00:57:31] [main/DEBUG] [FML]: Not found coremod data in RadixCore-1.12.x-2.2.1-universal.jar
+[00:57:31] [main/DEBUG] [FML]: Examining for coremod candidacy RoguelikeDungeons-1.12.2-1.8.0.jar
+[00:57:31] [main/DEBUG] [FML]: Not found coremod data in RoguelikeDungeons-1.12.2-1.8.0.jar
+[00:57:31] [main/DEBUG] [FML]: Examining for coremod candidacy tl_skin_cape_forge_1.16.5-1.19.jar
+[00:57:31] [main/DEBUG] [FML]: Not found coremod data in tl_skin_cape_forge_1.16.5-1.19.jar
+[00:57:31] [main/DEBUG] [FML]: Examining for coremod candidacy tl_skin_cape_forge_1.21.3-1.35.jar
+[00:57:31] [main/DEBUG] [FML]: Not found coremod data in tl_skin_cape_forge_1.21.3-1.35.jar
+[00:57:31] [main/DEBUG] [FML]: Examining for coremod candidacy TravelersBackpack-1.12.2-1.0.35.jar
+[00:57:31] [main/DEBUG] [FML]: Not found coremod data in TravelersBackpack-1.12.2-1.0.35.jar
+[00:57:31] [main/DEBUG] [FML]: Examining for coremod candidacy TubeTransportSystem_1.7.10-0.6.jar
+[00:57:31] [main/DEBUG] [FML]: Not found coremod data in TubeTransportSystem_1.7.10-0.6.jar
+[00:57:31] [main/DEBUG] [FML]: Examining for coremod candidacy Vampirism-1.12.2-1.6.2.jar
+[00:57:31] [main/DEBUG] [FML]: Not found coremod data in Vampirism-1.12.2-1.6.2.jar
+[00:57:31] [main/DEBUG] [FML]: Examining for coremod candidacy WolfArmorAndStorage-1.12.2-3.8.0-universal-signed.jar
+[00:57:31] [main/INFO] [FML]: Loading tweaker org.spongepowered.asm.launch.MixinTweaker from WolfArmorAndStorage-1.12.2-3.8.0-universal-signed.jar
+[00:57:31] [main/DEBUG] [FML]: Examining for coremod candidacy xptome-1.12.2-v2.0.1.jar
+[00:57:31] [main/DEBUG] [FML]: Not found coremod data in xptome-1.12.2-v2.0.1.jar
+[00:57:31] [main/DEBUG] [FML]: Examining for coremod candidacy betteranimalsplus-1.12.2-9.0.1.jar
+[00:57:31] [main/DEBUG] [FML]: Not found coremod data in betteranimalsplus-1.12.2-9.0.1.jar
+[00:57:31] [main/INFO] [LaunchWrapper]: Loading tweak class name net.minecraftforge.fml.common.launcher.FMLInjectionAndSortingTweaker
+[00:57:31] [main/INFO] [LaunchWrapper]: Loading tweak class name org.spongepowered.asm.launch.MixinTweaker
+[00:57:31] [main/DEBUG] [mixin]: Mixin bootstrap service org.spongepowered.asm.service.modlauncher.MixinServiceModLauncherBootstrap is not available: ModLauncher is not available
+[00:57:31] [main/DEBUG] [mixin]: MixinService [LaunchWrapper] was successfully booted in sun.misc.Launcher$AppClassLoader@135fbaa4
+[00:57:31] [main/INFO] [mixin]: SpongePowered MIXIN Subsystem Version=0.8.3 Source=file:/workspaces/shawnfrost77/servidor_minecraft/./mods/%5B1.12.2%5D+SecurityCraft+v1.9.8.jar Service=LaunchWrapper Env=SERVER
+[00:57:31] [main/DEBUG] [mixin]: Error cleaning class output directory: .mixin.out
+[00:57:31] [main/DEBUG] [mixin]: Adding new mixin transformer proxy #1
+[00:57:31] [main/DEBUG] [mixin]: Initialising Mixin Platform Manager
+[00:57:31] [main/DEBUG] [mixin]: Adding mixin platform agents for container ContainerHandleURI(file:/workspaces/shawnfrost77/servidor_minecraft/./mods/%5B1.12.2%5D+SecurityCraft+v1.9.8.jar)
+[00:57:31] [main/DEBUG] [mixin]: Instancing new MixinPlatformAgentFMLLegacy for ContainerHandleURI(file:/workspaces/shawnfrost77/servidor_minecraft/./mods/%5B1.12.2%5D+SecurityCraft+v1.9.8.jar)
+[00:57:31] [main/DEBUG] [mixin]: ForceLoadAsMod was specified for [1.12.2]+SecurityCraft+v1.9.8.jar, attempting force-load
+[00:57:31] [main/DEBUG] [mixin]: Adding [1.12.2]+SecurityCraft+v1.9.8.jar to reparseable coremod collection
+[00:57:31] [main/DEBUG] [mixin]: [1.12.2]+SecurityCraft+v1.9.8.jar has core plugin net.geforcemods.securitycraft.SecurityCraftLoadingPlugin. Injecting it into FML for co-initialisation:
+[00:57:31] [main/DEBUG] [FML]: Instantiating coremod class SecurityCraftLoadingPlugin
+[00:57:31] [main/DEBUG] [FML]: The coremod net.geforcemods.securitycraft.SecurityCraftLoadingPlugin requested minecraft version 1.12.2 and minecraft is 1.12.2. It will be loaded.
+[00:57:31] [main/WARN] [FML]: The coremod SecurityCraftLoadingPlugin (net.geforcemods.securitycraft.SecurityCraftLoadingPlugin) is not signed!
+[00:57:31] [main/INFO] [mixin]: Compatibility level set to JAVA_8
+[00:57:31] [main/DEBUG] [FML]: Enqueued coremod SecurityCraftLoadingPlugin
+[00:57:31] [main/DEBUG] [mixin]: MixinPlatformAgentFMLLegacy accepted container ContainerHandleURI(file:/workspaces/shawnfrost77/servidor_minecraft/./mods/%5B1.12.2%5D+SecurityCraft+v1.9.8.jar)
+[00:57:31] [main/DEBUG] [mixin]: Instancing new MixinPlatformAgentLiteLoaderLegacy for ContainerHandleURI(file:/workspaces/shawnfrost77/servidor_minecraft/./mods/%5B1.12.2%5D+SecurityCraft+v1.9.8.jar)
+[00:57:31] [main/DEBUG] [mixin]: MixinPlatformAgentLiteLoaderLegacy rejected container ContainerHandleURI(file:/workspaces/shawnfrost77/servidor_minecraft/./mods/%5B1.12.2%5D+SecurityCraft+v1.9.8.jar)
+[00:57:31] [main/DEBUG] [mixin]: Instancing new MixinPlatformAgentDefault for ContainerHandleURI(file:/workspaces/shawnfrost77/servidor_minecraft/./mods/%5B1.12.2%5D+SecurityCraft+v1.9.8.jar)
+[00:57:31] [main/DEBUG] [mixin]: MixinPlatformAgentDefault accepted container ContainerHandleURI(file:/workspaces/shawnfrost77/servidor_minecraft/./mods/%5B1.12.2%5D+SecurityCraft+v1.9.8.jar)
+[00:57:31] [main/DEBUG] [mixin]: Scanning file:/workspaces/shawnfrost77/servidor_minecraft/forge-1.12.2-14.23.5.2860.jar for mixin tweaker
+[00:57:31] [main/DEBUG] [mixin]: Scanning file:/workspaces/shawnfrost77/servidor_minecraft/./mods/%5B1.12.2%5D+SecurityCraft+v1.9.8.jar for mixin tweaker
+[00:57:31] [main/DEBUG] [mixin]: Scanning file:/workspaces/shawnfrost77/servidor_minecraft/./mods/astralsorcery-1.12.2-1.10.27.jar for mixin tweaker
+[00:57:31] [main/DEBUG] [mixin]: Scanning file:/workspaces/shawnfrost77/servidor_minecraft/./mods/backpacks+1.12.2+-+3.5.12.jar for mixin tweaker
+[00:57:31] [main/DEBUG] [mixin]: Scanning file:/workspaces/shawnfrost77/servidor_minecraft/./mods/CreativeCore_v1.10.71_mc1.12.2.jar for mixin tweaker
+[00:57:31] [main/DEBUG] [mixin]: Scanning file:/workspaces/shawnfrost77/servidor_minecraft/./mods/HammerLib-1.12.2-12.2.46.jar for mixin tweaker
+[00:57:31] [main/DEBUG] [mixin]: Scanning file:/workspaces/shawnfrost77/servidor_minecraft/./mods/OpenModsLib-1.12.2-0.12.2.jar for mixin tweaker
+[00:57:31] [main/DEBUG] [mixin]: Scanning file:/workspaces/shawnfrost77/servidor_minecraft/./mods/WolfArmorAndStorage-1.12.2-3.8.0-universal-signed.jar for mixin tweaker
+[00:57:31] [main/DEBUG] [mixin]: Adding agents for Mixin Container ContainerHandleURI(file:/workspaces/shawnfrost77/servidor_minecraft/./mods/%5B1.12.2%5D+SecurityCraft+v1.9.8.jar)
+[00:57:31] [main/DEBUG] [mixin]: Adding agents for Mixin Container ContainerHandleURI(file:/workspaces/shawnfrost77/servidor_minecraft/./mods/WolfArmorAndStorage-1.12.2-3.8.0-universal-signed.jar)
+[00:57:31] [main/DEBUG] [mixin]: Adding mixin platform agents for container ContainerHandleURI(file:/workspaces/shawnfrost77/servidor_minecraft/./mods/WolfArmorAndStorage-1.12.2-3.8.0-universal-signed.jar)
+[00:57:31] [main/DEBUG] [mixin]: Instancing new MixinPlatformAgentFMLLegacy for ContainerHandleURI(file:/workspaces/shawnfrost77/servidor_minecraft/./mods/WolfArmorAndStorage-1.12.2-3.8.0-universal-signed.jar)
+[00:57:31] [main/DEBUG] [mixin]: ForceLoadAsMod was specified for WolfArmorAndStorage-1.12.2-3.8.0-universal-signed.jar, attempting force-load
+[00:57:31] [main/DEBUG] [mixin]: Adding WolfArmorAndStorage-1.12.2-3.8.0-universal-signed.jar to reparseable coremod collection
+[00:57:31] [main/DEBUG] [mixin]: WolfArmorAndStorage-1.12.2-3.8.0-universal-signed.jar has core plugin dev.satyrn.wolfarmor.core.WolfArmorCore. Injecting it into FML for co-initialisation:
+[00:57:31] [main/DEBUG] [FML]: Instantiating coremod class WolfArmorCore
+[00:57:31] [main/DEBUG] [FML]: The coremod dev.satyrn.wolfarmor.core.WolfArmorCore requested minecraft version 1.12.2 and minecraft is 1.12.2. It will be loaded.
+[00:57:31] [main/DEBUG] [FML]: Found signing certificates for coremod WolfArmorCore (dev.satyrn.wolfarmor.core.WolfArmorCore)
+[00:57:31] [main/DEBUG] [FML]: Found certificate e94e38a605842477f3ec218e6fcf781f6b3f7f89
+[00:57:31] [main/DEBUG] [FML]: Enqueued coremod WolfArmorCore
+[00:57:31] [main/DEBUG] [mixin]: MixinPlatformAgentFMLLegacy accepted container ContainerHandleURI(file:/workspaces/shawnfrost77/servidor_minecraft/./mods/WolfArmorAndStorage-1.12.2-3.8.0-universal-signed.jar)
+[00:57:31] [main/DEBUG] [mixin]: Instancing new MixinPlatformAgentLiteLoaderLegacy for ContainerHandleURI(file:/workspaces/shawnfrost77/servidor_minecraft/./mods/WolfArmorAndStorage-1.12.2-3.8.0-universal-signed.jar)
+[00:57:31] [main/DEBUG] [mixin]: MixinPlatformAgentLiteLoaderLegacy rejected container ContainerHandleURI(file:/workspaces/shawnfrost77/servidor_minecraft/./mods/WolfArmorAndStorage-1.12.2-3.8.0-universal-signed.jar)
+[00:57:31] [main/DEBUG] [mixin]: Instancing new MixinPlatformAgentDefault for ContainerHandleURI(file:/workspaces/shawnfrost77/servidor_minecraft/./mods/WolfArmorAndStorage-1.12.2-3.8.0-universal-signed.jar)
+[00:57:31] [main/DEBUG] [mixin]: MixinPlatformAgentDefault accepted container ContainerHandleURI(file:/workspaces/shawnfrost77/servidor_minecraft/./mods/WolfArmorAndStorage-1.12.2-3.8.0-universal-signed.jar)
+[00:57:31] [main/WARN] [LaunchWrapper]: Tweak class name org.spongepowered.asm.launch.MixinTweaker has already been visited -- skipping
+[00:57:31] [main/INFO] [LaunchWrapper]: Loading tweak class name net.minecraftforge.fml.common.launcher.FMLDeobfTweaker
+[00:57:31] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.common.launcher.FMLInjectionAndSortingTweaker
+[00:57:31] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.common.launcher.FMLInjectionAndSortingTweaker
+[00:57:31] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.relauncher.CoreModManager$FMLPluginWrapper
+[00:57:31] [main/DEBUG] [FML]: Injecting coremod FMLCorePlugin \{net.minecraftforge.fml.relauncher.FMLCorePlugin\} class transformers
+[00:57:31] [main/TRACE] [FML]: Registering transformer net.minecraftforge.fml.common.asm.transformers.SideTransformer
+[00:57:31] [main/DEBUG] [mixin]: Preparing mixins for MixinEnvironment[PREINIT]
+[00:57:31] [main/TRACE] [FML]: Registering transformer net.minecraftforge.fml.common.asm.transformers.EventSubscriptionTransformer
+[00:57:31] [main/TRACE] [FML]: Registering transformer net.minecraftforge.fml.common.asm.transformers.EventSubscriberTransformer
+[00:57:31] [main/TRACE] [FML]: Registering transformer net.minecraftforge.fml.common.asm.transformers.SoundEngineFixTransformer
+[00:57:31] [main/DEBUG] [FML]: Injection complete
+[00:57:31] [main/DEBUG] [FML]: Running coremod plugin for FMLCorePlugin \{net.minecraftforge.fml.relauncher.FMLCorePlugin\}
+[00:57:31] [main/DEBUG] [FML]: Running coremod plugin FMLCorePlugin
+[00:57:32] [main/DEBUG] [FML]: Read 1154 binary patches
+[00:57:33] [main/DEBUG] [FML]: Loading deobfuscation resource /deobfuscation_data-1.12.2.lzma with 36076 records
+[00:57:33] [main/INFO] [FML]: Found valid fingerprint for Minecraft Forge. Certificate fingerprint e3c3d50c7c986df74c645c0ac54639741c90a557
+[00:57:33] [main/DEBUG] [FML]: Coremod plugin class FMLCorePlugin run successfully
+[00:57:33] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.relauncher.CoreModManager$FMLPluginWrapper
+[00:57:33] [main/DEBUG] [FML]: Injecting coremod FMLForgePlugin \{net.minecraftforge.classloading.FMLForgePlugin\} class transformers
+[00:57:33] [main/DEBUG] [FML]: Injection complete
+[00:57:33] [main/DEBUG] [FML]: Running coremod plugin for FMLForgePlugin \{net.minecraftforge.classloading.FMLForgePlugin\}
+[00:57:33] [main/DEBUG] [FML]: Running coremod plugin FMLForgePlugin
+[00:57:33] [main/DEBUG] [FML]: Coremod plugin class FMLForgePlugin run successfully
+[00:57:33] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.relauncher.CoreModManager$FMLPluginWrapper
+[00:57:33] [main/DEBUG] [FML]: Injecting coremod CreativePatchingLoader \{com.creativemd.creativecore.core.CreativePatchingLoader\} class transformers
+[00:57:33] [main/DEBUG] [FML]: Injection complete
+[00:57:33] [main/DEBUG] [FML]: Running coremod plugin for CreativePatchingLoader \{com.creativemd.creativecore.core.CreativePatchingLoader\}
+[00:57:33] [main/DEBUG] [FML]: Running coremod plugin CreativePatchingLoader
+[00:57:33] [main/DEBUG] [FML]: Coremod plugin class CreativePatchingLoader run successfully
+[00:57:33] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.relauncher.CoreModManager$FMLPluginWrapper
+[00:57:33] [main/DEBUG] [FML]: Injecting coremod HCASM \{com.zeitheron.hammercore.asm.HCASM\} class transformers
+[00:57:33] [main/TRACE] [FML]: Registering transformer com.zeitheron.hammercore.asm.HammerCoreTransformer
+[00:57:33] [main/DEBUG] [FML]: Injection complete
+[00:57:33] [main/DEBUG] [FML]: Running coremod plugin for HCASM \{com.zeitheron.hammercore.asm.HCASM\}
+[00:57:33] [main/DEBUG] [FML]: Running coremod plugin HCASM
+[00:57:33] [main/DEBUG] [FML]: Coremod plugin class HCASM run successfully
+[00:57:33] [main/INFO] [LaunchWrapper]: Calling tweak class org.spongepowered.asm.launch.MixinTweaker
+[00:57:33] [main/DEBUG] [mixin]: Processing prepare() for PlatformAgent[MixinPlatformAgentFMLLegacy:ContainerHandleURI(file:/workspaces/shawnfrost77/servidor_minecraft/./mods/%5B1.12.2%5D+SecurityCraft+v1.9.8.jar)]
+[00:57:33] [main/DEBUG] [mixin]: Processing prepare() for PlatformAgent[MixinPlatformAgentDefault:ContainerHandleURI(file:/workspaces/shawnfrost77/servidor_minecraft/./mods/%5B1.12.2%5D+SecurityCraft+v1.9.8.jar)]
+[00:57:33] [main/DEBUG] [mixin]: Processing prepare() for PlatformAgent[MixinPlatformAgentFMLLegacy:ContainerHandleURI(file:/workspaces/shawnfrost77/servidor_minecraft/./mods/WolfArmorAndStorage-1.12.2-3.8.0-universal-signed.jar)]
+[00:57:33] [main/DEBUG] [mixin]: Processing prepare() for PlatformAgent[MixinPlatformAgentDefault:ContainerHandleURI(file:/workspaces/shawnfrost77/servidor_minecraft/./mods/WolfArmorAndStorage-1.12.2-3.8.0-universal-signed.jar)]
+[00:57:33] [main/DEBUG] [mixin]: Registering mixin config: mixins.wolfarmor.core.json
+[00:57:33] [main/DEBUG] [mixin]: Creating FML remapper adapter: org.spongepowered.asm.bridge.RemapperAdapterFML
+[00:57:33] [main/INFO] [mixin]: Initialised Mixin FML Remapper Adapter with net.minecraftforge.fml.common.asm.transformers.deobf.FMLDeobfuscatingRemapper@48bfb884
+[00:57:33] [main/DEBUG] [mixin]: Processing launch tasks for PlatformAgent[MixinPlatformAgentFMLLegacy:ContainerHandleURI(file:/workspaces/shawnfrost77/servidor_minecraft/./mods/%5B1.12.2%5D+SecurityCraft+v1.9.8.jar)]
+[00:57:33] [main/DEBUG] [mixin]: Processing launch tasks for PlatformAgent[MixinPlatformAgentDefault:ContainerHandleURI(file:/workspaces/shawnfrost77/servidor_minecraft/./mods/%5B1.12.2%5D+SecurityCraft+v1.9.8.jar)]
+[00:57:33] [main/DEBUG] [mixin]: Scanning file:/workspaces/shawnfrost77/servidor_minecraft/forge-1.12.2-14.23.5.2860.jar for mixin tweaker
+[00:57:33] [main/DEBUG] [mixin]: Scanning file:/workspaces/shawnfrost77/servidor_minecraft/./mods/%5B1.12.2%5D+SecurityCraft+v1.9.8.jar for mixin tweaker
+[00:57:33] [main/DEBUG] [mixin]: Scanning file:/workspaces/shawnfrost77/servidor_minecraft/./mods/astralsorcery-1.12.2-1.10.27.jar for mixin tweaker
+[00:57:33] [main/DEBUG] [mixin]: Scanning file:/workspaces/shawnfrost77/servidor_minecraft/./mods/backpacks+1.12.2+-+3.5.12.jar for mixin tweaker
+[00:57:33] [main/DEBUG] [mixin]: Scanning file:/workspaces/shawnfrost77/servidor_minecraft/./mods/CreativeCore_v1.10.71_mc1.12.2.jar for mixin tweaker
+[00:57:33] [main/DEBUG] [mixin]: Scanning file:/workspaces/shawnfrost77/servidor_minecraft/./mods/HammerLib-1.12.2-12.2.46.jar for mixin tweaker
+[00:57:33] [main/DEBUG] [mixin]: Scanning file:/workspaces/shawnfrost77/servidor_minecraft/./mods/OpenModsLib-1.12.2-0.12.2.jar for mixin tweaker
+[00:57:33] [main/DEBUG] [mixin]: Scanning file:/workspaces/shawnfrost77/servidor_minecraft/./mods/WolfArmorAndStorage-1.12.2-3.8.0-universal-signed.jar for mixin tweaker
+[00:57:33] [main/DEBUG] [mixin]: Scanning asmgen:/ for mixin tweaker
+[00:57:33] [main/DEBUG] [mixin]: Adding agents for Mixin Container ContainerHandleURI(file:/workspaces/shawnfrost77/servidor_minecraft/./mods/%5B1.12.2%5D+SecurityCraft+v1.9.8.jar)
+[00:57:33] [main/DEBUG] [mixin]: Adding agents for Mixin Container ContainerHandleURI(file:/workspaces/shawnfrost77/servidor_minecraft/./mods/WolfArmorAndStorage-1.12.2-3.8.0-universal-signed.jar)
+[00:57:33] [main/DEBUG] [mixin]: inject() running with 2 agents
+[00:57:33] [main/DEBUG] [mixin]: Processing inject() for PlatformAgent[MixinPlatformAgentFMLLegacy:ContainerHandleURI(file:/workspaces/shawnfrost77/servidor_minecraft/./mods/%5B1.12.2%5D+SecurityCraft+v1.9.8.jar)]
+[00:57:33] [main/DEBUG] [mixin]: FML agent is co-initiralising coremod instance SecurityCraftLoadingPlugin {[]} for ContainerHandleURI(file:/workspaces/shawnfrost77/servidor_minecraft/./mods/%5B1.12.2%5D+SecurityCraft+v1.9.8.jar)
+[00:57:33] [main/DEBUG] [FML]: Injecting coremod SecurityCraftLoadingPlugin \{net.geforcemods.securitycraft.SecurityCraftLoadingPlugin\} class transformers
+[00:57:33] [main/DEBUG] [FML]: Injection complete
+[00:57:33] [main/DEBUG] [FML]: Running coremod plugin for SecurityCraftLoadingPlugin \{net.geforcemods.securitycraft.SecurityCraftLoadingPlugin\}
+[00:57:33] [main/DEBUG] [FML]: Running coremod plugin SecurityCraftLoadingPlugin
+[00:57:33] [main/DEBUG] [FML]: Coremod plugin class SecurityCraftLoadingPlugin run successfully
+[00:57:33] [main/DEBUG] [mixin]: Processing inject() for PlatformAgent[MixinPlatformAgentDefault:ContainerHandleURI(file:/workspaces/shawnfrost77/servidor_minecraft/./mods/%5B1.12.2%5D+SecurityCraft+v1.9.8.jar)]
+[00:57:33] [main/DEBUG] [mixin]: Processing inject() for PlatformAgent[MixinPlatformAgentFMLLegacy:ContainerHandleURI(file:/workspaces/shawnfrost77/servidor_minecraft/./mods/WolfArmorAndStorage-1.12.2-3.8.0-universal-signed.jar)]
+[00:57:33] [main/DEBUG] [mixin]: FML agent is co-initiralising coremod instance WolfArmorCore {[]} for ContainerHandleURI(file:/workspaces/shawnfrost77/servidor_minecraft/./mods/WolfArmorAndStorage-1.12.2-3.8.0-universal-signed.jar)
+[00:57:33] [main/DEBUG] [FML]: Injecting coremod WolfArmorCore \{dev.satyrn.wolfarmor.core.WolfArmorCore\} class transformers
+[00:57:33] [main/DEBUG] [FML]: Injection complete
+[00:57:33] [main/DEBUG] [FML]: Running coremod plugin for WolfArmorCore \{dev.satyrn.wolfarmor.core.WolfArmorCore\}
+[00:57:33] [main/DEBUG] [FML]: Running coremod plugin WolfArmorCore
+[00:57:33] [main/DEBUG] [FML]: Coremod plugin class WolfArmorCore run successfully
+[00:57:33] [main/DEBUG] [mixin]: Processing inject() for PlatformAgent[MixinPlatformAgentDefault:ContainerHandleURI(file:/workspaces/shawnfrost77/servidor_minecraft/./mods/WolfArmorAndStorage-1.12.2-3.8.0-universal-signed.jar)]
+[00:57:33] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.relauncher.CoreModManager$FMLPluginWrapper
+[00:57:33] [main/DEBUG] [FML]: Injecting coremod OpenModsCorePlugin \{openmods.core.OpenModsCorePlugin\} class transformers
+[00:57:33] [main/TRACE] [FML]: Registering transformer openmods.core.OpenModsClassTransformer
+[00:57:33] [main/DEBUG] [FML]: Injection complete
+[00:57:33] [main/DEBUG] [FML]: Running coremod plugin for OpenModsCorePlugin \{openmods.core.OpenModsCorePlugin\}
+[00:57:33] [main/DEBUG] [FML]: Running coremod plugin OpenModsCorePlugin
+[00:57:33] [main/DEBUG] [OpenMods]: openmods.config.simple.ConfigProcessor.process(ConfigProcessor.java:82): Parsing config file './config/OpenModsLibCore.json'
+[00:57:33] [main/WARN] [OpenMods]: openmods.config.simple.ConfigProcessor.process(ConfigProcessor.java:117): Adding new values: '[hook_pre_world_rendering, llama_null_fix, activate_player_render_hook, horse_base_null_fix, horse_null_fix]'
+[00:57:33] [main/TRACE] [OpenMods]: openmods.utils.StateTracker$StateUpdater.update(StateTracker.java:26): State of pre_world_render_hook updated from DISABLED to ENABLED
+[00:57:33] [main/TRACE] [OpenMods]: openmods.utils.StateTracker$StateUpdater.update(StateTracker.java:26): State of llama_null_fix updated from DISABLED to ENABLED
+[00:57:33] [main/TRACE] [OpenMods]: openmods.utils.StateTracker$StateUpdater.update(StateTracker.java:26): State of player_render_hook updated from DISABLED to ENABLED
+[00:57:33] [main/TRACE] [OpenMods]: openmods.utils.StateTracker$StateUpdater.update(StateTracker.java:26): State of horse_base_null_fix updated from DISABLED to ENABLED
+[00:57:33] [main/TRACE] [OpenMods]: openmods.utils.StateTracker$StateUpdater.update(StateTracker.java:26): State of horse_null_fix updated from DISABLED to ENABLED
+[00:57:34] [main/DEBUG] [FML]: Coremod plugin class OpenModsCorePlugin run successfully
+[00:57:34] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.relauncher.CoreModManager$FMLPluginWrapper
+[00:57:34] [main/DEBUG] [FML]: Injecting coremod BCModPlugin \{brad16840.core.BCModPlugin\} class transformers
+[00:57:34] [main/TRACE] [FML]: Registering transformer brad16840.core.ClassTransformer
+[00:57:34] [main/DEBUG] [FML]: Injection complete
+[00:57:34] [main/DEBUG] [FML]: Running coremod plugin for BCModPlugin \{brad16840.core.BCModPlugin\}
+[00:57:34] [main/DEBUG] [FML]: Running coremod plugin BCModPlugin
+[00:57:34] [main/DEBUG] [FML]: Coremod plugin class BCModPlugin run successfully
+[00:57:34] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.common.launcher.FMLDeobfTweaker
+[00:57:34] [main/DEBUG] [FML]: Loaded 215 rules from AccessTransformer config file forge_at.cfg
+[00:57:34] [main/INFO] [Astral Core]: [AstralTransformer] Loading patches...
+[00:57:34] [main/INFO] [Astral Core]: [AstralTransformer] Initialized! Loaded 14 class patches!
+[00:57:34] [main/DEBUG] [FML]: Loaded 85 rules from AccessTransformer mod jar file ./mods/HammerLib-1.12.2-12.2.46.jar!META-INF/hc_at.cfg
+
+[00:57:34] [main/DEBUG] [FML]: Loaded 13 rules from AccessTransformer mod jar file ./mods/jei_1.12.2-4.16.1.1000.jar!META-INF/jei_at.cfg
+
+[00:57:34] [main/DEBUG] [FML]: Loaded 1 rules from AccessTransformer mod jar file ./mods/journeymap-1.12.2-5.7.1.jar!META-INF/journeymap_at.cfg
+
+[00:57:34] [main/DEBUG] [FML]: Loaded 31 rules from AccessTransformer mod jar file ./mods/[1.12.2]+SecurityCraft+v1.9.8.jar!META-INF/securitycraft_at.cfg
+
+[00:57:34] [main/DEBUG] [FML]: Loaded 2 rules from AccessTransformer mod jar file ./mods/OpenBlocks-1.12.2-1.8.1.jar!META-INF/openblocks_at.cfg
+
+[00:57:34] [main/DEBUG] [FML]: Loaded 53 rules from AccessTransformer mod jar file ./mods/ImprovableSkills-1.12.2-12.4.68.jar!META-INF/improvableskills_at.cfg
+
+[00:57:34] [main/DEBUG] [FML]: Loaded 2 rules from AccessTransformer mod jar file ./mods/CyclopsCore-1.12.2-1.6.7.jar!META-INF/cyclopscore_at.cfg
+
+[00:57:34] [main/DEBUG] [FML]: Loaded 15 rules from AccessTransformer mod jar file ./mods/Vampirism-1.12.2-1.6.2.jar!META-INF/vampirism_at.cfg
+
+[00:57:34] [main/DEBUG] [FML]: Loaded 23 rules from AccessTransformer mod jar file ./mods/astralsorcery-1.12.2-1.10.27.jar!META-INF/astralsorcery_at.cfg
+
+[00:57:34] [main/DEBUG] [mixin]: Adding new mixin transformer proxy #2
+[00:57:34] [main/DEBUG] [FML]: Validating minecraft
+[00:57:34] [main/DEBUG] [mixin]: Preparing mixins for MixinEnvironment[INIT]
+[00:57:34] [main/DEBUG] [FML]: Minecraft validated, launching...
+[00:57:34] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.relauncher.CoreModManager$FMLPluginWrapper
+[00:57:34] [main/DEBUG] [FML]: Injecting coremod AstralCore \{hellfirepvp.astralsorcery.core.AstralCore\} class transformers
+[00:57:34] [main/DEBUG] [FML]: Injection complete
+[00:57:34] [main/DEBUG] [FML]: Running coremod plugin for AstralCore \{hellfirepvp.astralsorcery.core.AstralCore\}
+[00:57:34] [main/DEBUG] [FML]: Running coremod plugin AstralCore
+[00:57:34] [main/DEBUG] [FML]: Coremod plugin class AstralCore run successfully
+[00:57:34] [main/INFO] [LaunchWrapper]: Loading tweak class name net.minecraftforge.fml.common.launcher.TerminalTweaker
+[00:57:34] [main/INFO] [LaunchWrapper]: Loading tweak class name org.spongepowered.asm.mixin.EnvironmentStateTweaker
+[00:57:34] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.common.launcher.TerminalTweaker
+[00:57:34] [main/INFO] [LaunchWrapper]: Calling tweak class org.spongepowered.asm.mixin.EnvironmentStateTweaker
+[00:57:34] [main/DEBUG] [mixin]: Adding new mixin transformer proxy #3
+[00:57:34] [main/DEBUG] [mixin]: Preparing mixins for MixinEnvironment[DEFAULT]
+[00:57:34] [main/DEBUG] [mixin]: Selecting config securitycraft.mixins.json
+[00:57:34] [main/DEBUG] [mixin]: Selecting config mixins.wolfarmor.core.json
+[00:57:34] [main/DEBUG] [mixin]: Preparing securitycraft.mixins.json (12)
+[00:57:34] [main/DEBUG] [mixin]: Found name transformer: net.minecraftforge.fml.common.asm.transformers.DeobfuscationTransformer
+[00:57:34] [main/DEBUG] [mixin]: Rebuilding transformer delegation list:
+[00:57:34] [main/DEBUG] [mixin]: Found name transformer: net.minecraftforge.fml.common.asm.transformers.DeobfuscationTransformer
+[00:57:34] [main/DEBUG] [mixin]:   Adding:    net.minecraftforge.fml.common.asm.transformers.PatchingTransformer
+[00:57:34] [main/DEBUG] [mixin]:   Excluding: org.spongepowered.asm.mixin.transformer.Proxy
+[00:57:34] [main/DEBUG] [mixin]:   Adding:    $wrapper.net.minecraftforge.fml.common.asm.transformers.SideTransformer
+[00:57:34] [main/DEBUG] [mixin]:   Excluding: $wrapper.net.minecraftforge.fml.common.asm.transformers.EventSubscriptionTransformer
+[00:57:34] [main/DEBUG] [mixin]:   Adding:    $wrapper.net.minecraftforge.fml.common.asm.transformers.EventSubscriberTransformer
+[00:57:34] [main/DEBUG] [mixin]:   Adding:    $wrapper.net.minecraftforge.fml.common.asm.transformers.SoundEngineFixTransformer
+[00:57:34] [main/DEBUG] [mixin]:   Adding:    $wrapper.com.zeitheron.hammercore.asm.HammerCoreTransformer
+[00:57:34] [main/DEBUG] [mixin]:   Adding:    $wrapper.openmods.core.OpenModsClassTransformer
+[00:57:34] [main/DEBUG] [mixin]:   Adding:    $wrapper.brad16840.core.ClassTransformer
+[00:57:34] [main/DEBUG] [mixin]:   Adding:    net.minecraftforge.fml.common.asm.transformers.DeobfuscationTransformer
+[00:57:34] [main/DEBUG] [mixin]:   Adding:    net.minecraftforge.fml.common.asm.transformers.AccessTransformer
+[00:57:34] [main/DEBUG] [mixin]:   Adding:    hellfirepvp.astralsorcery.core.AstralTransformer
+[00:57:34] [main/DEBUG] [mixin]:   Adding:    net.minecraftforge.fml.common.asm.transformers.ModAccessTransformer
+[00:57:34] [main/DEBUG] [mixin]:   Adding:    net.minecraftforge.fml.common.asm.transformers.ItemStackTransformer
+[00:57:34] [main/DEBUG] [mixin]:   Adding:    net.minecraftforge.fml.common.asm.transformers.ItemBlockTransformer
+[00:57:34] [main/DEBUG] [mixin]:   Adding:    net.minecraftforge.fml.common.asm.transformers.ItemBlockSpecialTransformer
+[00:57:34] [main/DEBUG] [mixin]:   Adding:    net.minecraftforge.fml.common.asm.transformers.PotionEffectTransformer
+[00:57:34] [main/DEBUG] [mixin]:   Excluding: org.spongepowered.asm.mixin.transformer.Proxy
+[00:57:34] [main/DEBUG] [mixin]:   Excluding: net.minecraftforge.fml.common.asm.transformers.TerminalTransformer
+[00:57:34] [main/DEBUG] [mixin]:   Excluding: org.spongepowered.asm.mixin.transformer.Proxy
+[00:57:34] [main/DEBUG] [mixin]: Transformer delegation list created with 15 entries
+[00:57:34] [main/TRACE] [mixin]: Added class metadata for net/minecraft/entity/player/EntityPlayerMP to metadata cache
+[00:57:34] [main/TRACE] [mixin]: Added class metadata for net/minecraft/entity/EntityTrackerEntry to metadata cache
+[00:57:34] [main/TRACE] [mixin]: Added class metadata for net/minecraft/server/management/PlayerList to metadata cache
+[00:57:34] [main/TRACE] [mixin]: Added class metadata for net/minecraft/world/Teleporter to metadata cache
+[00:57:34] [main/TRACE] [mixin]: Added class metadata for net/minecraft/inventory/ContainerBrewingStand to metadata cache
+[00:57:34] [main/TRACE] [mixin]: Added class metadata for net/minecraft/item/ItemChorusFruit to metadata cache
+[00:57:34] [main/DEBUG] [mixin]: Preparing mixins.wolfarmor.core.json (13)
+[00:57:34] [main/TRACE] [mixin]: Added class metadata for net/minecraft/entity/Entity to metadata cache
+[00:57:34] [main/TRACE] [mixin]: Added class metadata for net/minecraft/entity/EntityAgeable to metadata cache
+[00:57:34] [main/TRACE] [mixin]: Added class metadata for net/minecraft/entity/ai/EntityAISit to metadata cache
+[00:57:34] [main/TRACE] [mixin]: Added class metadata for net/minecraft/entity/passive/EntityAnimal to metadata cache
+[00:57:34] [main/TRACE] [mixin]: Added class metadata for net/minecraft/entity/EntityCreature to metadata cache
+[00:57:34] [main/TRACE] [mixin]: Added class metadata for net/minecraft/entity/EntityLiving to metadata cache
+[00:57:34] [main/INFO] [Hammer Core [ASM]]: Transforming net.minecraft.entity.EntityLivingBase (vp)...
+[00:57:34] [main/INFO] [Hammer Core [ASM]]:   -Patching EntityLivingBase
+[00:57:34] [main/INFO] [Hammer Core [ASM]]:     -Modified method 'onItemUseFinish': added event call.
+[00:57:34] [main/INFO] [mixin]: A re-entrant transformer '$wrapper.com.zeitheron.hammercore.asm.HammerCoreTransformer' was detected and will no longer process meta class data
+[00:57:34] [main/INFO] [Astral Core]: [AstralTransformer] Transforming vp : net.minecraft.entity.EntityLivingBase with 4 patches!
+[00:57:34] [main/INFO] [Astral Core]: [AstralTransformer] Applied patch PATCHAPPLYPOTIONEFFECTEVENT
+[00:57:34] [main/INFO] [Astral Core]: [AstralTransformer] Applied patch PATCHENTITYLIVINGBASEWATERSLOWDOWN
+[00:57:34] [main/INFO] [Astral Core]: [AstralTransformer] Applied patch PATCHSETPLAYERATTRIBUTE
+[00:57:34] [main/INFO] [Astral Core]: [AstralTransformer] Applied patch PATCHUPDATEELYTRA
+[00:57:34] [main/TRACE] [mixin]: Added class metadata for net/minecraft/entity/EntityLivingBase to metadata cache
+[00:57:34] [main/DEBUG] [mixin]: Rebuilding transformer delegation list:
+[00:57:34] [main/DEBUG] [mixin]: Found name transformer: net.minecraftforge.fml.common.asm.transformers.DeobfuscationTransformer
+[00:57:34] [main/DEBUG] [mixin]:   Adding:    net.minecraftforge.fml.common.asm.transformers.PatchingTransformer
+[00:57:34] [main/DEBUG] [mixin]:   Excluding: org.spongepowered.asm.mixin.transformer.Proxy
+[00:57:34] [main/DEBUG] [mixin]:   Adding:    $wrapper.net.minecraftforge.fml.common.asm.transformers.SideTransformer
+[00:57:34] [main/DEBUG] [mixin]:   Excluding: $wrapper.net.minecraftforge.fml.common.asm.transformers.EventSubscriptionTransformer
+[00:57:34] [main/DEBUG] [mixin]:   Adding:    $wrapper.net.minecraftforge.fml.common.asm.transformers.EventSubscriberTransformer
+[00:57:34] [main/DEBUG] [mixin]:   Adding:    $wrapper.net.minecraftforge.fml.common.asm.transformers.SoundEngineFixTransformer
+[00:57:34] [main/DEBUG] [mixin]:   Excluding: $wrapper.com.zeitheron.hammercore.asm.HammerCoreTransformer
+[00:57:34] [main/DEBUG] [mixin]:   Adding:    $wrapper.openmods.core.OpenModsClassTransformer
+[00:57:34] [main/DEBUG] [mixin]:   Adding:    $wrapper.brad16840.core.ClassTransformer
+[00:57:34] [main/DEBUG] [mixin]:   Adding:    net.minecraftforge.fml.common.asm.transformers.DeobfuscationTransformer
+[00:57:34] [main/DEBUG] [mixin]:   Adding:    net.minecraftforge.fml.common.asm.transformers.AccessTransformer
+[00:57:34] [main/DEBUG] [mixin]:   Adding:    hellfirepvp.astralsorcery.core.AstralTransformer
+[00:57:34] [main/DEBUG] [mixin]:   Adding:    net.minecraftforge.fml.common.asm.transformers.ModAccessTransformer
+[00:57:34] [main/DEBUG] [mixin]:   Adding:    net.minecraftforge.fml.common.asm.transformers.ItemStackTransformer
+[00:57:34] [main/DEBUG] [mixin]:   Adding:    net.minecraftforge.fml.common.asm.transformers.ItemBlockTransformer
+[00:57:34] [main/DEBUG] [mixin]:   Adding:    net.minecraftforge.fml.common.asm.transformers.ItemBlockSpecialTransformer
+[00:57:34] [main/DEBUG] [mixin]:   Adding:    net.minecraftforge.fml.common.asm.transformers.PotionEffectTransformer
+[00:57:34] [main/DEBUG] [mixin]:   Excluding: org.spongepowered.asm.mixin.transformer.Proxy
+[00:57:34] [main/DEBUG] [mixin]:   Excluding: net.minecraftforge.fml.common.asm.transformers.TerminalTransformer
+[00:57:34] [main/DEBUG] [mixin]:   Excluding: org.spongepowered.asm.mixin.transformer.Proxy
+[00:57:34] [main/DEBUG] [mixin]: Transformer delegation list created with 14 entries
+[00:57:34] [main/TRACE] [mixin]: Added class metadata for net/minecraft/entity/passive/EntityTameable to metadata cache
+[00:57:34] [main/TRACE] [mixin]: Added class metadata for net/minecraft/entity/passive/EntityWolf to metadata cache
+[00:57:34] [main/TRACE] [mixin]: Added class metadata for net/minecraft/potion/Potion to metadata cache
+[00:57:34] [main/DEBUG] [mixin]: Registering new injector for @Inject with org.spongepowered.asm.mixin.injection.struct.CallbackInjectionInfo
+[00:57:34] [main/DEBUG] [mixin]: Registering new injector for @ModifyArg with org.spongepowered.asm.mixin.injection.struct.ModifyArgInjectionInfo
+[00:57:34] [main/DEBUG] [mixin]: Registering new injector for @ModifyArgs with org.spongepowered.asm.mixin.injection.struct.ModifyArgsInjectionInfo
+[00:57:34] [main/DEBUG] [mixin]: Registering new injector for @Redirect with org.spongepowered.asm.mixin.injection.struct.RedirectInjectionInfo
+[00:57:34] [main/DEBUG] [mixin]: Registering new injector for @ModifyVariable with org.spongepowered.asm.mixin.injection.struct.ModifyVariableInjectionInfo
+[00:57:34] [main/DEBUG] [mixin]: Registering new injector for @ModifyConstant with org.spongepowered.asm.mixin.injection.struct.ModifyConstantInjectionInfo
+[00:57:34] [main/TRACE] [mixin]: Added class metadata for net/geforcemods/securitycraft/blockentities/RiftStabilizerBlockEntity$TeleportationType to metadata cache
+[00:57:34] [main/TRACE] [mixin]: Added class metadata for java/lang/invoke/MethodHandles$Lookup to metadata cache
+[00:57:34] [main/DEBUG] [mixin]: Prepared 17 mixins in 0.438 sec (25.8ms avg) (1ms load, 297ms transform, 0ms plugin)
+[00:57:34] [main/INFO] [Hammer Core [ASM]]: Transforming net.minecraft.world.World (amu)...
+[00:57:34] [main/INFO] [Hammer Core [ASM]]:   -Patching World
+[00:57:34] [main/INFO] [Hammer Core [ASM]]:     -Modified method 'k', replaced nx.e()V with HC call.
+[00:57:35] [main/INFO] [Astral Core]: [AstralTransformer] Transforming amu : net.minecraft.world.World with 2 patches!
+[00:57:35] [main/INFO] [Astral Core]: [AstralTransformer] Skipping PATCHSUNBRIGHTNESSWORLDCLIENT as it can't be applied for side SERVER
+[00:57:35] [main/INFO] [Astral Core]: [AstralTransformer] Applied patch PATCHSUNBRIGHTNESSWORLDCOMMON
+[00:57:35] [main/DEBUG] [mixin]: Mixing camera.PlayerListMixin from securitycraft.mixins.json into net.minecraft.server.management.PlayerList
+[00:57:35] [main/TRACE] [mixin]: Added class metadata for net/geforcemods/securitycraft/util/PlayerUtils to metadata cache
+[00:57:35] [main/TRACE] [mixin]: Added class metadata for net/geforcemods/securitycraft/entity/camera/SecurityCamera to metadata cache
+[00:57:35] [main/INFO] [Astral Core]: [AstralTransformer] Transforming pa : net.minecraft.network.NetHandlerPlayServer with 1 patches!
+[00:57:35] [main/INFO] [Astral Core]: [AstralTransformer] Applied patch PATCHSERVEREXTENDENTITYINTERACTREACH
+[00:57:35] [main/TRACE] [mixin]: Added class metadata for net/minecraft/network/NetHandlerPlayServer to metadata cache
+[00:57:35] [main/TRACE] [mixin]: Added class metadata for org/spongepowered/asm/mixin/injection/callback/CallbackInfo to metadata cache
+[00:57:35] [main/TRACE] [mixin]: Added class metadata for net/minecraft/entity/player/EntityPlayer to metadata cache
+[00:57:35] [main/TRACE] [mixin]: Added class metadata for net/minecraft/network/Packet to metadata cache
+[00:57:35] [main/TRACE] [mixin]: Added class metadata for net/minecraft/nbt/NBTTagCompound to metadata cache
+[00:57:35] [main/TRACE] [mixin]: Added class metadata for java/util/Iterator to metadata cache
+[00:57:35] [main/TRACE] [mixin]: Added class metadata for net/minecraft/nbt/NBTBase to metadata cache
+[00:57:35] [main/TRACE] [mixin]: Added class metadata for net/minecraft/server/management/DemoPlayerInteractionManager to metadata cache
+[00:57:35] [main/TRACE] [mixin]: Added class metadata for net/minecraft/server/management/PlayerInteractionManager to metadata cache
+[00:57:35] [main/INFO] [Hammer Core [ASM]]: Transforming net.minecraft.entity.EntityLivingBase (vp)...
+[00:57:35] [main/INFO] [Hammer Core [ASM]]:   -Patching EntityLivingBase
+[00:57:35] [main/INFO] [Hammer Core [ASM]]:     -Modified method 'onItemUseFinish': added event call.
+[00:57:35] [main/INFO] [Astral Core]: [AstralTransformer] Transforming vp : net.minecraft.entity.EntityLivingBase with 4 patches!
+[00:57:35] [main/INFO] [Astral Core]: [AstralTransformer] Applied patch PATCHAPPLYPOTIONEFFECTEVENT
+[00:57:35] [main/INFO] [Astral Core]: [AstralTransformer] Applied patch PATCHENTITYLIVINGBASEWATERSLOWDOWN
+[00:57:35] [main/INFO] [Astral Core]: [AstralTransformer] Applied patch PATCHSETPLAYERATTRIBUTE
+[00:57:35] [main/INFO] [Astral Core]: [AstralTransformer] Applied patch PATCHUPDATEELYTRA
+[00:57:35] [main/DEBUG] [mixin]: Mixing MixinEntityLivingBase from mixins.wolfarmor.core.json into net.minecraft.entity.EntityLivingBase
+[00:57:35] [main/TRACE] [mixin]: Added class metadata for net/minecraft/command/ICommandSender to metadata cache
+[00:57:35] [main/TRACE] [mixin]: Added class metadata for net/minecraftforge/common/capabilities/ICapabilitySerializable to metadata cache
+[00:57:35] [main/TRACE] [mixin]: Added class metadata for net/minecraftforge/common/capabilities/ICapabilityProvider to metadata cache
+[00:57:35] [main/TRACE] [mixin]: Added class metadata for net/minecraftforge/common/util/INBTSerializable to metadata cache
+[00:57:35] [main/TRACE] [mixin]: Added class metadata for net/minecraft/nbt/NBTTagList to metadata cache
+[00:57:35] [main/DEBUG] [mixin]: Mixing MixinEntity from mixins.wolfarmor.core.json into net.minecraft.entity.Entity
+[00:57:35] [main/TRACE] [mixin]: Added class metadata for java/util/List to metadata cache
+[00:57:35] [main/TRACE] [mixin]: Added class metadata for java/util/ArrayList to metadata cache
+[00:57:35] [main/TRACE] [mixin]: Added class metadata for java/util/AbstractList to metadata cache
+[00:57:35] [main/TRACE] [mixin]: Added class metadata for java/util/AbstractCollection to metadata cache
+[00:57:35] [main/INFO] [LaunchWrapper]: Launching wrapped minecraft {net.minecraft.server.MinecraftServer}
+[00:57:36] [main/DEBUG] [mixin]: Mixing MixinPotion from mixins.wolfarmor.core.json into net.minecraft.potion.Potion
+[00:57:36] [main/TRACE] [mixin]: Added class metadata for net/minecraftforge/registries/IForgeRegistryEntry$Impl to metadata cache
+[00:57:36] [main/TRACE] [mixin]: Added class metadata for net/minecraftforge/common/MinecraftForge to metadata cache
+[00:57:36] [main/TRACE] [mixin]: Added class metadata for dev/satyrn/wolfarmor/common/event/PotionEffectEvent to metadata cache
+[00:57:36] [main/TRACE] [mixin]: Added class metadata for net/minecraftforge/fml/common/eventhandler/Event to metadata cache
+[00:57:36] [main/TRACE] [mixin]: Added class metadata for net/minecraftforge/fml/common/eventhandler/EventBus to metadata cache
+[00:57:36] [main/TRACE] [mixin]: Added class metadata for net/minecraftforge/registries/IForgeRegistryEntry to metadata cache
+[00:57:36] [main/INFO] [Hammer Core [ASM]]: Transforming net.minecraft.entity.item.EntityItem (acl)...
+[00:57:36] [main/INFO] [Hammer Core [ASM]]:   -Patching EntityItem
+[00:57:36] [main/INFO] [Hammer Core [ASM]]:     -Modified method 'attackEntityFrom': added event call.
+[00:57:36] [main/INFO] [Astral Core]: [AstralTransformer] Transforming aip : net.minecraft.item.ItemStack with 2 patches!
+[00:57:36] [main/INFO] [Astral Core]: [AstralTransformer] Skipping PATCHMODIFYENCHANTMENTLEVELSTOOLTIP as it can't be applied for side SERVER
+[00:57:36] [main/INFO] [Astral Core]: [AstralTransformer] Skipping PATCHMODIFYENCHANTMENTLEVELSTOOLTIPEVENT as it can't be applied for side SERVER
+[00:57:37] [main/DEBUG] [mixin]: Mixing MixinEntityCreature from mixins.wolfarmor.core.json into net.minecraft.entity.EntityCreature
+[00:57:37] [main/DEBUG] [mixin]: Mixing MixinEntityLiving from mixins.wolfarmor.core.json into net.minecraft.entity.EntityLiving
+[00:57:37] [main/DEBUG] [mixin]: Mixing accessors.EntityLivingAccessor from mixins.wolfarmor.core.json into net.minecraft.entity.EntityLiving
+[00:57:37] [main/DEBUG] [mixin]: Mixing camera.EntityPlayerMPMixin from securitycraft.mixins.json into net.minecraft.entity.player.EntityPlayerMP
+[00:57:37] [main/TRACE] [mixin]: Added class metadata for net/minecraft/inventory/IContainerListener to metadata cache
+[00:57:37] [main/DEBUG] [mixin]: Mixing riftstabilizer.ItemChorusFruitMixin from securitycraft.mixins.json into net.minecraft.item.ItemChorusFruit
+[00:57:37] [main/TRACE] [mixin]: Added class metadata for net/minecraft/item/ItemFood to metadata cache
+[00:57:37] [main/TRACE] [mixin]: Added class metadata for net/minecraft/item/Item to metadata cache
+[00:57:37] [main/TRACE] [mixin]: Added class metadata for net/minecraft/util/math/Vec3d to metadata cache
+[00:57:37] [main/TRACE] [mixin]: Added class metadata for net/geforcemods/securitycraft/SCEventHandler to metadata cache
+[00:57:37] [main/INFO] [Astral Core]: [AstralTransformer] Transforming aip : net.minecraft.item.ItemStack with 2 patches!
+[00:57:37] [main/INFO] [Astral Core]: [AstralTransformer] Skipping PATCHMODIFYENCHANTMENTLEVELSTOOLTIP as it can't be applied for side SERVER
+[00:57:37] [main/INFO] [Astral Core]: [AstralTransformer] Skipping PATCHMODIFYENCHANTMENTLEVELSTOOLTIPEVENT as it can't be applied for side SERVER
+[00:57:37] [main/TRACE] [mixin]: Added class metadata for net/minecraft/item/ItemStack to metadata cache
+[00:57:37] [main/INFO] [Astral Core]: [AstralTransformer] Transforming amu : net.minecraft.world.World with 2 patches!
+[00:57:37] [main/INFO] [Astral Core]: [AstralTransformer] Skipping PATCHSUNBRIGHTNESSWORLDCLIENT as it can't be applied for side SERVER
+[00:57:37] [main/INFO] [Astral Core]: [AstralTransformer] Applied patch PATCHSUNBRIGHTNESSWORLDCOMMON
+[00:57:37] [main/TRACE] [mixin]: Added class metadata for net/minecraft/world/World to metadata cache
+[00:57:37] [main/TRACE] [mixin]: Added class metadata for org/spongepowered/asm/mixin/injection/callback/CallbackInfoReturnable to metadata cache
+[00:57:38] [main/INFO] [Astral Core]: [AstralTransformer] Transforming wg : net.minecraft.entity.ai.attributes.AbstractAttributeMap with 1 patches!
+[00:57:38] [main/INFO] [Astral Core]: [AstralTransformer] Applied patch PATCHADDPLAYERATTRIBUTE
+[00:57:38] [main/DEBUG] [mixin]: Mixing MixinEntityAnimal from mixins.wolfarmor.core.json into net.minecraft.entity.passive.EntityAnimal
+[00:57:38] [main/TRACE] [mixin]: Added class metadata for net/minecraft/entity/passive/IAnimals to metadata cache
+[00:57:38] [main/DEBUG] [mixin]: Mixing MixinEntityAgeable from mixins.wolfarmor.core.json into net.minecraft.entity.EntityAgeable
+[00:57:38] [main/DEBUG] [OpenMods]: openmods.core.OpenModsClassTransformer$4$1.createVisitor(OpenModsClassTransformer.java:136): Trying to patch AbstractHorse (class: aao)
+[00:57:38] [main/TRACE] [OpenMods]: openmods.utils.StateTracker$StateUpdater.update(StateTracker.java:26): State of horse_base_null_fix updated from ENABLED to ACTIVATED
+[00:57:38] [main/TRACE] [OpenMods]: openmods.utils.StateTracker$StateUpdater.update(StateTracker.java:26): State of horse_base_null_fix updated from ACTIVATED to FINISHED
+[00:57:38] [main/DEBUG] [mixin]: Mixing MixinEntityWolf from mixins.wolfarmor.core.json into net.minecraft.entity.passive.EntityWolf
+[00:57:38] [main/TRACE] [mixin]: Added class metadata for net/minecraft/entity/IEntityOwnable to metadata cache
+[00:57:38] [main/TRACE] [mixin]: Added class metadata for dev/satyrn/wolfarmor/api/entity/passive/IArmoredWolf to metadata cache
+[00:57:38] [main/TRACE] [mixin]: Added class metadata for dev/satyrn/wolfarmor/api/entity/IFoodStatsCreature to metadata cache
+[00:57:38] [main/TRACE] [mixin]: Added class metadata for net/minecraft/inventory/IInventoryChangedListener to metadata cache
+[00:57:38] [main/TRACE] [mixin]: Added class metadata for net/minecraft/inventory/ContainerHorseChest to metadata cache
+[00:57:38] [main/TRACE] [mixin]: Added class metadata for dev/satyrn/wolfarmor/api/util/CreatureFoodStats to metadata cache
+[00:57:38] [main/TRACE] [mixin]: Added class metadata for dev/satyrn/wolfarmor/config/WolfArmorConfig to metadata cache
+[00:57:38] [main/TRACE] [mixin]: Added class metadata for net/minecraftforge/fml/common/network/simpleimpl/SimpleNetworkWrapper to metadata cache
+[00:57:38] [main/TRACE] [mixin]: Added class metadata for dev/satyrn/wolfarmor/WolfArmorMod to metadata cache
+[00:57:38] [main/TRACE] [mixin]: Added class metadata for dev/satyrn/wolfarmor/util/WolfFoodStatsLevel to metadata cache
+[00:57:38] [main/TRACE] [mixin]: Added class metadata for net/minecraft/inventory/IInventory to metadata cache
+[00:57:38] [main/TRACE] [mixin]: Added class metadata for net/minecraft/entity/SharedMonsterAttributes to metadata cache
+[00:57:38] [main/TRACE] [mixin]: Added class metadata for dev/satyrn/wolfarmor/api/util/DataHelper to metadata cache
+[00:57:38] [main/TRACE] [mixin]: Added class metadata for net/minecraft/network/datasync/EntityDataManager to metadata cache
+[00:57:38] [main/TRACE] [mixin]: Added class metadata for java/lang/Boolean to metadata cache
+[00:57:38] [main/TRACE] [mixin]: Added class metadata for java/io/Serializable to metadata cache
+[00:57:38] [main/TRACE] [mixin]: Added class metadata for java/lang/Comparable to metadata cache
+[00:57:38] [main/TRACE] [mixin]: Added class metadata for dev/satyrn/wolfarmor/util/WolfInventorySize to metadata cache
+[00:57:38] [main/TRACE] [mixin]: Added class metadata for net/minecraft/inventory/EntityEquipmentSlot to metadata cache
+[00:57:38] [main/TRACE] [mixin]: Added class metadata for java/util/Arrays to metadata cache
+[00:57:38] [main/TRACE] [mixin]: Added class metadata for net/minecraft/inventory/InventoryBasic to metadata cache
+[00:57:38] [main/TRACE] [mixin]: Added class metadata for org/apache/logging/log4j/Level to metadata cache
+[00:57:38] [main/TRACE] [mixin]: Added class metadata for java/lang/Integer to metadata cache
+[00:57:38] [main/TRACE] [mixin]: Added class metadata for java/lang/Number to metadata cache
+[00:57:38] [main/TRACE] [mixin]: Added class metadata for java/lang/String to metadata cache
+[00:57:38] [main/TRACE] [mixin]: Added class metadata for java/lang/CharSequence to metadata cache
+[00:57:38] [main/TRACE] [mixin]: Added class metadata for dev/satyrn/wolfarmor/api/util/ILogHelper to metadata cache
+[00:57:38] [main/TRACE] [mixin]: Added class metadata for net/minecraft/init/Blocks to metadata cache
+[00:57:38] [main/TRACE] [mixin]: Added class metadata for java/lang/Math to metadata cache
+[00:57:38] [main/TRACE] [mixin]: Added class metadata for net/minecraft/entity/ai/attributes/IAttributeInstance to metadata cache
+[00:57:38] [main/INFO] [Astral Core]: [AstralTransformer] Transforming alm : net.minecraft.enchantment.EnchantmentHelper with 1 patches!
+[00:57:38] [main/INFO] [Astral Core]: [AstralTransformer] Applied patch PATCHMODIFYENCHANTMENTLEVELS
+[00:57:38] [main/TRACE] [mixin]: Added class metadata for net/minecraft/enchantment/EnchantmentHelper to metadata cache
+[00:57:38] [main/TRACE] [mixin]: Added class metadata for net/minecraft/init/Enchantments to metadata cache
+[00:57:38] [main/TRACE] [mixin]: Added class metadata for net/minecraft/util/DamageSource to metadata cache
+[00:57:38] [main/TRACE] [mixin]: Added class metadata for net/minecraft/util/math/MathHelper to metadata cache
+[00:57:38] [main/TRACE] [mixin]: Added class metadata for dev/satyrn/wolfarmor/common/network/packets/UpdateFoodStatsMessage to metadata cache
+[00:57:38] [main/TRACE] [mixin]: Added class metadata for dev/satyrn/wolfarmor/common/network/MessageBase$ClientMessageBase to metadata cache
+[00:57:38] [main/TRACE] [mixin]: Added class metadata for dev/satyrn/wolfarmor/common/network/MessageBase to metadata cache
+[00:57:38] [main/TRACE] [mixin]: Added class metadata for net/minecraftforge/fml/common/network/simpleimpl/IMessage to metadata cache
+[00:57:38] [main/TRACE] [mixin]: Added class metadata for net/minecraftforge/fml/common/network/simpleimpl/IMessageHandler to metadata cache
+[00:57:38] [main/TRACE] [mixin]: Added class metadata for net/minecraft/util/math/AxisAlignedBB to metadata cache
+[00:57:38] [main/TRACE] [mixin]: Added class metadata for net/minecraft/entity/item/EntityXPOrb to metadata cache
+[00:57:38] [main/TRACE] [mixin]: Added class metadata for java/util/Random to metadata cache
+[00:57:38] [main/TRACE] [mixin]: Added class metadata for net/minecraft/init/SoundEvents to metadata cache
+[00:57:38] [main/TRACE] [mixin]: Added class metadata for java/lang/Iterable to metadata cache
+[00:57:38] [main/TRACE] [mixin]: Added class metadata for java/lang/Byte to metadata cache
+[00:57:38] [main/TRACE] [mixin]: Added class metadata for net/minecraft/pathfinding/PathNavigate to metadata cache
+[00:57:38] [main/TRACE] [mixin]: Added class metadata for dev/satyrn/wolfarmor/util/OreDictHelper to metadata cache
+[00:57:38] [main/TRACE] [mixin]: Added class metadata for dev/satyrn/wolfarmor/api/util/Criteria to metadata cache
+[00:57:38] [main/TRACE] [mixin]: Added class metadata for dev/satyrn/wolfarmor/advancements/WolfArmorTrigger to metadata cache
+[00:57:38] [main/TRACE] [mixin]: Added class metadata for dev/satyrn/wolfarmor/api/util/Items to metadata cache
+[00:57:38] [main/TRACE] [mixin]: Added class metadata for dev/satyrn/wolfarmor/api/item/IItemWolfArmor to metadata cache
+[00:57:38] [main/TRACE] [mixin]: Added class metadata for dev/satyrn/wolfarmor/item/ItemWolfArmor to metadata cache
+[00:57:38] [main/TRACE] [mixin]: Added class metadata for net/minecraft/entity/ai/attributes/IAttribute to metadata cache
+[00:57:38] [main/TRACE] [mixin]: Added class metadata for com/google/common/collect/Multimap to metadata cache
+[00:57:38] [main/TRACE] [mixin]: Added class metadata for java/util/Collection to metadata cache
+[00:57:38] [main/TRACE] [mixin]: Added class metadata for net/minecraft/block/material/Material to metadata cache
+[00:57:38] [main/TRACE] [mixin]: Added class metadata for net/minecraft/world/IWorldNameable to metadata cache
+[00:57:38] [main/TRACE] [mixin]: Added class metadata for net/minecraft/potion/PotionEffect to metadata cache
+[00:57:38] [main/TRACE] [mixin]: Added class metadata for dev/satyrn/wolfarmor/common/network/packets/RemovePotionEffectMessage to metadata cache
+[00:57:38] [main/TRACE] [mixin]: Added class metadata for dev/satyrn/wolfarmor/common/network/packets/UpdatePotionEffectMessage to metadata cache
+[00:57:38] [main/TRACE] [mixin]: Added class metadata for net/minecraft/network/datasync/DataSerializers to metadata cache
+[00:57:38] [main/TRACE] [mixin]: Added class metadata for dev/satyrn/wolfarmor/common/network/WolfArmorChannel to metadata cache
+[00:57:38] [main/TRACE] [mixin]: Added class metadata for net/minecraft/network/datasync/DataParameter to metadata cache
+[00:57:38] [main/TRACE] [mixin]: Added class metadata for net/minecraft/entity/item/EntityItem to metadata cache
+[00:57:38] [main/TRACE] [mixin]: Added class metadata for net/minecraft/block/BlockChest to metadata cache
+[00:57:38] [main/TRACE] [mixin]: Added class metadata for net/minecraft/block/Block to metadata cache
+[00:57:38] [main/TRACE] [mixin]: Added class metadata for net/minecraft/entity/EnumCreatureAttribute to metadata cache
+[00:57:38] [main/TRACE] [mixin]: Added class metadata for net/minecraft/enchantment/Enchantment to metadata cache
+[00:57:38] [main/TRACE] [mixin]: Added class metadata for net/minecraft/util/SoundEvent to metadata cache
+[00:57:38] [main/TRACE] [mixin]: Added class metadata for net/minecraft/util/EnumHand to metadata cache
+[00:57:38] [main/TRACE] [mixin]: Added class metadata for net/minecraft/advancements/ICriterionTrigger to metadata cache
+[00:57:38] [main/TRACE] [mixin]: Added class metadata for java/util/UUID to metadata cache
+[00:57:38] [main/TRACE] [mixin]: Added class metadata for java/lang/Class to metadata cache
+[00:57:38] [main/TRACE] [mixin]: Added class metadata for java/util/function/Consumer to metadata cache
+[00:57:38] [main/TRACE] [mixin]: Added class metadata for java/lang/invoke/MethodType to metadata cache
+[00:57:38] [main/TRACE] [mixin]: Added class metadata for java/lang/invoke/MethodHandle to metadata cache
+[00:57:38] [main/TRACE] [mixin]: Added class metadata for java/lang/invoke/CallSite to metadata cache
+[00:57:38] [main/TRACE] [mixin]: Added class metadata for net/minecraft/entity/ai/attributes/AttributeModifier to metadata cache
+[00:57:38] [main/TRACE] [mixin]: Added class metadata for net/minecraft/network/datasync/DataSerializer to metadata cache
+[00:57:38] [main/DEBUG] [mixin]: Mixing MixinEntityTameable from mixins.wolfarmor.core.json into net.minecraft.entity.passive.EntityTameable
+[00:57:38] [main/TRACE] [mixin]: Added class metadata for java/lang/Throwable to metadata cache
+[00:57:38] [main/DEBUG] [mixin]: Mixing MixinEntityAISit from mixins.wolfarmor.core.json into net.minecraft.entity.ai.EntityAISit
+[00:57:38] [main/TRACE] [mixin]: Added class metadata for net/minecraft/entity/ai/EntityAIBase to metadata cache
+[00:57:38] [main/DEBUG] [OpenMods]: openmods.core.OpenModsClassTransformer$5$1.createVisitor(OpenModsClassTransformer.java:154): Trying to patch EntityHorse (class: aaq)
+[00:57:38] [main/TRACE] [OpenMods]: openmods.utils.StateTracker$StateUpdater.update(StateTracker.java:26): State of horse_null_fix updated from ENABLED to ACTIVATED
+[00:57:38] [main/TRACE] [OpenMods]: openmods.utils.StateTracker$StateUpdater.update(StateTracker.java:26): State of horse_null_fix updated from ACTIVATED to FINISHED
+[00:57:38] [main/DEBUG] [OpenMods]: openmods.core.OpenModsClassTransformer$6$1.createVisitor(OpenModsClassTransformer.java:172): Trying to patch EntityLlama (class: aas)
+[00:57:38] [main/TRACE] [OpenMods]: openmods.utils.StateTracker$StateUpdater.update(StateTracker.java:26): State of llama_null_fix updated from ENABLED to ACTIVATED
+[00:57:38] [main/TRACE] [OpenMods]: openmods.utils.StateTracker$StateUpdater.update(StateTracker.java:26): State of llama_null_fix updated from ACTIVATED to FINISHED
+[00:57:39] [main/DEBUG] [FML]: Creating vanilla freeze snapshot
+[00:57:39] [main/DEBUG] [FML]: Vanilla freeze snapshot created
+[00:57:40] [main/DEBUG] [mixin]: Mixing potion.ContainerBrewingStandMixin from securitycraft.mixins.json into net.minecraft.inventory.ContainerBrewingStand
+[00:57:40] [main/TRACE] [mixin]: Added class metadata for net/minecraft/inventory/Container to metadata cache
+[00:57:40] [main/TRACE] [mixin]: Added class metadata for net/minecraft/inventory/Slot to metadata cache
+[00:57:40] [main/INFO] [Hammer Core [ASM]]: Transforming net.minecraft.profiler.Profiler (rl)...
+[00:57:40] [main/INFO] [Hammer Core [ASM]]:   -Patched startSection!
+[00:57:40] [main/INFO] [Hammer Core [ASM]]:   -Patched endSection!
+[00:57:40] [main/INFO] [Hammer Core [ASM]]:   -Patched endStartSection!
+[00:57:40] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Starting minecraft server version 1.12.2
+[00:57:40] [Server thread/INFO] [FML]: MinecraftForge v14.23.5.2860 Initialized
+[00:57:40] [Server thread/INFO] [FML]: Starts to replace vanilla recipe ingredients with ore ingredients.
+[00:57:40] [Server thread/INFO] [FML]: Invalid recipe found with multiple oredict ingredients in the same ingredient...
+[00:57:40] [Server thread/INFO] [FML]: Replaced 1227 ore ingredients
+[00:57:40] [Server thread/DEBUG] [FML]: File /workspaces/shawnfrost77/servidor_minecraft/config/injectedDependencies.json not found. No dependencies injected
+[00:57:40] [Server thread/DEBUG] [FML]: Building injected Mod Containers [net.minecraftforge.fml.common.FMLContainer, net.minecraftforge.common.ForgeModContainer, com.creativemd.creativecore.core.CreativeCoreDummy, openmods.core.OpenModsCore]
+[00:57:40] [Server thread/DEBUG] [FML]: Attempting to load mods contained in the minecraft jar file and associated classes
+[00:57:40] [Server thread/DEBUG] [FML]: Found a minecraft related file at /workspaces/shawnfrost77/servidor_minecraft/forge-1.12.2-14.23.5.2860.jar, examining for mod candidates
+[00:57:40] [Server thread/TRACE] [FML]: Skipping known library file /workspaces/shawnfrost77/servidor_minecraft/./mods/[1.12.2]+SecurityCraft+v1.9.8.jar
+[00:57:40] [Server thread/TRACE] [FML]: Skipping known library file /workspaces/shawnfrost77/servidor_minecraft/./mods/astralsorcery-1.12.2-1.10.27.jar
+[00:57:40] [Server thread/TRACE] [FML]: Skipping known library file /workspaces/shawnfrost77/servidor_minecraft/./mods/backpacks+1.12.2+-+3.5.12.jar
+[00:57:40] [Server thread/TRACE] [FML]: Skipping known library file /workspaces/shawnfrost77/servidor_minecraft/./mods/CreativeCore_v1.10.71_mc1.12.2.jar
+[00:57:40] [Server thread/TRACE] [FML]: Skipping known library file /workspaces/shawnfrost77/servidor_minecraft/./mods/HammerLib-1.12.2-12.2.46.jar
+[00:57:40] [Server thread/TRACE] [FML]: Skipping known library file /workspaces/shawnfrost77/servidor_minecraft/./mods/OpenModsLib-1.12.2-0.12.2.jar
+[00:57:40] [Server thread/TRACE] [FML]: Skipping known library file /workspaces/shawnfrost77/servidor_minecraft/./mods/WolfArmorAndStorage-1.12.2-3.8.0-universal-signed.jar
+[00:57:40] [Server thread/DEBUG] [FML]: Minecraft jar mods loaded successfully
+[00:57:40] [Server thread/INFO] [FML]: Searching /workspaces/shawnfrost77/servidor_minecraft/./mods for mods
+[00:57:40] [Server thread/DEBUG] [FML]:   Adding betteranimalsplus-1.12.2-9.0.1.jar to the mod list
+[00:57:40] [Server thread/DEBUG] [FML]:   Adding TravelersBackpack-1.12.2-1.0.35.jar to the mod list
+[00:57:40] [Server thread/DEBUG] [FML]:   Adding PlayerRevive_v1.2.40_mc1.12.2.jar to the mod list
+[00:57:40] [Server thread/DEBUG] [FML]:   Adding DynamicTrees-1.12.2-0.9.29.jar to the mod list
+[00:57:40] [Server thread/DEBUG] [FML]:   Adding gravestone-1.10.3.jar to the mod list
+[00:57:40] [Server thread/DEBUG] [FML]:   Adding tl_skin_cape_forge_1.16.5-1.19.jar to the mod list
+[00:57:40] [Server thread/DEBUG] [FML]:   Adding jeiintegration_1.12.2-1.6.0.jar to the mod list
+[00:57:40] [Server thread/DEBUG] [FML]:   Adding WolfArmorAndStorage-1.12.2-3.8.0-universal-signed.jar to the mod list
+[00:57:40] [Server thread/DEBUG] [FML]:   Adding Baubles-1.12-1.5.2.jar to the mod list
+[00:57:40] [Server thread/DEBUG] [FML]:   Adding RoguelikeDungeons-1.12.2-1.8.0.jar to the mod list
+[00:57:40] [Server thread/DEBUG] [FML]:   Adding tl_skin_cape_forge_1.21.3-1.35.jar to the mod list
+[00:57:40] [Server thread/DEBUG] [FML]:   Adding jei_1.12.2-4.16.1.1000.jar to the mod list
+[00:57:40] [Server thread/DEBUG] [FML]:   Adding OpenBlocks-1.12.2-1.8.1.jar to the mod list
+[00:57:40] [Server thread/DEBUG] [FML]:   Adding xptome-1.12.2-v2.0.1.jar to the mod list
+[00:57:40] [Server thread/DEBUG] [FML]:   Adding exp_bottling-1.12.2-3.jar to the mod list
+[00:57:40] [Server thread/DEBUG] [FML]:   Adding Hwyla-1.8.26-B41_1.12.2.jar to the mod list
+[00:57:40] [Server thread/DEBUG] [FML]:   Adding MCA-Español-1.12.2.jar to the mod list
+[00:57:40] [Server thread/DEBUG] [FML]:   Adding DurabilityViewer-1.12-forge14.21.1.2387-1.6.jar to the mod list
+[00:57:40] [Server thread/DEBUG] [FML]:   Adding RadixCore-1.12.x-2.2.1-universal.jar to the mod list
+[00:57:40] [Server thread/DEBUG] [FML]:   Adding astralsorcery-1.12.2-1.10.27.jar to the mod list
+[00:57:40] [Server thread/DEBUG] [FML]:   Adding ElevatorMod-1.12.2-1.3.14.jar to the mod list
+[00:57:40] [Server thread/DEBUG] [FML]:   Adding OpenModsLib-1.12.2-0.12.2.jar to the mod list
+[00:57:40] [Server thread/DEBUG] [FML]:   Adding [1.12.2]+SecurityCraft+v1.9.8.jar to the mod list
+[00:57:40] [Server thread/DEBUG] [FML]:   Adding MedievalCraft-1.12.2-1.18.1.jar to the mod list
+[00:57:40] [Server thread/DEBUG] [FML]:   Adding journeymap-1.12.2-5.7.1.jar to the mod list
+[00:57:40] [Server thread/DEBUG] [FML]:   Adding HammerLib-1.12.2-12.2.46.jar to the mod list
+[00:57:40] [Server thread/DEBUG] [FML]:   Adding ImprovableSkills-1.12.2-12.4.68.jar to the mod list
+[00:57:40] [Server thread/DEBUG] [FML]:   Adding ElectroblobsWizardry-4.3.11.jar to the mod list
+[00:57:40] [Server thread/DEBUG] [FML]:   Adding TubeTransportSystem_1.7.10-0.6.jar to the mod list
+[00:57:40] [Server thread/DEBUG] [FML]:   Adding EvilCraft-1.12.2-0.10.78.jar to the mod list
+[00:57:40] [Server thread/DEBUG] [FML]:   Adding Vampirism-1.12.2-1.6.2.jar to the mod list
+[00:57:40] [Server thread/DEBUG] [FML]:   Adding backpacks+1.12.2+-+3.5.12.jar to the mod list
+[00:57:40] [Server thread/DEBUG] [FML]:   Adding CreativeCore_v1.10.71_mc1.12.2.jar to the mod list
+[00:57:40] [Server thread/DEBUG] [FML]:   Adding CyclopsCore-1.12.2-1.6.7.jar to the mod list
+[00:57:40] [Server thread/DEBUG] [FML]: Found a candidate zip or jar file [1.12.2]+SecurityCraft+v1.9.8.jar
+[00:57:40] [Server thread/DEBUG] [FML]: Found a candidate zip or jar file astralsorcery-1.12.2-1.10.27.jar
+[00:57:40] [Server thread/DEBUG] [FML]: Found a candidate zip or jar file backpacks+1.12.2+-+3.5.12.jar
+[00:57:40] [Server thread/DEBUG] [FML]: Found a candidate zip or jar file Baubles-1.12-1.5.2.jar
+[00:57:40] [Server thread/DEBUG] [FML]: Found a candidate zip or jar file CreativeCore_v1.10.71_mc1.12.2.jar
+[00:57:40] [Server thread/DEBUG] [FML]: Found a candidate zip or jar file CyclopsCore-1.12.2-1.6.7.jar
+[00:57:40] [Server thread/DEBUG] [FML]: Found a candidate zip or jar file DurabilityViewer-1.12-forge14.21.1.2387-1.6.jar
+[00:57:40] [Server thread/DEBUG] [FML]: Found a candidate zip or jar file DynamicTrees-1.12.2-0.9.29.jar
+[00:57:40] [Server thread/DEBUG] [FML]: Found a candidate zip or jar file ElectroblobsWizardry-4.3.11.jar
+[00:57:40] [Server thread/DEBUG] [FML]: Found a candidate zip or jar file ElevatorMod-1.12.2-1.3.14.jar
+[00:57:40] [Server thread/DEBUG] [FML]: Found a candidate zip or jar file EvilCraft-1.12.2-0.10.78.jar
+[00:57:40] [Server thread/DEBUG] [FML]: Found a candidate zip or jar file exp_bottling-1.12.2-3.jar
+[00:57:40] [Server thread/DEBUG] [FML]: Found a candidate zip or jar file gravestone-1.10.3.jar
+[00:57:40] [Server thread/DEBUG] [FML]: Found a candidate zip or jar file HammerLib-1.12.2-12.2.46.jar
+[00:57:40] [Server thread/DEBUG] [FML]: Found a candidate zip or jar file Hwyla-1.8.26-B41_1.12.2.jar
+[00:57:40] [Server thread/DEBUG] [FML]: Found a candidate zip or jar file ImprovableSkills-1.12.2-12.4.68.jar
+[00:57:40] [Server thread/DEBUG] [FML]: Found a candidate zip or jar file jei_1.12.2-4.16.1.1000.jar
+[00:57:40] [Server thread/DEBUG] [FML]: Found a candidate zip or jar file jeiintegration_1.12.2-1.6.0.jar
+[00:57:40] [Server thread/DEBUG] [FML]: Found a candidate zip or jar file journeymap-1.12.2-5.7.1.jar
+[00:57:40] [Server thread/DEBUG] [FML]: Found a candidate zip or jar file MCA-Español-1.12.2.jar
+[00:57:40] [Server thread/DEBUG] [FML]: Found a candidate zip or jar file MedievalCraft-1.12.2-1.18.1.jar
+[00:57:40] [Server thread/DEBUG] [FML]: Found a candidate zip or jar file OpenBlocks-1.12.2-1.8.1.jar
+[00:57:40] [Server thread/DEBUG] [FML]: Found a candidate zip or jar file OpenModsLib-1.12.2-0.12.2.jar
+[00:57:40] [Server thread/DEBUG] [FML]: Found a candidate zip or jar file PlayerRevive_v1.2.40_mc1.12.2.jar
+[00:57:40] [Server thread/DEBUG] [FML]: Found a candidate zip or jar file RadixCore-1.12.x-2.2.1-universal.jar
+[00:57:40] [Server thread/DEBUG] [FML]: Found a candidate zip or jar file RoguelikeDungeons-1.12.2-1.8.0.jar
+[00:57:40] [Server thread/DEBUG] [FML]: Found a candidate zip or jar file tl_skin_cape_forge_1.16.5-1.19.jar
+[00:57:40] [Server thread/DEBUG] [FML]: Found a candidate zip or jar file tl_skin_cape_forge_1.21.3-1.35.jar
+[00:57:40] [Server thread/DEBUG] [FML]: Found a candidate zip or jar file TravelersBackpack-1.12.2-1.0.35.jar
+[00:57:40] [Server thread/DEBUG] [FML]: Found a candidate zip or jar file TubeTransportSystem_1.7.10-0.6.jar
+[00:57:40] [Server thread/DEBUG] [FML]: Found a candidate zip or jar file Vampirism-1.12.2-1.6.2.jar
+[00:57:40] [Server thread/DEBUG] [FML]: Found a candidate zip or jar file WolfArmorAndStorage-1.12.2-3.8.0-universal-signed.jar
+[00:57:40] [Server thread/DEBUG] [FML]: Found a candidate zip or jar file xptome-1.12.2-v2.0.1.jar
+[00:57:40] [Server thread/DEBUG] [FML]: Found a candidate zip or jar file betteranimalsplus-1.12.2-9.0.1.jar
+[00:57:40] [Server thread/DEBUG] [FML]: Examining file forge-1.12.2-14.23.5.2860.jar for potential mods
+[00:57:40] [Server thread/DEBUG] [FML]: The mod container forge-1.12.2-14.23.5.2860.jar appears to be missing an mcmod.info file
+[00:57:41] [Server thread/DEBUG] [FML]: Examining file [1.12.2]+SecurityCraft+v1.9.8.jar for potential mods
+[00:57:41] [Server thread/TRACE] [FML]: Located mcmod.info file in file [1.12.2]+SecurityCraft+v1.9.8.jar
+[00:57:41] [Server thread/DEBUG] [FML]: Identified a mod of type Lnet/minecraftforge/fml/common/Mod; (net.geforcemods.securitycraft.SecurityCraft) - loading
+[00:57:41] [Server thread/TRACE] [FML]: Parsed dependency info for securitycraft: Requirements: [forge@[14.23.5.2826,)] After:[forge@[14.23.5.2826,)] Before:[]
+[00:57:41] [Server thread/DEBUG] [FML]: Attempting to load the file version.properties from [1.12.2]+SecurityCraft+v1.9.8.jar to locate a version number for mod securitycraft
+[00:57:41] [Server thread/WARN] [FML]: Mod securitycraft is missing the required element 'version' and a version.properties file could not be found. Falling back to metadata version v1.9.8
+[00:57:41] [Server thread/DEBUG] [FML]: Examining file astralsorcery-1.12.2-1.10.27.jar for potential mods
+[00:57:41] [Server thread/TRACE] [FML]: Located mcmod.info file in file astralsorcery-1.12.2-1.10.27.jar
+[00:57:41] [Server thread/DEBUG] [FML]: Identified a mod of type Lnet/minecraftforge/fml/common/Mod; (hellfirepvp.astralsorcery.AstralSorcery) - loading
+[00:57:41] [Server thread/TRACE] [FML]: Parsed dependency info for astralsorcery: Requirements: [baubles, forge@[14.23.5.2781,)] After:[forge@[14.23.5.2781,), baubles, crafttweaker] Before:[]
+[00:57:41] [Server thread/DEBUG] [FML]: Examining file backpacks+1.12.2+-+3.5.12.jar for potential mods
+[00:57:41] [Server thread/TRACE] [FML]: Located mcmod.info file in file backpacks+1.12.2+-+3.5.12.jar
+[00:57:41] [Server thread/DEBUG] [FML]: Identified a mod of type Lnet/minecraftforge/fml/common/Mod; (brad16840.common.Common) - loading
+[00:57:41] [Server thread/TRACE] [FML]: Parsed dependency info for backpacks16840: Requirements: [] After:[] Before:[]
+[00:57:41] [Server thread/DEBUG] [FML]: Examining file Baubles-1.12-1.5.2.jar for potential mods
+[00:57:41] [Server thread/TRACE] [FML]: Located mcmod.info file in file Baubles-1.12-1.5.2.jar
+[00:57:41] [Server thread/DEBUG] [FML]: Identified a mod of type Lnet/minecraftforge/fml/common/Mod; (baubles.common.Baubles) - loading
+[00:57:41] [Server thread/TRACE] [FML]: Parsed dependency info for baubles: Requirements: [forge@[14.21.0.2348,)] After:[forge@[14.21.0.2348,)] Before:[]
+[00:57:41] [Server thread/DEBUG] [FML]: Examining file CreativeCore_v1.10.71_mc1.12.2.jar for potential mods
+[00:57:41] [Server thread/TRACE] [FML]: Located mcmod.info file in file CreativeCore_v1.10.71_mc1.12.2.jar
+[00:57:41] [Server thread/DEBUG] [FML]: Identified a mod of type Lnet/minecraftforge/fml/common/Mod; (com.creativemd.creativecore.CreativeCore) - loading
+[00:57:41] [Server thread/TRACE] [FML]: Parsed dependency info for creativecore: Requirements: [] After:[] Before:[]
+[00:57:41] [Server thread/DEBUG] [FML]: Examining file CyclopsCore-1.12.2-1.6.7.jar for potential mods
+[00:57:41] [Server thread/TRACE] [FML]: Located mcmod.info file in file CyclopsCore-1.12.2-1.6.7.jar
+[00:57:41] [Server thread/DEBUG] [FML]: Identified a mod of type Lnet/minecraftforge/fml/common/Mod; (org.cyclops.cyclopscore.CyclopsCore) - loading
+[00:57:41] [Server thread/TRACE] [FML]: Parsed dependency info for cyclopscore: Requirements: [forge@[14.23.5.2768,)] After:[forge@[14.23.5.2768,)] Before:[]
+[00:57:41] [Server thread/DEBUG] [FML]: Examining file DurabilityViewer-1.12-forge14.21.1.2387-1.6.jar for potential mods
+[00:57:41] [Server thread/TRACE] [FML]: Located mcmod.info file in file DurabilityViewer-1.12-forge14.21.1.2387-1.6.jar
+[00:57:41] [Server thread/DEBUG] [FML]: Identified a mod of type Lnet/minecraftforge/fml/common/Mod; (de.guntram.mcmod.durabilityviewer.DurabilityViewer) - loading
+[00:57:41] [Server thread/INFO] [FML]: Disabling mod durabilityviewer it is client side only.
+[00:57:41] [Server thread/DEBUG] [FML]: Skipping mod de.guntram.mcmod.durabilityviewer.DurabilityViewer, container opted to not load.
+[00:57:41] [Server thread/DEBUG] [FML]: Examining file DynamicTrees-1.12.2-0.9.29.jar for potential mods
+[00:57:41] [Server thread/TRACE] [FML]: Located mcmod.info file in file DynamicTrees-1.12.2-0.9.29.jar
+[00:57:41] [Server thread/DEBUG] [FML]: Identified a mod of type Lnet/minecraftforge/fml/common/Mod; (com.ferreusveritas.dynamictrees.DynamicTrees) - loading
+[00:57:41] [Server thread/TRACE] [FML]: Parsed dependency info for dynamictrees: Requirements: [forge@[14.23.5.2859,)] After:[forge@[14.23.5.2859,), reccomplex] Before:[rustic@(1.0.14,), dynamictreesbop@[1.12.2-1.4.3,), dynamictreestc@[1.12.2-1.4.2,), [1.12.2-2.0.3,)@[1.12.2-2.0.3,), dttraverse@[1.12.2-2.0,), dynamictreeshnc@(1.1,)]
+[00:57:41] [Server thread/DEBUG] [FML]: Examining file ElectroblobsWizardry-4.3.11.jar for potential mods
+[00:57:41] [Server thread/TRACE] [FML]: Located mcmod.info file in file ElectroblobsWizardry-4.3.11.jar
+[00:57:41] [Server thread/DEBUG] [FML]: Identified a mod of type Lnet/minecraftforge/fml/common/Mod; (electroblob.wizardry.Wizardry) - loading
+[00:57:41] [Server thread/TRACE] [FML]: Parsed dependency info for ebwizardry: Requirements: [forge@[14.23.5.2847,)] After:[forge@[14.23.5.2847,), jei@[4.15.0,), baubles@[1.5.2,), antiqueatlas@[4.6,)] Before:[]
+[00:57:41] [Server thread/DEBUG] [FML]: Examining file ElevatorMod-1.12.2-1.3.14.jar for potential mods
+[00:57:41] [Server thread/TRACE] [FML]: Located mcmod.info file in file ElevatorMod-1.12.2-1.3.14.jar
+[00:57:41] [Server thread/DEBUG] [FML]: Identified a mod of type Lnet/minecraftforge/fml/common/Mod; (xyz.vsngamer.elevator.ElevatorMod) - loading
+[00:57:41] [Server thread/TRACE] [FML]: Parsed dependency info for elevatorid: Requirements: [] After:[] Before:[]
+[00:57:41] [Server thread/DEBUG] [FML]: Examining file EvilCraft-1.12.2-0.10.78.jar for potential mods
+[00:57:41] [Server thread/TRACE] [FML]: Located mcmod.info file in file EvilCraft-1.12.2-0.10.78.jar
+[00:57:41] [Server thread/DEBUG] [FML]: Identified a mod of type Lnet/minecraftforge/fml/common/Mod; (org.cyclops.evilcraft.EvilCraft) - loading
+[00:57:41] [Server thread/TRACE] [FML]: Parsed dependency info for evilcraft: Requirements: [cyclopscore@[1.5.0,), forge@[14.23.5.2768,)] After:[forge@[14.23.5.2768,), cyclopscore@[1.5.0,)] Before:[]
+[00:57:41] [Server thread/DEBUG] [FML]: Identified a mod of type Lnet/minecraftforge/fml/common/Mod; (org.cyclops.evilcraftcompat.EvilCraftCompat) - loading
+[00:57:41] [Server thread/TRACE] [FML]: Parsed dependency info for evilcraftcompat: Requirements: [forge@[14.23.5.2768,), cyclopscore@[1.0.6,)] After:[forge@[14.23.5.2768,), cyclopscore@[1.0.6,), thaumcraft, forestry@[5.8.0.241,), evilcraft] Before:[]
+[00:57:41] [Server thread/DEBUG] [FML]: Examining file exp_bottling-1.12.2-3.jar for potential mods
+[00:57:41] [Server thread/TRACE] [FML]: Located mcmod.info file in file exp_bottling-1.12.2-3.jar
+[00:57:41] [Server thread/DEBUG] [FML]: Identified a mod of type Lnet/minecraftforge/fml/common/Mod; (net.eidee.minecraft.exp_bottling.ExpBottling) - loading
+[00:57:41] [Server thread/TRACE] [FML]: Parsed dependency info for exp_bottling: Requirements: [] After:[] Before:[]
+[00:57:41] [Server thread/DEBUG] [FML]: Examining file gravestone-1.10.3.jar for potential mods
+[00:57:41] [Server thread/TRACE] [FML]: Located mcmod.info file in file gravestone-1.10.3.jar
+[00:57:41] [Server thread/DEBUG] [FML]: Identified a mod of type Lnet/minecraftforge/fml/common/Mod; (de.maxhenkel.gravestone.Main) - loading
+[00:57:41] [Server thread/TRACE] [FML]: Parsed dependency info for gravestone: Requirements: [] After:[] Before:[]
+[00:57:41] [Server thread/DEBUG] [FML]: Examining file HammerLib-1.12.2-12.2.46.jar for potential mods
+[00:57:41] [Server thread/TRACE] [FML]: Located mcmod.info file in file HammerLib-1.12.2-12.2.46.jar
+[00:57:41] [Server thread/DEBUG] [FML]: Identified a mod of type Lnet/minecraftforge/fml/common/Mod; (com.zeitheron.hammercore.HammerCore) - loading
+[00:57:41] [Server thread/TRACE] [FML]: Parsed dependency info for hammercore: Requirements: [] After:[] Before:[]
+[00:57:41] [Server thread/DEBUG] [FML]: Examining file Hwyla-1.8.26-B41_1.12.2.jar for potential mods
+[00:57:41] [Server thread/TRACE] [FML]: Located mcmod.info file in file Hwyla-1.8.26-B41_1.12.2.jar
+[00:57:41] [Server thread/DEBUG] [FML]: Identified a mod of type Lnet/minecraftforge/fml/common/Mod; (mcp.mobius.waila.Waila) - loading
+[00:57:41] [Server thread/TRACE] [FML]: Parsed dependency info for waila: Requirements: [] After:[] Before:[]
+[00:57:41] [Server thread/DEBUG] [FML]: Examining file ImprovableSkills-1.12.2-12.4.68.jar for potential mods
+[00:57:41] [Server thread/TRACE] [FML]: Located mcmod.info file in file ImprovableSkills-1.12.2-12.4.68.jar
+[00:57:41] [Server thread/DEBUG] [FML]: Identified a mod of type Lnet/minecraftforge/fml/common/Mod; (org.zeith.improvableskills.ImprovableSkillsMod) - loading
+[00:57:41] [Server thread/TRACE] [FML]: Parsed dependency info for improvableskills: Requirements: [hammercore@[2.0.6.32,)] After:[hammercore@[2.0.6.32,)] Before:[]
+[00:57:41] [Server thread/DEBUG] [FML]: Examining file jei_1.12.2-4.16.1.1000.jar for potential mods
+[00:57:41] [Server thread/TRACE] [FML]: Located mcmod.info file in file jei_1.12.2-4.16.1.1000.jar
+[00:57:41] [Server thread/DEBUG] [FML]: Identified a mod of type Lnet/minecraftforge/fml/common/Mod; (mezz.jei.JustEnoughItems) - loading
+[00:57:41] [Server thread/TRACE] [FML]: Parsed dependency info for jei: Requirements: [forge@[14.23.5.2816,)] After:[forge@[14.23.5.2816,)] Before:[]
+[00:57:41] [Server thread/DEBUG] [FML]: Examining file jeiintegration_1.12.2-1.6.0.jar for potential mods
+[00:57:41] [Server thread/TRACE] [FML]: Located mcmod.info file in file jeiintegration_1.12.2-1.6.0.jar
+[00:57:41] [Server thread/DEBUG] [FML]: Identified a mod of type Lnet/minecraftforge/fml/common/Mod; (com.snowshock35.jeiintegration.JEIIntegration) - loading
+[00:57:41] [Server thread/INFO] [FML]: Disabling mod jeiintegration it is client side only.
+[00:57:41] [Server thread/DEBUG] [FML]: Skipping mod com.snowshock35.jeiintegration.JEIIntegration, container opted to not load.
+[00:57:41] [Server thread/DEBUG] [FML]: Examining file journeymap-1.12.2-5.7.1.jar for potential mods
+[00:57:41] [Server thread/TRACE] [FML]: Located mcmod.info file in file journeymap-1.12.2-5.7.1.jar
+[00:57:42] [Server thread/DEBUG] [FML]: Identified a mod of type Lnet/minecraftforge/fml/common/Mod; (journeymap.common.Journeymap) - loading
+[00:57:42] [Server thread/TRACE] [FML]: Using mcmod dependency info for journeymap: [] [Forge@[14.23.5.2768,)] []
+[00:57:42] [Server thread/DEBUG] [FML]: Examining file MCA-Español-1.12.2.jar for potential mods
+[00:57:42] [Server thread/TRACE] [FML]: Located mcmod.info file in file MCA-Español-1.12.2.jar
+[00:57:42] [Server thread/DEBUG] [FML]: Identified a mod of type Lnet/minecraftforge/fml/common/Mod; (mca.core.MCA) - loading
+[00:57:42] [Server thread/TRACE] [FML]: Parsed dependency info for mca: Requirements: [] After:[] Before:[]
+[00:57:42] [Server thread/DEBUG] [FML]: Examining file MedievalCraft-1.12.2-1.18.1.jar for potential mods
+[00:57:42] [Server thread/TRACE] [FML]: Located mcmod.info file in file MedievalCraft-1.12.2-1.18.1.jar
+[00:57:42] [Server thread/DEBUG] [FML]: Identified a mod of type Lnet/minecraftforge/fml/common/Mod; (net.mcreator.medieval_craft.Medievalcraft) - loading
+[00:57:42] [Server thread/TRACE] [FML]: Using mcmod dependency info for medieval_craft: [] [] []
+[00:57:42] [Server thread/DEBUG] [FML]: Examining file OpenBlocks-1.12.2-1.8.1.jar for potential mods
+[00:57:42] [Server thread/TRACE] [FML]: Located mcmod.info file in file OpenBlocks-1.12.2-1.8.1.jar
+[00:57:42] [Server thread/DEBUG] [FML]: Identified a mod of type Lnet/minecraftforge/fml/common/Mod; (openblocks.OpenBlocks) - loading
+[00:57:42] [Server thread/TRACE] [FML]: Parsed dependency info for openblocks: Requirements: [forge@[14.23.4.2705,), openmods@[0.12.2,0.13)] After:[openmods@[0.12.2,0.13)] Before:[]
+[00:57:42] [Server thread/DEBUG] [FML]: Examining file OpenModsLib-1.12.2-0.12.2.jar for potential mods
+[00:57:42] [Server thread/TRACE] [FML]: Located mcmod.info file in file OpenModsLib-1.12.2-0.12.2.jar
+[00:57:42] [Server thread/DEBUG] [FML]: Identified a mod of type Lnet/minecraftforge/fml/common/Mod; (openmods.OpenMods) - loading
+[00:57:42] [Server thread/TRACE] [FML]: Parsed dependency info for openmods: Requirements: [openmodscore, forge@[14.23.4.2705,)] After:[openmodscore] Before:[]
+[00:57:42] [Server thread/DEBUG] [FML]: Examining file PlayerRevive_v1.2.40_mc1.12.2.jar for potential mods
+[00:57:42] [Server thread/TRACE] [FML]: Located mcmod.info file in file PlayerRevive_v1.2.40_mc1.12.2.jar
+[00:57:42] [Server thread/DEBUG] [FML]: Identified a mod of type Lnet/minecraftforge/fml/common/Mod; (com.creativemd.playerrevive.PlayerRevive) - loading
+[00:57:42] [Server thread/TRACE] [FML]: Parsed dependency info for playerrevive: Requirements: [creativecore] After:[creativecore] Before:[]
+[00:57:42] [Server thread/DEBUG] [FML]: Examining file RadixCore-1.12.x-2.2.1-universal.jar for potential mods
+[00:57:42] [Server thread/TRACE] [FML]: Located mcmod.info file in file RadixCore-1.12.x-2.2.1-universal.jar
+[00:57:42] [Server thread/DEBUG] [FML]: Identified a mod of type Lnet/minecraftforge/fml/common/Mod; (radixcore.core.RadixCore) - loading
+[00:57:42] [Server thread/TRACE] [FML]: Parsed dependency info for radixcore: Requirements: [] After:[] Before:[]
+[00:57:42] [Server thread/DEBUG] [FML]: Examining file RoguelikeDungeons-1.12.2-1.8.0.jar for potential mods
+[00:57:42] [Server thread/TRACE] [FML]: Located mcmod.info file in file RoguelikeDungeons-1.12.2-1.8.0.jar
+[00:57:42] [Server thread/DEBUG] [FML]: Identified a mod of type Lnet/minecraftforge/fml/common/Mod; (greymerk.roguelike.Roguelike) - loading
+[00:57:42] [Server thread/TRACE] [FML]: Parsed dependency info for roguelike: Requirements: [] After:[] Before:[]
+[00:57:42] [Server thread/DEBUG] [FML]: Examining file tl_skin_cape_forge_1.16.5-1.19.jar for potential mods
+[00:57:42] [Server thread/TRACE] [FML]: Located mcmod.info file in file tl_skin_cape_forge_1.16.5-1.19.jar
+[00:57:42] [Server thread/DEBUG] [FML]: Identified a mod of type Lnet/minecraftforge/fml/common/Mod; (org.tlauncher.forge.ForgeMod) - loading
+[00:57:42] [Server thread/WARN] [FML]: ****************************************
+[00:57:42] [Server thread/WARN] [FML]: * The mod tlskincape has been identified as a probable 1.13 or greater mod. Things will not work well.
+[00:57:42] [Server thread/WARN] [FML]: *  at net.minecraftforge.fml.common.FMLModContainer.sanityCheckModId(FMLModContainer.java:144)
+[00:57:42] [Server thread/WARN] [FML]: *  at net.minecraftforge.fml.common.FMLModContainer.<init>(FMLModContainer.java:128)
+[00:57:42] [Server thread/WARN] [FML]: *  at sun.reflect.GeneratedConstructorAccessor18.newInstance(Unknown Source)
+[00:57:42] [Server thread/WARN] [FML]: *  at sun.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45)
+[00:57:42] [Server thread/WARN] [FML]: *  at java.lang.reflect.Constructor.newInstance(Constructor.java:423)
+[00:57:42] [Server thread/WARN] [FML]: *  at net.minecraftforge.fml.common.ModContainerFactory.build(ModContainerFactory.java:73)...
+[00:57:42] [Server thread/WARN] [FML]: ****************************************
+[00:57:42] [Server thread/TRACE] [FML]: Parsed dependency info for tlskincape: Requirements: [] After:[] Before:[]
+[00:57:42] [Server thread/DEBUG] [FML]: Attempting to load the file version.properties from tl_skin_cape_forge_1.16.5-1.19.jar to locate a version number for mod tlskincape
+[00:57:42] [Server thread/WARN] [FML]: Mod tlskincape is missing the required element 'version' and a version.properties file could not be found. Falling back to metadata version 1.19
+[00:57:42] [Server thread/DEBUG] [FML]: Examining file tl_skin_cape_forge_1.21.3-1.35.jar for potential mods
+[00:57:42] [Server thread/TRACE] [FML]: Located mcmod.info file in file tl_skin_cape_forge_1.21.3-1.35.jar
+[00:57:42] [Server thread/ERROR] [FML]: Unable to read a class file correctly
+java.lang.IllegalArgumentException: null
+	at org.objectweb.asm.ClassReader.<init>(ClassReader.java:185) ~[asm-debug-all-5.2.jar:5.2]
+	at org.objectweb.asm.ClassReader.<init>(ClassReader.java:168) ~[asm-debug-all-5.2.jar:5.2]
+	at org.objectweb.asm.ClassReader.<init>(ClassReader.java:439) ~[asm-debug-all-5.2.jar:5.2]
+	at net.minecraftforge.fml.common.discovery.asm.ASMModParser.<init>(ASMModParser.java:57) [ASMModParser.class:?]
+	at net.minecraftforge.fml.common.discovery.JarDiscoverer.findClassesASM(JarDiscoverer.java:102) [JarDiscoverer.class:?]
+	at net.minecraftforge.fml.common.discovery.JarDiscoverer.discover(JarDiscoverer.java:77) [JarDiscoverer.class:?]
+	at net.minecraftforge.fml.common.discovery.ContainerType.findMods(ContainerType.java:47) [ContainerType.class:?]
+	at net.minecraftforge.fml.common.discovery.ModCandidate.explore(ModCandidate.java:74) [ModCandidate.class:?]
+	at net.minecraftforge.fml.common.discovery.ModDiscoverer.identifyMods(ModDiscoverer.java:93) [ModDiscoverer.class:?]
+	at net.minecraftforge.fml.common.Loader.identifyMods(Loader.java:427) [Loader.class:?]
+	at net.minecraftforge.fml.common.Loader.loadMods(Loader.java:568) [Loader.class:?]
+	at net.minecraftforge.fml.server.FMLServerHandler.beginServerLoading(FMLServerHandler.java:98) [FMLServerHandler.class:?]
+	at net.minecraftforge.fml.common.FMLCommonHandler.onServerStart(FMLCommonHandler.java:333) [FMLCommonHandler.class:?]
+	at net.minecraft.server.dedicated.DedicatedServer.func_71197_b(DedicatedServer.java:125) [nz.class:?]
+	at net.minecraft.server.MinecraftServer.run(MinecraftServer.java:486) [MinecraftServer.class:?]
+	at java.lang.Thread.run(Thread.java:750) [?:1.8.0_432]
+[00:57:42] [Server thread/ERROR] [FML]: There was a problem reading the entry org/tlauncher/connector/AbstractConnector.class in the jar ./mods/tl_skin_cape_forge_1.21.3-1.35.jar - probably a corrupt zip
+net.minecraftforge.fml.common.LoaderException: java.lang.IllegalArgumentException
+
+	at net.minecraftforge.fml.common.discovery.asm.ASMModParser.<init>(ASMModParser.java:63) ~[ASMModParser.class:?]
+	at net.minecraftforge.fml.common.discovery.JarDiscoverer.findClassesASM(JarDiscoverer.java:102) [JarDiscoverer.class:?]
+	at net.minecraftforge.fml.common.discovery.JarDiscoverer.discover(JarDiscoverer.java:77) [JarDiscoverer.class:?]
+	at net.minecraftforge.fml.common.discovery.ContainerType.findMods(ContainerType.java:47) [ContainerType.class:?]
+	at net.minecraftforge.fml.common.discovery.ModCandidate.explore(ModCandidate.java:74) [ModCandidate.class:?]
+	at net.minecraftforge.fml.common.discovery.ModDiscoverer.identifyMods(ModDiscoverer.java:93) [ModDiscoverer.class:?]
+	at net.minecraftforge.fml.common.Loader.identifyMods(Loader.java:427) [Loader.class:?]
+	at net.minecraftforge.fml.common.Loader.loadMods(Loader.java:568) [Loader.class:?]
+	at net.minecraftforge.fml.server.FMLServerHandler.beginServerLoading(FMLServerHandler.java:98) [FMLServerHandler.class:?]
+	at net.minecraftforge.fml.common.FMLCommonHandler.onServerStart(FMLCommonHandler.java:333) [FMLCommonHandler.class:?]
+	at net.minecraft.server.dedicated.DedicatedServer.func_71197_b(DedicatedServer.java:125) [nz.class:?]
+	at net.minecraft.server.MinecraftServer.run(MinecraftServer.java:486) [MinecraftServer.class:?]
+	at java.lang.Thread.run(Thread.java:750) [?:1.8.0_432]
+Caused by: java.lang.IllegalArgumentException
+	at org.objectweb.asm.ClassReader.<init>(ClassReader.java:185) ~[asm-debug-all-5.2.jar:5.2]
+	at org.objectweb.asm.ClassReader.<init>(ClassReader.java:168) ~[asm-debug-all-5.2.jar:5.2]
+	at org.objectweb.asm.ClassReader.<init>(ClassReader.java:439) ~[asm-debug-all-5.2.jar:5.2]
+	at net.minecraftforge.fml.common.discovery.asm.ASMModParser.<init>(ASMModParser.java:57) ~[ASMModParser.class:?]
+	... 12 more
+[00:57:42] [Server thread/WARN] [FML]: Zip file tl_skin_cape_forge_1.21.3-1.35.jar failed to read properly, it will be ignored
+net.minecraftforge.fml.common.LoaderException: java.lang.IllegalArgumentException
+
+	at net.minecraftforge.fml.common.discovery.asm.ASMModParser.<init>(ASMModParser.java:63) ~[ASMModParser.class:?]
+	at net.minecraftforge.fml.common.discovery.JarDiscoverer.findClassesASM(JarDiscoverer.java:102) ~[JarDiscoverer.class:?]
+	at net.minecraftforge.fml.common.discovery.JarDiscoverer.discover(JarDiscoverer.java:77) [JarDiscoverer.class:?]
+	at net.minecraftforge.fml.common.discovery.ContainerType.findMods(ContainerType.java:47) [ContainerType.class:?]
+	at net.minecraftforge.fml.common.discovery.ModCandidate.explore(ModCandidate.java:74) [ModCandidate.class:?]
+	at net.minecraftforge.fml.common.discovery.ModDiscoverer.identifyMods(ModDiscoverer.java:93) [ModDiscoverer.class:?]
+	at net.minecraftforge.fml.common.Loader.identifyMods(Loader.java:427) [Loader.class:?]
+	at net.minecraftforge.fml.common.Loader.loadMods(Loader.java:568) [Loader.class:?]
+	at net.minecraftforge.fml.server.FMLServerHandler.beginServerLoading(FMLServerHandler.java:98) [FMLServerHandler.class:?]
+	at net.minecraftforge.fml.common.FMLCommonHandler.onServerStart(FMLCommonHandler.java:333) [FMLCommonHandler.class:?]
+	at net.minecraft.server.dedicated.DedicatedServer.func_71197_b(DedicatedServer.java:125) [nz.class:?]
+	at net.minecraft.server.MinecraftServer.run(MinecraftServer.java:486) [MinecraftServer.class:?]
+	at java.lang.Thread.run(Thread.java:750) [?:1.8.0_432]
+Caused by: java.lang.IllegalArgumentException
+	at org.objectweb.asm.ClassReader.<init>(ClassReader.java:185) ~[asm-debug-all-5.2.jar:5.2]
+	at org.objectweb.asm.ClassReader.<init>(ClassReader.java:168) ~[asm-debug-all-5.2.jar:5.2]
+	at org.objectweb.asm.ClassReader.<init>(ClassReader.java:439) ~[asm-debug-all-5.2.jar:5.2]
+	at net.minecraftforge.fml.common.discovery.asm.ASMModParser.<init>(ASMModParser.java:57) ~[ASMModParser.class:?]
+	... 12 more
+[00:57:42] [Server thread/DEBUG] [FML]: Examining file TravelersBackpack-1.12.2-1.0.35.jar for potential mods
+[00:57:42] [Server thread/TRACE] [FML]: Located mcmod.info file in file TravelersBackpack-1.12.2-1.0.35.jar
+[00:57:42] [Server thread/DEBUG] [FML]: Identified a mod of type Lnet/minecraftforge/fml/common/Mod; (com.tiviacz.travelersbackpack.TravelersBackpack) - loading
+[00:57:42] [Server thread/TRACE] [FML]: Parsed dependency info for travelersbackpack: Requirements: [] After:[] Before:[]
+[00:57:42] [Server thread/DEBUG] [FML]: Examining file TubeTransportSystem_1.7.10-0.6.jar for potential mods
+[00:57:42] [Server thread/TRACE] [FML]: Located mcmod.info file in file TubeTransportSystem_1.7.10-0.6.jar
+[00:57:42] [Server thread/DEBUG] [FML]: Examining file Vampirism-1.12.2-1.6.2.jar for potential mods
+[00:57:42] [Server thread/TRACE] [FML]: Located mcmod.info file in file Vampirism-1.12.2-1.6.2.jar
+[00:57:42] [Server thread/DEBUG] [FML]: Identified a mod of type Lnet/minecraftforge/fml/common/Mod; (de.teamlapen.lib.VampLib) - loading
+[00:57:42] [Server thread/TRACE] [FML]: Parsed dependency info for teamlapen-lib: Requirements: [forge@[14.23.1.2554,)] After:[forge@[14.23.1.2554,)] Before:[]
+[00:57:42] [Server thread/DEBUG] [FML]: Identified a mod of type Lnet/minecraftforge/fml/common/Mod; (de.teamlapen.vampirism.VampirismMod) - loading
+[00:57:42] [Server thread/TRACE] [FML]: Parsed dependency info for vampirism: Requirements: [forge@[14.23.1.2554,)] After:[forge@[14.23.1.2554,), guideapi] Before:[]
+[00:57:42] [Server thread/DEBUG] [FML]: Examining file WolfArmorAndStorage-1.12.2-3.8.0-universal-signed.jar for potential mods
+[00:57:42] [Server thread/TRACE] [FML]: Located mcmod.info file in file WolfArmorAndStorage-1.12.2-3.8.0-universal-signed.jar
+[00:57:42] [Server thread/DEBUG] [FML]: Identified a mod of type Lnet/minecraftforge/fml/common/Mod; (dev.satyrn.wolfarmor.WolfArmorMod) - loading
+[00:57:42] [Server thread/TRACE] [FML]: Using mcmod dependency info for wolfarmor: [] [sophisticatedwolves, twilightforest, dogslie] []
+[00:57:42] [Server thread/DEBUG] [FML]: Examining file xptome-1.12.2-v2.0.1.jar for potential mods
+[00:57:42] [Server thread/TRACE] [FML]: Located mcmod.info file in file xptome-1.12.2-v2.0.1.jar
+[00:57:42] [Server thread/DEBUG] [FML]: Identified a mod of type Lnet/minecraftforge/fml/common/Mod; (bl4ckscor3.mod.xptome.XPTome) - loading
+[00:57:42] [Server thread/TRACE] [FML]: Parsed dependency info for xpbook: Requirements: [] After:[] Before:[]
+[00:57:42] [Server thread/DEBUG] [FML]: Attempting to load the file version.properties from xptome-1.12.2-v2.0.1.jar to locate a version number for mod xpbook
+[00:57:42] [Server thread/WARN] [FML]: Mod xpbook is missing the required element 'version' and a version.properties file could not be found. Falling back to metadata version v2.0.1
+[00:57:42] [Server thread/DEBUG] [FML]: Examining file betteranimalsplus-1.12.2-9.0.1.jar for potential mods
+[00:57:42] [Server thread/TRACE] [FML]: Located mcmod.info file in file betteranimalsplus-1.12.2-9.0.1.jar
+[00:57:42] [Server thread/DEBUG] [FML]: Identified a mod of type Lnet/minecraftforge/fml/common/Mod; (its_meow.betteranimalsplus.BetterAnimalsPlusMod) - loading
+[00:57:42] [Server thread/TRACE] [FML]: Parsed dependency info for betteranimalsplus: Requirements: [] After:[] Before:[]
+[00:57:42] [Server thread/INFO] [FML]: Forge Mod Loader has identified 38 mods to load
+[00:57:42] [Server thread/DEBUG] [FML]: Found API journeymap.client.api.model (owned by journeymap providing journeymap|client-api-model) embedded in journeymap
+[00:57:42] [Server thread/DEBUG] [FML]: Found API net.geforcemods.securitycraft.api (owned by securitycraft providing SecurityCraftAPI) embedded in securitycraft
+[00:57:42] [Server thread/DEBUG] [FML]: Found API journeymap.client.api.util (owned by journeymap providing journeymap|client-api-util) embedded in journeymap
+[00:57:42] [Server thread/DEBUG] [FML]: Found API de.teamlapen.vampirism.api (owned by vampirism providing VampirismAPI) embedded in teamlapen-lib
+[00:57:42] [Server thread/DEBUG] [FML]: Found API de.teamlapen.vampirism.api (owned by vampirism providing VampirismAPI) embedded in vampirism
+[00:57:42] [Server thread/DEBUG] [FML]: Found API mcp.mobius.waila.api (owned by Waila providing WailaAPI) embedded in waila
+[00:57:42] [Server thread/DEBUG] [FML]: Found API dev.satyrn.wolfarmor.api (owned by wolfarmor providing wolfarmor|API) embedded in wolfarmor
+[00:57:42] [Server thread/DEBUG] [FML]: Found API baubles.api (owned by Baubles providing Baubles|API) embedded in baubles
+[00:57:42] [Server thread/DEBUG] [FML]: Found API openblocks.api (owned by openblocks providing openblocks|api) embedded in openblocks
+[00:57:42] [Server thread/DEBUG] [FML]: Found API journeymap.client.api.display (owned by journeymap providing journeymap|client-api-display) embedded in journeymap
+[00:57:42] [Server thread/DEBUG] [FML]: Found API journeymap.client.api.event (owned by journeymap providing journeymap|client-api-event) embedded in journeymap
+[00:57:42] [Server thread/DEBUG] [FML]: Found API mezz.jei.api (owned by jei providing JustEnoughItemsAPI) embedded in jei
+[00:57:42] [Server thread/DEBUG] [FML]: Found API journeymap.client.api (owned by journeymap providing journeymap|client-api) embedded in journeymap
+[00:57:42] [Server thread/DEBUG] [FML]: Found API com.creativemd.playerrevive.api (owned by playerrevive providing PlayerReviveAPI) embedded in playerrevive
+[00:57:42] [Server thread/DEBUG] [FML]: Creating API container dummy for API Baubles|API: owner: Baubles, dependents: [baubles]
+[00:57:42] [Server thread/DEBUG] [FML]: Creating API container dummy for API SecurityCraftAPI: owner: securitycraft, dependents: []
+[00:57:42] [Server thread/DEBUG] [FML]: Creating API container dummy for API JustEnoughItemsAPI: owner: jei, dependents: []
+[00:57:42] [Server thread/DEBUG] [FML]: Creating API container dummy for API journeymap|client-api-display: owner: journeymap, dependents: []
+[00:57:42] [Server thread/DEBUG] [FML]: Creating API container dummy for API WailaAPI: owner: Waila, dependents: [waila]
+[00:57:42] [Server thread/DEBUG] [FML]: Creating API container dummy for API openblocks|api: owner: openblocks, dependents: []
+[00:57:42] [Server thread/DEBUG] [FML]: Creating API container dummy for API PlayerReviveAPI: owner: playerrevive, dependents: []
+[00:57:42] [Server thread/DEBUG] [FML]: Creating API container dummy for API VampirismAPI: owner: vampirism, dependents: [teamlapen-lib]
+[00:57:42] [Server thread/DEBUG] [FML]: Creating API container dummy for API journeymap|client-api-model: owner: journeymap, dependents: []
+[00:57:42] [Server thread/DEBUG] [FML]: Creating API container dummy for API journeymap|client-api: owner: journeymap, dependents: []
+[00:57:42] [Server thread/DEBUG] [FML]: Creating API container dummy for API journeymap|client-api-event: owner: journeymap, dependents: []
+[00:57:42] [Server thread/DEBUG] [FML]: Creating API container dummy for API journeymap|client-api-util: owner: journeymap, dependents: []
+[00:57:42] [Server thread/DEBUG] [FML]: Creating API container dummy for API wolfarmor|API: owner: wolfarmor, dependents: []
+[00:57:42] [Server thread/TRACE] [FML]: Received a system property request ''
+[00:57:42] [Server thread/TRACE] [FML]: System property request managing the state of 0 mods
+[00:57:42] [Server thread/DEBUG] [FML]: After merging, found state information for 0 mods
+[00:57:42] [Server thread/WARN] [FML]: Missing English translation for FML: assets/fml/lang/en_us.lang
+[00:57:42] [Server thread/DEBUG] [FML]: Enabling mod securitycraft
+[00:57:42] [Server thread/DEBUG] [FML]: Enabling mod astralsorcery
+[00:57:43] [Server thread/DEBUG] [FML]: Enabling mod backpacks16840
+[00:57:43] [Server thread/DEBUG] [FML]: Enabling mod baubles
+[00:57:43] [Server thread/DEBUG] [FML]: Enabling mod creativecore
+[00:57:43] [Server thread/DEBUG] [FML]: Enabling mod cyclopscore
+[00:57:43] [Server thread/DEBUG] [FML]: Enabling mod dynamictrees
+[00:57:43] [Server thread/DEBUG] [FML]: Enabling mod ebwizardry
+[00:57:43] [Server thread/DEBUG] [FML]: Enabling mod elevatorid
+[00:57:43] [Server thread/DEBUG] [FML]: Enabling mod evilcraft
+[00:57:43] [Server thread/DEBUG] [FML]: Enabling mod evilcraftcompat
+[00:57:43] [Server thread/DEBUG] [FML]: Enabling mod exp_bottling
+[00:57:43] [Server thread/DEBUG] [FML]: Enabling mod gravestone
+[00:57:43] [Server thread/DEBUG] [FML]: Enabling mod hammercore
+[00:57:43] [Server thread/DEBUG] [FML]: Enabling mod waila
+[00:57:43] [Server thread/DEBUG] [FML]: Enabling mod improvableskills
+[00:57:43] [Server thread/DEBUG] [FML]: Enabling mod jei
+[00:57:43] [Server thread/DEBUG] [FML]: Enabling mod journeymap
+[00:57:43] [Server thread/DEBUG] [FML]: Enabling mod mca
+[00:57:43] [Server thread/DEBUG] [FML]: Enabling mod medieval_craft
+[00:57:43] [Server thread/DEBUG] [FML]: Enabling mod openblocks
+[00:57:43] [Server thread/DEBUG] [FML]: Enabling mod openmods
+[00:57:43] [Server thread/DEBUG] [FML]: Enabling mod playerrevive
+[00:57:43] [Server thread/DEBUG] [FML]: Enabling mod radixcore
+[00:57:43] [Server thread/WARN] [FML]: Missing English translation for radixcore: assets/radixcore/lang/en_us.lang
+[00:57:43] [Server thread/DEBUG] [FML]: Enabling mod roguelike
+[00:57:43] [Server thread/WARN] [FML]: Missing English translation for roguelike: assets/roguelike/lang/en_us.lang
+[00:57:43] [Server thread/DEBUG] [FML]: Enabling mod tlskincape
+[00:57:43] [Server thread/WARN] [FML]: Missing English translation for tlskincape: assets/tlskincape/lang/en_us.lang
+[00:57:43] [Server thread/DEBUG] [FML]: Enabling mod travelersbackpack
+[00:57:43] [Server thread/DEBUG] [FML]: Enabling mod teamlapen-lib
+[00:57:43] [Server thread/WARN] [FML]: Missing English translation for teamlapen-lib: assets/teamlapen-lib/lang/en_us.lang
+[00:57:43] [Server thread/DEBUG] [FML]: Enabling mod vampirism
+[00:57:43] [Server thread/DEBUG] [FML]: Enabling mod wolfarmor
+[00:57:43] [Server thread/DEBUG] [FML]: Enabling mod xpbook
+[00:57:43] [Server thread/DEBUG] [FML]: Enabling mod betteranimalsplus
+[00:57:43] [Server thread/TRACE] [FML]: Verifying mod requirements are satisfied
+[00:57:43] [Server thread/FATAL] [FML]: The mod tlskincape does not wish to run in Minecraft version Minecraft 1.12.2. You will have to remove it to play.
+[00:57:43] [Server thread/FATAL] [FML]: Wrong Minecraft version for tlskincape
+[00:57:43] [Server thread/DEBUG] [FML]: Mod sorting data
+[00:57:43] [Server thread/DEBUG] [FML]: 	securitycraft(SecurityCraft:v1.9.8): [1.12.2]+SecurityCraft+v1.9.8.jar (required-after:forge@[14.23.5.2826,))
+[00:57:43] [Server thread/DEBUG] [FML]: 	astralsorcery(Astral Sorcery:1.10.27): astralsorcery-1.12.2-1.10.27.jar (required-after:forge@[14.23.5.2781,);required-after:baubles;after:crafttweaker)
+[00:57:43] [Server thread/DEBUG] [FML]: 	backpacks16840(Backpacks!:3.5.12): backpacks+1.12.2+-+3.5.12.jar ()
+[00:57:43] [Server thread/DEBUG] [FML]: 	baubles(Baubles:1.5.2): Baubles-1.12-1.5.2.jar (required-after:forge@[14.21.0.2348,);)
+[00:57:43] [Server thread/DEBUG] [FML]: 	creativecore(CreativeCore:1.10.0): CreativeCore_v1.10.71_mc1.12.2.jar ()
+[00:57:43] [Server thread/DEBUG] [FML]: 	cyclopscore(Cyclops Core:1.6.7): CyclopsCore-1.12.2-1.6.7.jar (required-after:forge@[14.23.5.2768,);)
+[00:57:43] [Server thread/DEBUG] [FML]: 	dynamictrees(Dynamic Trees:1.12.2-0.9.29): DynamicTrees-1.12.2-0.9.29.jar (required-after:forge@[14.23.5.2859,);before:rustic@(1.0.14,);before:dynamictreesbop@[1.12.2-1.4.3,);before:dynamictreestc@[1.12.2-1.4.2,);before:@[1.12.2-2.0.3,)@[1.12.2-2.0.3,);before:dttraverse@[1.12.2-2.0,);before:dynamictreeshnc@(1.1,);after:reccomplex)
+[00:57:43] [Server thread/DEBUG] [FML]: 	ebwizardry(Electroblob's Wizardry:4.3.11): ElectroblobsWizardry-4.3.11.jar (required-after:forge@[14.23.5.2847,);after:jei@[4.15.0,);after:baubles@[1.5.2,);after:antiqueatlas@[4.6,))
+[00:57:43] [Server thread/DEBUG] [FML]: 	elevatorid(Elevator Mod:1.3.14): ElevatorMod-1.12.2-1.3.14.jar ()
+[00:57:43] [Server thread/DEBUG] [FML]: 	evilcraft(EvilCraft:0.10.78): EvilCraft-1.12.2-0.10.78.jar (required-after:forge@[14.23.5.2768,);required-after:cyclopscore@[1.5.0,);)
+[00:57:43] [Server thread/DEBUG] [FML]: 	evilcraftcompat(EvilCraft-Compat:1.0.0): EvilCraft-1.12.2-0.10.78.jar (required-after:forge@[14.23.5.2768,);required-after:cyclopscore@[1.0.6,);after:thaumcraft;after:forestry@[5.8.0.241,);after:evilcraft)
+[00:57:43] [Server thread/DEBUG] [FML]: 	exp_bottling(EXP Bottling:1.12.2-1): exp_bottling-1.12.2-3.jar ()
+[00:57:43] [Server thread/DEBUG] [FML]: 	gravestone(Gravestone Mod:1.10.3): gravestone-1.10.3.jar ()
+[00:57:43] [Server thread/DEBUG] [FML]: 	hammercore(HammerLib:12.2.46): HammerLib-1.12.2-12.2.46.jar ()
+[00:57:43] [Server thread/DEBUG] [FML]: 	waila(Waila:1.8.26): Hwyla-1.8.26-B41_1.12.2.jar ()
+[00:57:43] [Server thread/DEBUG] [FML]: 	improvableskills(Improvable Skills:12.4.68): ImprovableSkills-1.12.2-12.4.68.jar (required-after:hammercore@[2.0.6.32,))
+[00:57:43] [Server thread/DEBUG] [FML]: 	jei(Just Enough Items:4.16.1.1000): jei_1.12.2-4.16.1.1000.jar (required-after:forge@[14.23.5.2816,);)
+[00:57:43] [Server thread/DEBUG] [FML]: 	journeymap(JourneyMap:1.12.2-5.7.1): journeymap-1.12.2-5.7.1.jar ()
+[00:57:43] [Server thread/DEBUG] [FML]: 	mca(Minecraft Comes Alive:6.1.0): MCA-Español-1.12.2.jar ()
+[00:57:43] [Server thread/DEBUG] [FML]: 	medieval_craft(Medieval craft:1.14.4): MedievalCraft-1.12.2-1.18.1.jar ()
+[00:57:43] [Server thread/DEBUG] [FML]: 	openblocks(OpenBlocks:1.8.1): OpenBlocks-1.12.2-1.8.1.jar (required:forge@[14.23.4.2705,);required-after:openmods@[0.12.2,0.13))
+[00:57:43] [Server thread/DEBUG] [FML]: 	openmods(OpenModsLib:0.12.2): OpenModsLib-1.12.2-0.12.2.jar (required:forge@[14.23.4.2705,);required-after:openmodscore)
+[00:57:43] [Server thread/DEBUG] [FML]: 	playerrevive(Player Revive:1.0): PlayerRevive_v1.2.40_mc1.12.2.jar (required-after:creativecore)
+[00:57:43] [Server thread/DEBUG] [FML]: 	radixcore(RadixCore:1.12.x-2.2.1): RadixCore-1.12.x-2.2.1-universal.jar ()
+[00:57:43] [Server thread/DEBUG] [FML]: 	roguelike(Roguelike Dungeons:1.8.0): RoguelikeDungeons-1.12.2-1.8.0.jar ()
+[00:57:43] [Server thread/DEBUG] [FML]: 	tlskincape(TLSkinCape:1.19): tl_skin_cape_forge_1.16.5-1.19.jar ()
+[00:57:43] [Server thread/DEBUG] [FML]: 	travelersbackpack(Traveler's Backpack:1.0.35): TravelersBackpack-1.12.2-1.0.35.jar ()
+[00:57:43] [Server thread/DEBUG] [FML]: 	teamlapen-lib(TeamLapen Library:1.6.2): Vampirism-1.12.2-1.6.2.jar (required-after:forge@[14.23.1.2554,))
+[00:57:43] [Server thread/DEBUG] [FML]: 	vampirism(Vampirism:1.6.2): Vampirism-1.12.2-1.6.2.jar (required-after:forge@[14.23.1.2554,);after:guideapi)
+[00:57:43] [Server thread/DEBUG] [FML]: 	wolfarmor(Wolf Armor and Storage:3.8.0): WolfArmorAndStorage-1.12.2-3.8.0-universal-signed.jar ()
+[00:57:43] [Server thread/DEBUG] [FML]: 	xpbook(XP Tome:v2.0.1): xptome-1.12.2-v2.0.1.jar ()
+[00:57:43] [Server thread/DEBUG] [FML]: 	betteranimalsplus(Better Animals Plus:9.0.1): betteranimalsplus-1.12.2-9.0.1.jar ()
+[00:57:43] [Server thread/ERROR] [net.minecraft.server.MinecraftServer]: Encountered an unexpected exception
+net.minecraftforge.fml.common.WrongMinecraftVersionException: Wrong Minecraft version for tlskincape
+Wrong Minecraft Versions!
+Mod: tlskincape
+Location: ./mods/tl_skin_cape_forge_1.16.5-1.19.jar
+Expected: [1.13,)
+Current: Minecraft 1.12.2
+
+
+	at net.minecraftforge.fml.common.Loader.sortModList(Loader.java:252) ~[Loader.class:?]
+	at net.minecraftforge.fml.common.Loader.loadMods(Loader.java:572) ~[Loader.class:?]
+	at net.minecraftforge.fml.server.FMLServerHandler.beginServerLoading(FMLServerHandler.java:98) ~[FMLServerHandler.class:?]
+	at net.minecraftforge.fml.common.FMLCommonHandler.onServerStart(FMLCommonHandler.java:333) ~[FMLCommonHandler.class:?]
+	at net.minecraft.server.dedicated.DedicatedServer.func_71197_b(DedicatedServer.java:125) ~[nz.class:?]
+	at net.minecraft.server.MinecraftServer.run(MinecraftServer.java:486) [MinecraftServer.class:?]
+	at java.lang.Thread.run(Thread.java:750) [?:1.8.0_432]
+[00:57:43] [Server thread/ERROR] [net.minecraft.server.MinecraftServer]: This crash report has been saved to: /workspaces/shawnfrost77/servidor_minecraft/./crash-reports/crash-2024-12-08_00.57.43-server.txt
+[00:57:43] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Stopping server
+[00:57:43] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Saving worlds
+[00:57:43] [Server thread/TRACE] [FML]: Sending event FMLServerStoppedEvent to mod minecraft
+[00:57:43] [Server thread/TRACE] [FML]: Sent event FMLServerStoppedEvent to mod minecraft
+[00:57:43] [Server thread/DEBUG] [FML]: Bar Step: ServerStopped - Minecraft took 0.001s
+[00:57:43] [Server thread/TRACE] [FML]: Sending event FMLServerStoppedEvent to mod mcp
+[00:57:43] [Server thread/TRACE] [FML]: Sent event FMLServerStoppedEvent to mod mcp
+[00:57:43] [Server thread/DEBUG] [FML]: Bar Step: ServerStopped - Minecraft Coder Pack took 0.002s
+[00:57:43] [Server thread/TRACE] [FML]: Sending event FMLServerStoppedEvent to mod FML
+[00:57:43] [Server thread/TRACE] [FML]: Sent event FMLServerStoppedEvent to mod FML
+[00:57:43] [Server thread/DEBUG] [FML]: Bar Step: ServerStopped - Forge Mod Loader took 0.000s
+[00:57:43] [Server thread/TRACE] [FML]: Sending event FMLServerStoppedEvent to mod forge
+[00:57:43] [Server thread/TRACE] [FML]: Sent event FMLServerStoppedEvent to mod forge
+[00:57:43] [Server thread/DEBUG] [FML]: Bar Step: ServerStopped - Minecraft Forge took 0.000s
+[00:57:43] [Server thread/TRACE] [FML]: Sending event FMLServerStoppedEvent to mod creativecoredummy
+[00:57:43] [Server thread/TRACE] [FML]: Sent event FMLServerStoppedEvent to mod creativecoredummy
+[00:57:43] [Server thread/DEBUG] [FML]: Bar Step: ServerStopped - CreativeCoreDummy took 0.000s
+[00:57:43] [Server thread/TRACE] [FML]: Sending event FMLServerStoppedEvent to mod openmodscore
+[00:57:43] [Server thread/TRACE] [FML]: Sent event FMLServerStoppedEvent to mod openmodscore
+[00:57:43] [Server thread/DEBUG] [FML]: Bar Step: ServerStopped - OpenModsLib Core took 0.000s
+[00:57:43] [Server thread/TRACE] [FML]: Sending event FMLServerStoppedEvent to mod securitycraft
+[00:57:43] [Server thread/TRACE] [FML]: Sent event FMLServerStoppedEvent to mod securitycraft
+[00:57:43] [Server thread/DEBUG] [FML]: Bar Step: ServerStopped - SecurityCraft took 0.001s
+[00:57:43] [Server thread/TRACE] [FML]: Sending event FMLServerStoppedEvent to mod astralsorcery
+[00:57:43] [Server thread/TRACE] [FML]: Sent event FMLServerStoppedEvent to mod astralsorcery
+[00:57:43] [Server thread/DEBUG] [FML]: Bar Step: ServerStopped - Astral Sorcery took 0.000s
+[00:57:43] [Server thread/TRACE] [FML]: Sending event FMLServerStoppedEvent to mod backpacks16840
+[00:57:43] [Server thread/TRACE] [FML]: Sent event FMLServerStoppedEvent to mod backpacks16840
+[00:57:43] [Server thread/DEBUG] [FML]: Bar Step: ServerStopped - Backpacks! took 0.000s
+[00:57:43] [Server thread/TRACE] [FML]: Sending event FMLServerStoppedEvent to mod baubles
+[00:57:43] [Server thread/TRACE] [FML]: Sent event FMLServerStoppedEvent to mod baubles
+[00:57:43] [Server thread/DEBUG] [FML]: Bar Step: ServerStopped - Baubles took 0.000s
+[00:57:43] [Server thread/TRACE] [FML]: Sending event FMLServerStoppedEvent to mod creativecore
+[00:57:43] [Server thread/TRACE] [FML]: Sent event FMLServerStoppedEvent to mod creativecore
+[00:57:43] [Server thread/DEBUG] [FML]: Bar Step: ServerStopped - CreativeCore took 0.001s
+[00:57:43] [Server thread/TRACE] [FML]: Sending event FMLServerStoppedEvent to mod cyclopscore
+[00:57:43] [Server thread/TRACE] [FML]: Sent event FMLServerStoppedEvent to mod cyclopscore
+[00:57:43] [Server thread/DEBUG] [FML]: Bar Step: ServerStopped - Cyclops Core took 0.001s
+[00:57:43] [Server thread/TRACE] [FML]: Sending event FMLServerStoppedEvent to mod dynamictrees
+[00:57:43] [Server thread/TRACE] [FML]: Sent event FMLServerStoppedEvent to mod dynamictrees
+[00:57:43] [Server thread/DEBUG] [FML]: Bar Step: ServerStopped - Dynamic Trees took 0.001s
+[00:57:43] [Server thread/TRACE] [FML]: Sending event FMLServerStoppedEvent to mod ebwizardry
+[00:57:43] [Server thread/TRACE] [FML]: Sent event FMLServerStoppedEvent to mod ebwizardry
+[00:57:43] [Server thread/DEBUG] [FML]: Bar Step: ServerStopped - Electroblob's Wizardry took 0.004s
+[00:57:43] [Server thread/TRACE] [FML]: Sending event FMLServerStoppedEvent to mod elevatorid
+[00:57:43] [Server thread/TRACE] [FML]: Sent event FMLServerStoppedEvent to mod elevatorid
+[00:57:43] [Server thread/DEBUG] [FML]: Bar Step: ServerStopped - Elevator Mod took 0.001s
+[00:57:43] [Server thread/TRACE] [FML]: Sending event FMLServerStoppedEvent to mod evilcraft
+[00:57:43] [Server thread/TRACE] [FML]: Sent event FMLServerStoppedEvent to mod evilcraft
+[00:57:43] [Server thread/DEBUG] [FML]: Bar Step: ServerStopped - EvilCraft took 0.000s
+[00:57:43] [Server thread/TRACE] [FML]: Sending event FMLServerStoppedEvent to mod evilcraftcompat
+[00:57:43] [Server thread/TRACE] [FML]: Sent event FMLServerStoppedEvent to mod evilcraftcompat
+[00:57:43] [Server thread/DEBUG] [FML]: Bar Step: ServerStopped - EvilCraft-Compat took 0.001s
+[00:57:43] [Server thread/TRACE] [FML]: Sending event FMLServerStoppedEvent to mod exp_bottling
+[00:57:43] [Server thread/TRACE] [FML]: Sent event FMLServerStoppedEvent to mod exp_bottling
+[00:57:43] [Server thread/DEBUG] [FML]: Bar Step: ServerStopped - EXP Bottling took 0.001s
+[00:57:43] [Server thread/TRACE] [FML]: Sending event FMLServerStoppedEvent to mod gravestone
+[00:57:43] [Server thread/TRACE] [FML]: Sent event FMLServerStoppedEvent to mod gravestone
+[00:57:43] [Server thread/DEBUG] [FML]: Bar Step: ServerStopped - Gravestone Mod took 0.001s
+[00:57:43] [Server thread/TRACE] [FML]: Sending event FMLServerStoppedEvent to mod hammercore
+[00:57:43] [Server thread/TRACE] [FML]: Sent event FMLServerStoppedEvent to mod hammercore
+[00:57:43] [Server thread/DEBUG] [FML]: Bar Step: ServerStopped - HammerLib took 0.000s
+[00:57:43] [Server thread/TRACE] [FML]: Sending event FMLServerStoppedEvent to mod waila
+[00:57:43] [Server thread/TRACE] [FML]: Sent event FMLServerStoppedEvent to mod waila
+[00:57:43] [Server thread/DEBUG] [FML]: Bar Step: ServerStopped - Waila took 0.000s
+[00:57:43] [Server thread/TRACE] [FML]: Sending event FMLServerStoppedEvent to mod improvableskills
+[00:57:43] [Server thread/TRACE] [FML]: Sent event FMLServerStoppedEvent to mod improvableskills
+[00:57:43] [Server thread/DEBUG] [FML]: Bar Step: ServerStopped - Improvable Skills took 0.001s
+[00:57:43] [Server thread/TRACE] [FML]: Sending event FMLServerStoppedEvent to mod jei
+[00:57:43] [Server thread/TRACE] [FML]: Sent event FMLServerStoppedEvent to mod jei
+[00:57:43] [Server thread/DEBUG] [FML]: Bar Step: ServerStopped - Just Enough Items took 0.002s
+[00:57:43] [Server thread/TRACE] [FML]: Sending event FMLServerStoppedEvent to mod journeymap
+[00:57:43] [Server thread/TRACE] [FML]: Sent event FMLServerStoppedEvent to mod journeymap
+[00:57:43] [Server thread/DEBUG] [FML]: Bar Step: ServerStopped - JourneyMap took 0.000s
+[00:57:43] [Server thread/TRACE] [FML]: Sending event FMLServerStoppedEvent to mod mca
+[00:57:43] [Server thread/TRACE] [FML]: Sent event FMLServerStoppedEvent to mod mca
+[00:57:43] [Server thread/DEBUG] [FML]: Bar Step: ServerStopped - Minecraft Comes Alive took 0.000s
+[00:57:43] [Server thread/TRACE] [FML]: Sending event FMLServerStoppedEvent to mod medieval_craft
+[00:57:43] [Server thread/TRACE] [FML]: Sent event FMLServerStoppedEvent to mod medieval_craft
+[00:57:43] [Server thread/DEBUG] [FML]: Bar Step: ServerStopped - Medieval craft took 0.001s
+[00:57:43] [Server thread/TRACE] [FML]: Sending event FMLServerStoppedEvent to mod openblocks
+[00:57:43] [Server thread/TRACE] [FML]: Sent event FMLServerStoppedEvent to mod openblocks
+[00:57:43] [Server thread/DEBUG] [FML]: Bar Step: ServerStopped - OpenBlocks took 0.000s
+[00:57:43] [Server thread/TRACE] [FML]: Sending event FMLServerStoppedEvent to mod openmods
+[00:57:43] [Server thread/TRACE] [FML]: Sent event FMLServerStoppedEvent to mod openmods
+[00:57:43] [Server thread/DEBUG] [FML]: Bar Step: ServerStopped - OpenModsLib took 0.000s
+[00:57:43] [Server thread/TRACE] [FML]: Sending event FMLServerStoppedEvent to mod playerrevive
+[00:57:43] [Server thread/TRACE] [FML]: Sent event FMLServerStoppedEvent to mod playerrevive
+[00:57:43] [Server thread/DEBUG] [FML]: Bar Step: ServerStopped - Player Revive took 0.000s
+[00:57:43] [Server thread/TRACE] [FML]: Sending event FMLServerStoppedEvent to mod radixcore
+[00:57:43] [Server thread/TRACE] [FML]: Sent event FMLServerStoppedEvent to mod radixcore
+[00:57:43] [Server thread/DEBUG] [FML]: Bar Step: ServerStopped - RadixCore took 0.000s
+[00:57:43] [Server thread/TRACE] [FML]: Sending event FMLServerStoppedEvent to mod roguelike
+[00:57:43] [Server thread/TRACE] [FML]: Sent event FMLServerStoppedEvent to mod roguelike
+[00:57:43] [Server thread/DEBUG] [FML]: Bar Step: ServerStopped - Roguelike Dungeons took 0.000s
+[00:57:43] [Server thread/TRACE] [FML]: Sending event FMLServerStoppedEvent to mod tlskincape
+[00:57:43] [Server thread/TRACE] [FML]: Sent event FMLServerStoppedEvent to mod tlskincape
+[00:57:43] [Server thread/DEBUG] [FML]: Bar Step: ServerStopped - TLSkinCape took 0.000s
+[00:57:43] [Server thread/TRACE] [FML]: Sending event FMLServerStoppedEvent to mod travelersbackpack
+[00:57:43] [Server thread/TRACE] [FML]: Sent event FMLServerStoppedEvent to mod travelersbackpack
+[00:57:43] [Server thread/DEBUG] [FML]: Bar Step: ServerStopped - Traveler's Backpack took 0.000s
+[00:57:43] [Server thread/TRACE] [FML]: Sending event FMLServerStoppedEvent to mod teamlapen-lib
+[00:57:43] [Server thread/TRACE] [FML]: Sent event FMLServerStoppedEvent to mod teamlapen-lib
+[00:57:43] [Server thread/DEBUG] [FML]: Bar Step: ServerStopped - TeamLapen Library took 0.000s
+[00:57:43] [Server thread/TRACE] [FML]: Sending event FMLServerStoppedEvent to mod vampirism
+[00:57:43] [Server thread/TRACE] [FML]: Sent event FMLServerStoppedEvent to mod vampirism
+[00:57:43] [Server thread/DEBUG] [FML]: Bar Step: ServerStopped - Vampirism took 0.000s
+[00:57:43] [Server thread/TRACE] [FML]: Sending event FMLServerStoppedEvent to mod wolfarmor
+[00:57:43] [Server thread/TRACE] [FML]: Sent event FMLServerStoppedEvent to mod wolfarmor
+[00:57:43] [Server thread/DEBUG] [FML]: Bar Step: ServerStopped - Wolf Armor and Storage took 0.000s
+[00:57:43] [Server thread/TRACE] [FML]: Sending event FMLServerStoppedEvent to mod xpbook
+[00:57:43] [Server thread/TRACE] [FML]: Sent event FMLServerStoppedEvent to mod xpbook
+[00:57:43] [Server thread/DEBUG] [FML]: Bar Step: ServerStopped - XP Tome took 0.000s
+[00:57:43] [Server thread/TRACE] [FML]: Sending event FMLServerStoppedEvent to mod betteranimalsplus
+[00:57:43] [Server thread/TRACE] [FML]: Sent event FMLServerStoppedEvent to mod betteranimalsplus
+[00:57:43] [Server thread/DEBUG] [FML]: Bar Step: ServerStopped - Better Animals Plus took 0.000s
+[00:57:43] [Server thread/DEBUG] [FML]: Bar Finished: ServerStopped took 0.025s
+[00:57:43] [Server thread/INFO] [FML]: The state engine was in incorrect state CONSTRUCTING and forced into state SERVER_STOPPED. Errors may have been discarded.
+[00:57:43] [Server Shutdown Thread/INFO] [net.minecraft.server.MinecraftServer]: Stopping server
+[00:57:43] [Server Shutdown Thread/INFO] [net.minecraft.server.MinecraftServer]: Saving worlds
