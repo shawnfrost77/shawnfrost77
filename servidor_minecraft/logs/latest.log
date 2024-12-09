@@ -756,3 +756,6 @@ Caused by: java.lang.IllegalArgumentException
 [04:30:48] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Jonaxwolf left the game
 [04:30:48] [Server thread/WARN] [net.minecraft.network.NetworkManager]: handleDisconnection() called twice
 [04:36:36] [Server thread/WARN] [net.minecraft.entity.EntityTrackerEntry]: Fetching addPacket for removed entity
+[04:47:19] [Server thread/WARN] [net.minecraft.entity.EntityTrackerEntry]: Fetching addPacket for removed entity
+[04:54:56] [Server thread/WARN] [net.minecraft.entity.EntityTrackerEntry]: Fetching addPacket for removed entity
+[04:55:00] [Server thread/WARN] [net.minecraft.entity.EntityTrackerEntry]: Fetching addPacket for removed entity
