@@ -617,3 +617,42 @@ Caused by: java.lang.IllegalArgumentException
 [03:42:11] [Server thread/INFO] [Waila]: Player EntityPlayerMP['facundoph'/10215, l='world', x=-464.12, y=64.00, z=147.35] connected. Sending ping
 [03:42:11] [Server thread/INFO] [Astral Sorcery]: [Astral Sorcery] Waiting for server synchronization on login for facundoph...
 [03:42:11] [Server thread/INFO] [Astral Sorcery]: [Astral Sorcery] Synchronizing baseline information to facundoph
+[03:45:57] [Netty Epoll Server IO #1/INFO] [FML]: Client protocol version 2
+[03:45:57] [Netty Epoll Server IO #1/INFO] [FML]: Client attempting to join with 39 mods : minecraft@1.12.2,wolfarmor@3.8.0,cyclopscore@1.6.7,astralsorcery@1.10.27,baubles@1.5.2,mca@6.1.0,creativecoredummy@1.0.0,openmodscore@0.12.2,creativecore@1.10.0,openmods@0.12.2,ebwizardry@4.3.11,jei@4.16.1.1000,radixcore@1.12.x-2.2.1,medieval_craft@1.14.4,evilcraftcompat@1.0.0,improvableskills@12.4.68,jeiintegration@1.6.0,roguelike@1.8.0,mcp@9.42,gravestone@1.10.3,hammercore@12.2.46,journeymap@1.12.2-5.7.1,securitycraft@v1.9.8,travelersbackpack@1.0.35,evilcraft@0.10.78,backpacks16840@3.5.12,elevatorid@1.3.14,FML@8.0.99.99,betteranimalsplus@9.0.1,vampirism@1.6.2,waila@1.8.26,durabilityviewer@1.6,teamlapen-lib@1.6.2,forge@14.23.5.2859,dynamictrees@1.12.2-0.9.29,exp_bottling@1.12.2-1,playerrevive@1.0,openblocks@1.8.1,xpbook@v2.0.1
+[03:45:57] [Netty Epoll Server IO #1/INFO] [journeymap]: CLIENT
+[03:45:58] [Server thread/INFO] [FML]: [Server thread] Server side modded connection established
+[03:45:58] [Server thread/INFO] [net.minecraft.server.management.PlayerList]: Jonaxwolf[/127.0.0.1:33680] logged in with entity id 12617 at (-483.8729946355179, 68.0, 140.11267433238285)
+[03:45:58] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Jonaxwolf joined the game
+[03:45:58] [Server thread/INFO] [ebwizardry]: Sending global donation perk settings to Jonaxwolf
+[03:45:58] [Server thread/INFO] [ebwizardry]: Synchronising spell glyph data for Jonaxwolf
+[03:45:58] [Server thread/INFO] [ebwizardry]: Synchronising spell emitters for Jonaxwolf
+[03:45:58] [Server thread/INFO] [ebwizardry]: Synchronising config settings for Jonaxwolf
+[03:45:58] [Server thread/INFO] [ebwizardry]: Synchronising advancements for Jonaxwolf
+[03:45:58] [Server thread/INFO] [Waila]: Player EntityPlayerMP['Jonaxwolf'/12617, l='world', x=-483.87, y=68.00, z=140.11] connected. Sending ping
+[03:45:58] [Server thread/INFO] [Astral Sorcery]: [Astral Sorcery] Waiting for server synchronization on login for Jonaxwolf...
+[03:45:58] [Server thread/INFO] [Astral Sorcery]: [Astral Sorcery] Synchronizing baseline information to Jonaxwolf
+[03:49:04] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Jonaxwolf is bleeding...
+[03:50:04] [Server thread/INFO] [OpenMods]: openblocks.common.PlayerInventoryStore.onPlayerDeath(PlayerInventoryStore.java:304): Storing post-mortem inventory into /workspaces/shawnfrost77/servidor_minecraft/./world/data/inventory-Jonaxwolf-2024-12-09_03.50.04-death-0.dat. It can be restored with command '/ob_inventory restore Jonaxwolf Jonaxwolf-2024-12-09_03.50.04-death-0'
+[03:50:04] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Jonaxwolf was slain by Zombie
+[03:50:04] [Server thread/INFO] [OpenMods]: openblocks.common.PlayerDeathHandler$GraveCallable.tryPlaceGrave(PlayerDeathHandler.java:200): Grave for (9e76f26a-5736-3486-8492-ef176c6b5b36,Jonaxwolf) was spawned at (BlockPos{x=-484, y=67, z=157}) (player died at (BlockPos{x=-483, y=67, z=157}))
+[03:50:09] [Server thread/INFO] [ebwizardry]: Sending global donation perk settings to Jonaxwolf
+[03:50:41] [Server thread/INFO] [ebwizardry]: Synchronising advancements for Jonaxwolf
+[03:50:41] [Server thread/INFO] [ebwizardry]: Synchronising advancements for Jonaxwolf
+[03:50:41] [Server thread/INFO] [ebwizardry]: Synchronising advancements for Jonaxwolf
+[03:50:41] [Server thread/INFO] [ebwizardry]: Synchronising advancements for Jonaxwolf
+[03:50:41] [Server thread/INFO] [ebwizardry]: Synchronising advancements for Jonaxwolf
+[03:50:41] [Server thread/INFO] [ebwizardry]: Synchronising advancements for Jonaxwolf
+[03:50:49] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [facundoph: Set game difficulty to Peaceful]
+[03:50:58] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [facundoph: Set game difficulty to Hard]
+[03:52:06] [Server thread/INFO] [ebwizardry]: Synchronising advancements for Jonaxwolf
+[03:54:49] [Server thread/INFO] [Astral Sorcery]: Load CachedWorldData 'structures' for world 0
+[03:54:49] [Server thread/INFO] [Astral Sorcery]: Loading of 'structures' for world 0 finished.
+[03:54:49] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Boat (vehicle of Jonaxwolf) moved too quickly! -6.287358619260203,0.0,8.059440182124831
+[03:54:49] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Boat (vehicle of Jonaxwolf) moved too quickly! -6.561209087274108,0.0,8.34873809766836
+[03:54:49] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Boat (vehicle of Jonaxwolf) moved too quickly! -6.836023778589606,0.0,8.637325329749189
+[03:54:49] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Boat (vehicle of Jonaxwolf) moved too quickly! -7.111722498218057,0.0,8.925256633684313
+[03:54:49] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Boat (vehicle of Jonaxwolf) moved too quickly! -7.388233063221094,0.0,9.212581279944487
+[03:54:49] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Boat (vehicle of Jonaxwolf) moved too quickly! -7.66548779694449,0.0,9.499346325826195
+[03:54:49] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Boat (vehicle of Jonaxwolf) moved too quickly! -7.9434230858403225,0.0,9.785596840494463
+[03:54:49] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Boat (vehicle of Jonaxwolf) moved too quickly! -8.221981672129061,0.0,10.071373382471421
+[03:54:49] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Boat (vehicle of Jonaxwolf) moved too quickly! -8.501112020085202,0.0,10.35671244697545
