@@ -710,3 +710,12 @@ Caused by: java.lang.IllegalArgumentException
 [04:04:26] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Jonaxwolf has made the advancement [Suit Up]
 [04:04:26] [Server thread/INFO] [ebwizardry]: Synchronising advancements for Jonaxwolf
 [04:04:46] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: facundoph is bleeding...
+[04:05:46] [Server thread/INFO] [OpenMods]: openblocks.common.PlayerInventoryStore.onPlayerDeath(PlayerInventoryStore.java:304): Storing post-mortem inventory into /workspaces/shawnfrost77/servidor_minecraft/./world/data/inventory-facundoph-2024-12-09_04.05.46-death-0.dat. It can be restored with command '/ob_inventory restore facundoph facundoph-2024-12-09_04.05.46-death-0'
+[04:05:46] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: facundoph was blown up by Creeper
+[04:05:46] [Server thread/INFO] [OpenMods]: openblocks.common.PlayerDeathHandler$GraveCallable.tryPlaceGrave(PlayerDeathHandler.java:200): Grave for (5da6adc4-418f-3422-8cea-cee961720aee,facundoph) was spawned at (BlockPos{x=-475, y=62, z=153}) (player died at (BlockPos{x=-475, y=62, z=152}))
+[04:07:25] [Server thread/WARN] [net.minecraft.entity.EntityTrackerEntry]: Fetching addPacket for removed entity
+[04:10:03] [Server thread/WARN] [net.minecraft.entity.EntityTrackerEntry]: Fetching addPacket for removed entity
+[04:10:15] [Server thread/WARN] [net.minecraft.entity.EntityTrackerEntry]: Fetching addPacket for removed entity
+[04:12:55] [Server thread/WARN] [net.minecraft.entity.EntityTrackerEntry]: Fetching addPacket for removed entity
+[04:15:08] [Server thread/INFO] [ebwizardry]: Synchronising advancements for Jonaxwolf
+[04:15:08] [Server thread/INFO] [ebwizardry]: Synchronising advancements for Jonaxwolf

@@ -21474,3 +21474,29 @@ Caused by: java.io.FileNotFoundException: http://maxhenkel.de/update/gravestone.
 [04:04:26] [Server thread/INFO] [ebwizardry]: Synchronising advancements for Jonaxwolf
 [04:04:46] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: facundoph is bleeding...
 [04:04:59] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[04:05:44] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[04:05:46] [Server thread/INFO] [OpenMods]: openblocks.common.PlayerInventoryStore.onPlayerDeath(PlayerInventoryStore.java:304): Storing post-mortem inventory into /workspaces/shawnfrost77/servidor_minecraft/./world/data/inventory-facundoph-2024-12-09_04.05.46-death-0.dat. It can be restored with command '/ob_inventory restore facundoph facundoph-2024-12-09_04.05.46-death-0'
+[04:05:46] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: facundoph was blown up by Creeper
+[04:05:46] [Server thread/DEBUG] [OpenMods]: openblocks.common.PlayerDeathHandler.onPlayerDrops(PlayerDeathHandler.java:391): Scheduling grave placement for player 'EntityPlayerMP['facundoph'/10215, l='world', x=-474.70, y=62.00, z=152.30]':'com.mojang.authlib.GameProfile@4a9ce739[id=5da6adc4-418f-3422-8cea-cee961720aee,name=facundoph,properties={},legacy=false]' with 14 item(s) stored and 0 item(s) dropped
+[04:05:46] [Server thread/DEBUG] [OpenMods]: openblocks.common.PlayerDeathHandler$GraveCallable.trySpawnGrave(PlayerDeathHandler.java:234): Grave for com.mojang.authlib.GameProfile@4a9ce739[id=5da6adc4-418f-3422-8cea-cee961720aee,name=facundoph,properties={},legacy=false] will be spawned at (BlockPos{x=-475, y=62, z=153})
+[04:05:46] [Server thread/DEBUG] [OpenMods]: openblocks.common.PlayerDeathHandler$GraveCallable.backupGrave(PlayerDeathHandler.java:280): Grave backup for player com.mojang.authlib.GameProfile@4a9ce739[id=5da6adc4-418f-3422-8cea-cee961720aee,name=facundoph,properties={},legacy=false] saved to ./world/data/inventory-facundoph-2024-12-09_04.05.46-grave-0.dat
+[04:05:46] [Server thread/INFO] [OpenMods]: openblocks.common.PlayerDeathHandler$GraveCallable.tryPlaceGrave(PlayerDeathHandler.java:200): Grave for (5da6adc4-418f-3422-8cea-cee961720aee,facundoph) was spawned at (BlockPos{x=-475, y=62, z=153}) (player died at (BlockPos{x=-475, y=62, z=152}))
+[04:06:29] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[04:07:14] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[04:07:25] [Server thread/WARN] [net.minecraft.entity.EntityTrackerEntry]: Fetching addPacket for removed entity
+[04:07:59] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[04:08:44] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[04:09:29] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[04:10:03] [Server thread/WARN] [net.minecraft.entity.EntityTrackerEntry]: Fetching addPacket for removed entity
+[04:10:14] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[04:10:15] [Server thread/WARN] [net.minecraft.entity.EntityTrackerEntry]: Fetching addPacket for removed entity
+[04:10:59] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[04:11:44] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[04:12:29] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[04:12:55] [Server thread/WARN] [net.minecraft.entity.EntityTrackerEntry]: Fetching addPacket for removed entity
+[04:13:14] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[04:13:59] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[04:14:44] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[04:15:08] [Server thread/INFO] [ebwizardry]: Synchronising advancements for Jonaxwolf
+[04:15:08] [Server thread/INFO] [ebwizardry]: Synchronising advancements for Jonaxwolf
+[04:15:29] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
