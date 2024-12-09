@@ -261,6 +261,7 @@
     "criteria": {
       "cooked_mutton": "2024-12-08 01:37:55 +0000",
       "cooked_cod": "2024-12-08 02:30:14 +0000",
+      "bread": "2024-12-09 03:38:19 +0000",
       "cooked_salmon": "2024-12-08 03:10:23 +0000"
     },
     "done": false
@@ -381,7 +382,8 @@
   },
   "betteranimalsplus:animal_head_variants": {
     "criteria": {
-      "head19": "2024-12-08 01:54:10 +0000"
+      "head19": "2024-12-08 01:54:10 +0000",
+      "head5": "2024-12-09 03:38:12 +0000"
     },
     "done": false
   },
@@ -684,7 +686,8 @@
   },
   "betteranimalsplus:animal_head_all": {
     "criteria": {
-      "head19": "2024-12-08 01:54:10 +0000"
+      "head19": "2024-12-08 01:54:10 +0000",
+      "head5": "2024-12-09 03:38:12 +0000"
     },
     "done": false
   },
@@ -811,6 +814,12 @@
   "minecraft:recipes/decorations/black_carpet": {
     "criteria": {
       "has_black_wool": "2024-12-08 03:45:10 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/arrow": {
+    "criteria": {
+      "has_feather": "2024-12-09 03:41:07 +0000"
     },
     "done": true
   },
