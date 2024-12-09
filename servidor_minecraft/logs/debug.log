@@ -21628,3 +21628,18 @@ Caused by: java.io.FileNotFoundException: http://maxhenkel.de/update/gravestone.
 [05:13:59] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
 [05:14:44] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
 [05:15:29] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[05:16:14] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[05:16:59] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[05:17:44] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[05:18:29] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[05:19:13] [Server thread/WARN] [net.minecraft.entity.EntityTrackerEntry]: Fetching addPacket for removed entity
+[05:19:14] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[05:19:16] [Server thread/WARN] [net.minecraft.entity.EntityTrackerEntry]: Fetching addPacket for removed entity
+[05:19:59] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[05:20:44] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[05:21:29] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[05:22:14] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[05:22:59] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[05:23:44] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[05:24:29] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[05:25:14] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
