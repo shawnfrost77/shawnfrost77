@@ -1,773 +1,117 @@
-[03:25:25] [main/INFO] [LaunchWrapper]: Loading tweak class name net.minecraftforge.fml.common.launcher.FMLServerTweaker
-[03:25:25] [main/INFO] [LaunchWrapper]: Using primary tweak class name net.minecraftforge.fml.common.launcher.FMLServerTweaker
-[03:25:25] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.common.launcher.FMLServerTweaker
-[03:25:25] [main/INFO] [FML]: Forge Mod Loader version 14.23.5.2860 for Minecraft 1.12.2 loading
-[03:25:25] [main/INFO] [FML]: Java is OpenJDK 64-Bit Server VM, version 1.8.0_432, running on Linux:amd64:6.5.0-1025-azure, installed at /usr/lib/jvm/java-8-openjdk-amd64/jre
-[03:25:25] [main/INFO] [FML]: Searching /workspaces/shawnfrost77/servidor_minecraft/./mods for mods
-[03:25:25] [main/INFO] [FML]: Loading tweaker org.spongepowered.asm.launch.MixinTweaker from [1.12.2]+SecurityCraft+v1.9.8.jar
-[03:25:25] [main/WARN] [FML]: Found FMLCorePluginContainsFMLMod marker in astralsorcery-1.12.2-1.10.27.jar. This is not recommended, @Mods should be in a separate jar from the coremod.
-[03:25:25] [main/WARN] [FML]: The coremod hellfirepvp.astralsorcery.core.AstralCore does not have a MCVersion annotation, it may cause issues with this version of Minecraft
-[03:25:25] [main/INFO] [Astral Core]: [AstralCore] Initialized.
-[03:25:25] [main/WARN] [FML]: Found FMLCorePluginContainsFMLMod marker in backpacks+1.12.2+-+3.5.12.jar. This is not recommended, @Mods should be in a separate jar from the coremod.
-[03:25:25] [main/WARN] [FML]: The coremod BCModPlugin (brad16840.core.BCModPlugin) is not signed!
-[03:25:25] [main/WARN] [FML]: Found FMLCorePluginContainsFMLMod marker in CreativeCore_v1.10.71_mc1.12.2.jar. This is not recommended, @Mods should be in a separate jar from the coremod.
-[03:25:25] [main/WARN] [FML]: The coremod com.creativemd.creativecore.core.CreativePatchingLoader does not have a MCVersion annotation, it may cause issues with this version of Minecraft
-[03:25:25] [main/WARN] [FML]: The coremod CreativePatchingLoader (com.creativemd.creativecore.core.CreativePatchingLoader) is not signed!
-[03:25:26] [main/WARN] [FML]: Found FMLCorePluginContainsFMLMod marker in HammerLib-1.12.2-12.2.46.jar. This is not recommended, @Mods should be in a separate jar from the coremod.
-[03:25:26] [main/WARN] [FML]: Found FMLCorePluginContainsFMLMod marker in OpenModsLib-1.12.2-0.12.2.jar. This is not recommended, @Mods should be in a separate jar from the coremod.
-[03:25:26] [main/WARN] [FML]: The coremod openmods.core.OpenModsCorePlugin does not have a MCVersion annotation, it may cause issues with this version of Minecraft
-[03:25:26] [main/INFO] [FML]: Loading tweaker org.spongepowered.asm.launch.MixinTweaker from WolfArmorAndStorage-1.12.2-3.8.0-universal-signed.jar
-[03:25:26] [main/INFO] [LaunchWrapper]: Loading tweak class name net.minecraftforge.fml.common.launcher.FMLInjectionAndSortingTweaker
-[03:25:26] [main/INFO] [LaunchWrapper]: Loading tweak class name org.spongepowered.asm.launch.MixinTweaker
-[03:25:26] [main/INFO] [mixin]: SpongePowered MIXIN Subsystem Version=0.8.3 Source=file:/workspaces/shawnfrost77/servidor_minecraft/./mods/%5B1.12.2%5D+SecurityCraft+v1.9.8.jar Service=LaunchWrapper Env=SERVER
-[03:25:26] [main/WARN] [FML]: The coremod SecurityCraftLoadingPlugin (net.geforcemods.securitycraft.SecurityCraftLoadingPlugin) is not signed!
-[03:25:26] [main/INFO] [mixin]: Compatibility level set to JAVA_8
-[03:25:26] [main/WARN] [LaunchWrapper]: Tweak class name org.spongepowered.asm.launch.MixinTweaker has already been visited -- skipping
-[03:25:26] [main/INFO] [LaunchWrapper]: Loading tweak class name net.minecraftforge.fml.common.launcher.FMLDeobfTweaker
-[03:25:26] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.common.launcher.FMLInjectionAndSortingTweaker
-[03:25:26] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.common.launcher.FMLInjectionAndSortingTweaker
-[03:25:26] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.relauncher.CoreModManager$FMLPluginWrapper
-[03:25:28] [main/INFO] [FML]: Found valid fingerprint for Minecraft Forge. Certificate fingerprint e3c3d50c7c986df74c645c0ac54639741c90a557
-[03:25:28] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.relauncher.CoreModManager$FMLPluginWrapper
-[03:25:28] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.relauncher.CoreModManager$FMLPluginWrapper
-[03:25:28] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.relauncher.CoreModManager$FMLPluginWrapper
-[03:25:28] [main/INFO] [LaunchWrapper]: Calling tweak class org.spongepowered.asm.launch.MixinTweaker
-[03:25:28] [main/INFO] [mixin]: Initialised Mixin FML Remapper Adapter with net.minecraftforge.fml.common.asm.transformers.deobf.FMLDeobfuscatingRemapper@27068a50
-[03:25:28] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.relauncher.CoreModManager$FMLPluginWrapper
-[03:25:28] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.relauncher.CoreModManager$FMLPluginWrapper
-[03:25:28] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.common.launcher.FMLDeobfTweaker
-[03:25:28] [main/INFO] [Astral Core]: [AstralTransformer] Loading patches...
-[03:25:29] [main/INFO] [Astral Core]: [AstralTransformer] Initialized! Loaded 14 class patches!
-[03:25:29] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.relauncher.CoreModManager$FMLPluginWrapper
-[03:25:29] [main/INFO] [LaunchWrapper]: Loading tweak class name net.minecraftforge.fml.common.launcher.TerminalTweaker
-[03:25:29] [main/INFO] [LaunchWrapper]: Loading tweak class name org.spongepowered.asm.mixin.EnvironmentStateTweaker
-[03:25:29] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.common.launcher.TerminalTweaker
-[03:25:29] [main/INFO] [LaunchWrapper]: Calling tweak class org.spongepowered.asm.mixin.EnvironmentStateTweaker
-[03:25:29] [main/INFO] [Hammer Core [ASM]]: Transforming net.minecraft.entity.EntityLivingBase (vp)...
-[03:25:29] [main/INFO] [Hammer Core [ASM]]:   -Patching EntityLivingBase
-[03:25:29] [main/INFO] [Hammer Core [ASM]]:     -Modified method 'onItemUseFinish': added event call.
-[03:25:29] [main/INFO] [mixin]: A re-entrant transformer '$wrapper.com.zeitheron.hammercore.asm.HammerCoreTransformer' was detected and will no longer process meta class data
-[03:25:29] [main/INFO] [Astral Core]: [AstralTransformer] Transforming vp : net.minecraft.entity.EntityLivingBase with 4 patches!
-[03:25:29] [main/INFO] [Astral Core]: [AstralTransformer] Applied patch PATCHAPPLYPOTIONEFFECTEVENT
-[03:25:29] [main/INFO] [Astral Core]: [AstralTransformer] Applied patch PATCHENTITYLIVINGBASEWATERSLOWDOWN
-[03:25:29] [main/INFO] [Astral Core]: [AstralTransformer] Applied patch PATCHSETPLAYERATTRIBUTE
-[03:25:29] [main/INFO] [Astral Core]: [AstralTransformer] Applied patch PATCHUPDATEELYTRA
-[03:25:29] [main/INFO] [Hammer Core [ASM]]: Transforming net.minecraft.world.World (amu)...
-[03:25:29] [main/INFO] [Hammer Core [ASM]]:   -Patching World
-[03:25:29] [main/INFO] [Hammer Core [ASM]]:     -Modified method 'k', replaced nx.e()V with HC call.
-[03:25:29] [main/INFO] [Astral Core]: [AstralTransformer] Transforming amu : net.minecraft.world.World with 2 patches!
-[03:25:29] [main/INFO] [Astral Core]: [AstralTransformer] Skipping PATCHSUNBRIGHTNESSWORLDCLIENT as it can't be applied for side SERVER
-[03:25:29] [main/INFO] [Astral Core]: [AstralTransformer] Applied patch PATCHSUNBRIGHTNESSWORLDCOMMON
-[03:25:30] [main/INFO] [Astral Core]: [AstralTransformer] Transforming pa : net.minecraft.network.NetHandlerPlayServer with 1 patches!
-[03:25:30] [main/INFO] [Astral Core]: [AstralTransformer] Applied patch PATCHSERVEREXTENDENTITYINTERACTREACH
-[03:25:30] [main/INFO] [Hammer Core [ASM]]: Transforming net.minecraft.entity.EntityLivingBase (vp)...
-[03:25:30] [main/INFO] [Hammer Core [ASM]]:   -Patching EntityLivingBase
-[03:25:30] [main/INFO] [Hammer Core [ASM]]:     -Modified method 'onItemUseFinish': added event call.
-[03:25:30] [main/INFO] [Astral Core]: [AstralTransformer] Transforming vp : net.minecraft.entity.EntityLivingBase with 4 patches!
-[03:25:30] [main/INFO] [Astral Core]: [AstralTransformer] Applied patch PATCHAPPLYPOTIONEFFECTEVENT
-[03:25:30] [main/INFO] [Astral Core]: [AstralTransformer] Applied patch PATCHENTITYLIVINGBASEWATERSLOWDOWN
-[03:25:30] [main/INFO] [Astral Core]: [AstralTransformer] Applied patch PATCHSETPLAYERATTRIBUTE
-[03:25:30] [main/INFO] [Astral Core]: [AstralTransformer] Applied patch PATCHUPDATEELYTRA
-[03:25:30] [main/INFO] [LaunchWrapper]: Launching wrapped minecraft {net.minecraft.server.MinecraftServer}
-[03:25:30] [main/INFO] [Hammer Core [ASM]]: Transforming net.minecraft.entity.item.EntityItem (acl)...
-[03:25:30] [main/INFO] [Hammer Core [ASM]]:   -Patching EntityItem
-[03:25:30] [main/INFO] [Hammer Core [ASM]]:     -Modified method 'attackEntityFrom': added event call.
-[03:25:31] [main/INFO] [Astral Core]: [AstralTransformer] Transforming aip : net.minecraft.item.ItemStack with 2 patches!
-[03:25:31] [main/INFO] [Astral Core]: [AstralTransformer] Skipping PATCHMODIFYENCHANTMENTLEVELSTOOLTIP as it can't be applied for side SERVER
-[03:25:31] [main/INFO] [Astral Core]: [AstralTransformer] Skipping PATCHMODIFYENCHANTMENTLEVELSTOOLTIPEVENT as it can't be applied for side SERVER
-[03:25:32] [main/INFO] [Astral Core]: [AstralTransformer] Transforming aip : net.minecraft.item.ItemStack with 2 patches!
-[03:25:32] [main/INFO] [Astral Core]: [AstralTransformer] Skipping PATCHMODIFYENCHANTMENTLEVELSTOOLTIP as it can't be applied for side SERVER
-[03:25:32] [main/INFO] [Astral Core]: [AstralTransformer] Skipping PATCHMODIFYENCHANTMENTLEVELSTOOLTIPEVENT as it can't be applied for side SERVER
-[03:25:32] [main/INFO] [Astral Core]: [AstralTransformer] Transforming amu : net.minecraft.world.World with 2 patches!
-[03:25:32] [main/INFO] [Astral Core]: [AstralTransformer] Skipping PATCHSUNBRIGHTNESSWORLDCLIENT as it can't be applied for side SERVER
-[03:25:32] [main/INFO] [Astral Core]: [AstralTransformer] Applied patch PATCHSUNBRIGHTNESSWORLDCOMMON
-[03:25:32] [main/INFO] [Astral Core]: [AstralTransformer] Transforming wg : net.minecraft.entity.ai.attributes.AbstractAttributeMap with 1 patches!
-[03:25:32] [main/INFO] [Astral Core]: [AstralTransformer] Applied patch PATCHADDPLAYERATTRIBUTE
-[03:25:33] [main/INFO] [Astral Core]: [AstralTransformer] Transforming alm : net.minecraft.enchantment.EnchantmentHelper with 1 patches!
-[03:25:33] [main/INFO] [Astral Core]: [AstralTransformer] Applied patch PATCHMODIFYENCHANTMENTLEVELS
-[03:25:34] [main/INFO] [Hammer Core [ASM]]: Transforming net.minecraft.profiler.Profiler (rl)...
-[03:25:34] [main/INFO] [Hammer Core [ASM]]:   -Patched startSection!
-[03:25:34] [main/INFO] [Hammer Core [ASM]]:   -Patched endSection!
-[03:25:34] [main/INFO] [Hammer Core [ASM]]:   -Patched endStartSection!
-[03:25:34] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Starting minecraft server version 1.12.2
-[03:25:34] [Server thread/INFO] [FML]: MinecraftForge v14.23.5.2860 Initialized
-[03:25:34] [Server thread/INFO] [FML]: Starts to replace vanilla recipe ingredients with ore ingredients.
-[03:25:35] [Server thread/INFO] [FML]: Invalid recipe found with multiple oredict ingredients in the same ingredient...
-[03:25:35] [Server thread/INFO] [FML]: Replaced 1227 ore ingredients
-[03:25:35] [Server thread/INFO] [FML]: Searching /workspaces/shawnfrost77/servidor_minecraft/./mods for mods
-[03:25:35] [Server thread/WARN] [FML]: Mod securitycraft is missing the required element 'version' and a version.properties file could not be found. Falling back to metadata version v1.9.8
-[03:25:36] [Server thread/INFO] [FML]: Disabling mod durabilityviewer it is client side only.
-[03:25:36] [Server thread/INFO] [FML]: Disabling mod jeiintegration it is client side only.
-[03:25:37] [Server thread/ERROR] [FML]: Unable to read a class file correctly
-java.lang.IllegalArgumentException: null
-	at org.objectweb.asm.ClassReader.<init>(ClassReader.java:185) ~[asm-debug-all-5.2.jar:5.2]
-	at org.objectweb.asm.ClassReader.<init>(ClassReader.java:168) ~[asm-debug-all-5.2.jar:5.2]
-	at org.objectweb.asm.ClassReader.<init>(ClassReader.java:439) ~[asm-debug-all-5.2.jar:5.2]
-	at net.minecraftforge.fml.common.discovery.asm.ASMModParser.<init>(ASMModParser.java:57) [ASMModParser.class:?]
-	at net.minecraftforge.fml.common.discovery.JarDiscoverer.findClassesASM(JarDiscoverer.java:102) [JarDiscoverer.class:?]
-	at net.minecraftforge.fml.common.discovery.JarDiscoverer.discover(JarDiscoverer.java:77) [JarDiscoverer.class:?]
-	at net.minecraftforge.fml.common.discovery.ContainerType.findMods(ContainerType.java:47) [ContainerType.class:?]
-	at net.minecraftforge.fml.common.discovery.ModCandidate.explore(ModCandidate.java:74) [ModCandidate.class:?]
-	at net.minecraftforge.fml.common.discovery.ModDiscoverer.identifyMods(ModDiscoverer.java:93) [ModDiscoverer.class:?]
-	at net.minecraftforge.fml.common.Loader.identifyMods(Loader.java:427) [Loader.class:?]
-	at net.minecraftforge.fml.common.Loader.loadMods(Loader.java:568) [Loader.class:?]
-	at net.minecraftforge.fml.server.FMLServerHandler.beginServerLoading(FMLServerHandler.java:98) [FMLServerHandler.class:?]
-	at net.minecraftforge.fml.common.FMLCommonHandler.onServerStart(FMLCommonHandler.java:333) [FMLCommonHandler.class:?]
-	at net.minecraft.server.dedicated.DedicatedServer.func_71197_b(DedicatedServer.java:125) [nz.class:?]
-	at net.minecraft.server.MinecraftServer.run(MinecraftServer.java:486) [MinecraftServer.class:?]
-	at java.lang.Thread.run(Thread.java:750) [?:1.8.0_432]
-[03:25:37] [Server thread/ERROR] [FML]: There was a problem reading the entry org/tlauncher/connector/AbstractConnector.class in the jar ./mods/tl_skin_cape_forge_1.21.3-1.35.jar - probably a corrupt zip
-net.minecraftforge.fml.common.LoaderException: java.lang.IllegalArgumentException
-
-	at net.minecraftforge.fml.common.discovery.asm.ASMModParser.<init>(ASMModParser.java:63) ~[ASMModParser.class:?]
-	at net.minecraftforge.fml.common.discovery.JarDiscoverer.findClassesASM(JarDiscoverer.java:102) [JarDiscoverer.class:?]
-	at net.minecraftforge.fml.common.discovery.JarDiscoverer.discover(JarDiscoverer.java:77) [JarDiscoverer.class:?]
-	at net.minecraftforge.fml.common.discovery.ContainerType.findMods(ContainerType.java:47) [ContainerType.class:?]
-	at net.minecraftforge.fml.common.discovery.ModCandidate.explore(ModCandidate.java:74) [ModCandidate.class:?]
-	at net.minecraftforge.fml.common.discovery.ModDiscoverer.identifyMods(ModDiscoverer.java:93) [ModDiscoverer.class:?]
-	at net.minecraftforge.fml.common.Loader.identifyMods(Loader.java:427) [Loader.class:?]
-	at net.minecraftforge.fml.common.Loader.loadMods(Loader.java:568) [Loader.class:?]
-	at net.minecraftforge.fml.server.FMLServerHandler.beginServerLoading(FMLServerHandler.java:98) [FMLServerHandler.class:?]
-	at net.minecraftforge.fml.common.FMLCommonHandler.onServerStart(FMLCommonHandler.java:333) [FMLCommonHandler.class:?]
-	at net.minecraft.server.dedicated.DedicatedServer.func_71197_b(DedicatedServer.java:125) [nz.class:?]
-	at net.minecraft.server.MinecraftServer.run(MinecraftServer.java:486) [MinecraftServer.class:?]
-	at java.lang.Thread.run(Thread.java:750) [?:1.8.0_432]
-Caused by: java.lang.IllegalArgumentException
-	at org.objectweb.asm.ClassReader.<init>(ClassReader.java:185) ~[asm-debug-all-5.2.jar:5.2]
-	at org.objectweb.asm.ClassReader.<init>(ClassReader.java:168) ~[asm-debug-all-5.2.jar:5.2]
-	at org.objectweb.asm.ClassReader.<init>(ClassReader.java:439) ~[asm-debug-all-5.2.jar:5.2]
-	at net.minecraftforge.fml.common.discovery.asm.ASMModParser.<init>(ASMModParser.java:57) ~[ASMModParser.class:?]
-	... 12 more
-[03:25:37] [Server thread/WARN] [FML]: Zip file tl_skin_cape_forge_1.21.3-1.35.jar failed to read properly, it will be ignored
-net.minecraftforge.fml.common.LoaderException: java.lang.IllegalArgumentException
-
-	at net.minecraftforge.fml.common.discovery.asm.ASMModParser.<init>(ASMModParser.java:63) ~[ASMModParser.class:?]
-	at net.minecraftforge.fml.common.discovery.JarDiscoverer.findClassesASM(JarDiscoverer.java:102) ~[JarDiscoverer.class:?]
-	at net.minecraftforge.fml.common.discovery.JarDiscoverer.discover(JarDiscoverer.java:77) [JarDiscoverer.class:?]
-	at net.minecraftforge.fml.common.discovery.ContainerType.findMods(ContainerType.java:47) [ContainerType.class:?]
-	at net.minecraftforge.fml.common.discovery.ModCandidate.explore(ModCandidate.java:74) [ModCandidate.class:?]
-	at net.minecraftforge.fml.common.discovery.ModDiscoverer.identifyMods(ModDiscoverer.java:93) [ModDiscoverer.class:?]
-	at net.minecraftforge.fml.common.Loader.identifyMods(Loader.java:427) [Loader.class:?]
-	at net.minecraftforge.fml.common.Loader.loadMods(Loader.java:568) [Loader.class:?]
-	at net.minecraftforge.fml.server.FMLServerHandler.beginServerLoading(FMLServerHandler.java:98) [FMLServerHandler.class:?]
-	at net.minecraftforge.fml.common.FMLCommonHandler.onServerStart(FMLCommonHandler.java:333) [FMLCommonHandler.class:?]
-	at net.minecraft.server.dedicated.DedicatedServer.func_71197_b(DedicatedServer.java:125) [nz.class:?]
-	at net.minecraft.server.MinecraftServer.run(MinecraftServer.java:486) [MinecraftServer.class:?]
-	at java.lang.Thread.run(Thread.java:750) [?:1.8.0_432]
-Caused by: java.lang.IllegalArgumentException
-	at org.objectweb.asm.ClassReader.<init>(ClassReader.java:185) ~[asm-debug-all-5.2.jar:5.2]
-	at org.objectweb.asm.ClassReader.<init>(ClassReader.java:168) ~[asm-debug-all-5.2.jar:5.2]
-	at org.objectweb.asm.ClassReader.<init>(ClassReader.java:439) ~[asm-debug-all-5.2.jar:5.2]
-	at net.minecraftforge.fml.common.discovery.asm.ASMModParser.<init>(ASMModParser.java:57) ~[ASMModParser.class:?]
-	... 12 more
-[03:25:37] [Server thread/WARN] [FML]: Mod xpbook is missing the required element 'version' and a version.properties file could not be found. Falling back to metadata version v2.0.1
-[03:25:37] [Server thread/INFO] [FML]: Forge Mod Loader has identified 37 mods to load
-[03:25:37] [Server thread/WARN] [FML]: Missing English translation for FML: assets/fml/lang/en_us.lang
-[03:25:37] [Server thread/WARN] [FML]: Missing English translation for radixcore: assets/radixcore/lang/en_us.lang
-[03:25:37] [Server thread/WARN] [FML]: Missing English translation for roguelike: assets/roguelike/lang/en_us.lang
-[03:25:37] [Server thread/WARN] [FML]: Missing English translation for teamlapen-lib: assets/teamlapen-lib/lang/en_us.lang
-[03:25:37] [Server thread/INFO] [FML]: FML has found a non-mod file DurabilityViewer-1.12-forge14.21.1.2387-1.6.jar in your mods directory. It will now be injected into your classpath. This could severe stability issues, it should be removed if possible.
-[03:25:37] [Server thread/INFO] [FML]: FML has found a non-mod file jeiintegration_1.12.2-1.6.0.jar in your mods directory. It will now be injected into your classpath. This could severe stability issues, it should be removed if possible.
-[03:25:37] [Server thread/INFO] [FML]: FML has found a non-mod file tl_skin_cape_forge_1.21.3-1.35.jar in your mods directory. It will now be injected into your classpath. This could severe stability issues, it should be removed if possible.
-[03:25:37] [Server thread/INFO] [FML]: FML has found a non-mod file TubeTransportSystem_1.7.10-0.6.jar in your mods directory. It will now be injected into your classpath. This could severe stability issues, it should be removed if possible.
-[03:25:38] [Server thread/INFO] [FML]: Attempting connection with missing mods [minecraft, mcp, FML, forge, creativecoredummy, openmodscore, securitycraft, astralsorcery, backpacks16840, baubles, creativecore, cyclopscore, dynamictrees, ebwizardry, elevatorid, evilcraft, evilcraftcompat, exp_bottling, gravestone, hammercore, waila, improvableskills, jei, journeymap, mca, medieval_craft, openblocks, openmods, playerrevive, radixcore, roguelike, travelersbackpack, teamlapen-lib, vampirism, wolfarmor, xpbook, betteranimalsplus] at CLIENT
-[03:25:38] [Server thread/INFO] [FML]: Attempting connection with missing mods [minecraft, mcp, FML, forge, creativecoredummy, openmodscore, securitycraft, astralsorcery, backpacks16840, baubles, creativecore, cyclopscore, dynamictrees, ebwizardry, elevatorid, evilcraft, evilcraftcompat, exp_bottling, gravestone, hammercore, waila, improvableskills, jei, journeymap, mca, medieval_craft, openblocks, openmods, playerrevive, radixcore, roguelike, travelersbackpack, teamlapen-lib, vampirism, wolfarmor, xpbook, betteranimalsplus] at SERVER
-[03:25:41] [Server thread/INFO] [HammerLib]: Applied @SimplyRegister to com.zeitheron.hammercore.internal.init.BlocksHC, which belongs to hammercore (HammerLib)
-[03:25:41] [Server thread/INFO] [HammerLib]: Applied @SimplyRegister to com.zeitheron.hammercore.internal.init.ItemsHC, which belongs to hammercore (HammerLib)
-[03:25:41] [Server thread/INFO] [HammerLib]: Creating new Forge Registries.
-[03:25:41] [Server thread/INFO] [FML]: Processing ObjectHolder annotations
-[03:25:41] [Server thread/INFO] [FML]: Found 2060 ObjectHolder annotations
-[03:25:41] [Server thread/INFO] [FML]: Identifying ItemStackHolder annotations
-[03:25:41] [Server thread/INFO] [FML]: Found 0 ItemStackHolder annotations
-[03:25:42] [Server thread/INFO] [FML]: Configured a dormant chunk cache size of 0
-[03:25:42] [Forge Version Check/INFO] [forge.VersionCheck]: [securitycraft] Starting version check at https://www.github.com/Geforce132/SecurityCraft/raw/master/Updates/Forge.json
-[03:25:42] [Forge Version Check/INFO] [forge.VersionCheck]: [securitycraft] Found status: OUTDATED Target: v1.9.12
-[03:25:42] [Forge Version Check/INFO] [forge.VersionCheck]: [improvableskills] Starting version check at http://dccg.herokuapp.com/api/fmluc/252902
-[03:25:42] [Forge Version Check/INFO] [forge.VersionCheck]: [openblocks] Starting version check at http://openmods.info/versions/openblocks.json
-[03:25:42] [Forge Version Check/INFO] [forge.VersionCheck]: [openblocks] Found status: AHEAD Target: null
-[03:25:42] [Forge Version Check/INFO] [forge.VersionCheck]: [vampirism] Starting version check at https://maxanier.de/projects/vampirism/versions.json
-[03:25:43] [Forge Version Check/INFO] [forge.VersionCheck]: [vampirism] Found status: UP_TO_DATE Target: null
-[03:25:43] [Forge Version Check/INFO] [forge.VersionCheck]: [dynamictrees] Starting version check at https://github.com/DynamicTreesTeam/DynamicTreesVersionInfo/blob/master/DynamicTrees.json?raw=true
-[03:25:43] [Forge Version Check/INFO] [forge.VersionCheck]: [dynamictrees] Found status: UP_TO_DATE Target: null
-[03:25:43] [Forge Version Check/INFO] [forge.VersionCheck]: [hammercore] Starting version check at https://api.modrinth.com/updates/PlkSuVtM/forge_updates.json
-[03:25:43] [Forge Version Check/INFO] [forge.VersionCheck]: [hammercore] Found status: OUTDATED Target: 12.2.56
-[03:25:43] [Forge Version Check/INFO] [forge.VersionCheck]: [ebwizardry] Starting version check at https://github.com/Electroblob77/Wizardry/blob/1.12.2/.forge/update.json
-[03:25:44] [Forge Version Check/INFO] [forge.VersionCheck]: [travelersbackpack] Starting version check at https://gist.githubusercontent.com/Tiviacz1337/906937677aa472285dff9d6c2a189d5e/raw
-[03:25:44] [Forge Version Check/INFO] [forge.VersionCheck]: [travelersbackpack] Found status: AHEAD Target: null
-[03:25:44] [Forge Version Check/INFO] [forge.VersionCheck]: [forge] Starting version check at http://files.minecraftforge.net/maven/net/minecraftforge/forge/promotions_slim.json
-[03:25:44] [Forge Version Check/INFO] [forge.VersionCheck]: [forge] Found status: AHEAD Target: null
-[03:25:44] [Forge Version Check/INFO] [forge.VersionCheck]: [openmods] Starting version check at http://openmods.info/versions/openmodslib.json
-[03:25:44] [Forge Version Check/INFO] [forge.VersionCheck]: [openmods] Found status: AHEAD Target: null
-[03:25:44] [Forge Version Check/INFO] [forge.VersionCheck]: [gravestone] Starting version check at http://maxhenkel.de/update/gravestone.json
-[03:25:44] [Server thread/INFO] [Astral Sorcery]: Crafttweaker not found!
-[03:25:46] [Server thread/INFO] [STDOUT]: [com.ferreusveritas.dynamictrees.ModConfigs:preInit:112]: DynamicTrees BlackListed DimValue: 7
-[03:25:46] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `species_tile_entity`, expected `dynamictrees`. This could be a intended override, but in most cases indicates a broken mod.
-[03:25:46] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `bonsai_tile_entity`, expected `dynamictrees`. This could be a intended override, but in most cases indicates a broken mod.
-[03:25:46] [Server thread/INFO] [ebwizardry]: Setting up main config
-[03:25:47] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `exp_bottling:exp_bottling` for name `exp_bottling_machine`, expected `exp_bottling`. This could be a intended override, but in most cases indicates a broken mod.
-[03:25:47] [Server thread/INFO] [HammerLib]: Added "org.zeith.improvableskills.cfg.ConfigsIS" to HammerLib Simple Configs.
-[03:25:47] [Server thread/INFO] [HammerLib]: Added "com.zeitheron.hammercore.cfg.HammerCoreConfigs" to HammerLib Simple Configs.
-[03:25:47] [Server thread/INFO] [HammerLib]: Added "com.zeitheron.hammercore.world.gen.WorldRetroGen@2534560f" to MCF Event Bus.
-[03:25:47] [Server thread/INFO] [HammerLib]: Added "com.zeitheron.hammercore.specials.Zeitheron.ZeitheronGlobEvents@627dff25" to MCF Event Bus.
-[03:25:47] [Server thread/INFO] [HammerLib]: Added "org.zeith.improvableskills.SkillEvents@7330a328" to MCF Event Bus.
-[03:25:47] [Server thread/INFO] [HammerLib]: Added "com.zeitheron.hammercore.HammerCore@666666" to MCF Event Bus.
-[03:25:47] [Server thread/INFO] [HammerLib]: Added 4 object to MCF Event Bus.
-[03:25:48] [Server thread/ERROR] [mca]: Failed to GET from: https://minecraftcomesalive.com/api/latest
-[03:25:48] [Server thread/ERROR] [mca]: Failed to GET from: https://minecraftcomesalive.com/api/supporters
-[03:25:48] [Server thread/INFO] [mca]: Loaded 1 supporters.
-[03:25:50] [Server thread/INFO] [travelersbackpack]: Registered the class com.tiviacz.travelersbackpack.fluids.effects.EffectWater as a FluidEffect for water with the ID 0
-[03:25:50] [Server thread/INFO] [travelersbackpack]: Registered the class com.tiviacz.travelersbackpack.fluids.effects.EffectLava as a FluidEffect for lava with the ID 1
-[03:25:50] [Server thread/INFO] [travelersbackpack]: Registered the class com.tiviacz.travelersbackpack.fluids.effects.EffectMilk as a FluidEffect for milk with the ID 2
-[03:25:50] [Server thread/INFO] [travelersbackpack]: Registered the class com.tiviacz.travelersbackpack.fluids.effects.EffectPotion as a FluidEffect for potion with the ID 3
-[03:25:50] [Server thread/INFO] [travelersbackpack]: Starting the Integration Handler.
-[03:25:50] [Server thread/INFO] [travelersbackpack]: Didn't find any possible mod integration(s)!
-[03:25:50] [Server thread/INFO] [vampirism]: [Configs]Loaded configuration
-[03:25:50] [Server thread/INFO] [vampirism]: [Balance]Loaded balance configuration
-[03:25:50] [Server thread/INFO] [wolfarmor]: Registered new provider SophisticatedWolvesProvider for mod sophisticatedwolves
-[03:25:50] [Server thread/INFO] [wolfarmor]: Registered new provider LetSleepingDogsLieProvider for mod dogslie
-[03:25:50] [Server thread/INFO] [wolfarmor]: Registered new provider WizardryProvider for mod ebwizardry
-[03:25:50] [Server thread/INFO] [wolfarmor]: Registered new provider MoBendsProvider for mod mobends
-[03:25:50] [Server thread/INFO] [wolfarmor]: Performing server-side compatibility preInit for ebwizardry...
-[03:25:50] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `tileentitygavestone`, expected `gravestone`. This could be a intended override, but in most cases indicates a broken mod.
-[03:25:50] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `backpack_block`, expected `backpacks16840`. This could be a intended override, but in most cases indicates a broken mod.
-[03:25:50] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `quantumchest`, expected `backpacks16840`. This could be a intended override, but in most cases indicates a broken mod.
-[03:25:50] [Server thread/INFO] [FML]: Applying holder lookups
-[03:25:50] [Server thread/INFO] [FML]: Holder lookups applied
-[03:25:51] [Server thread/INFO] [FML]: Applying holder lookups
-[03:25:51] [Server thread/INFO] [FML]: Holder lookups applied
-[03:25:51] [Server thread/INFO] [improvableskills]: RegistryEvent.Register<PlayerAbilityBase>
-[03:25:51] [Server thread/INFO] [improvableskills]: RegistryEvent.Register<PlayerSkillBase>
-[03:25:51] [Server thread/INFO] [improvableskills]: Checking state for improvableskills:accelerated_furnace: true
-[03:25:51] [Server thread/INFO] [improvableskills]:   -Registering
-[03:25:51] [Server thread/INFO] [improvableskills]: Checking state for improvableskills:leaper: true
-[03:25:51] [Server thread/INFO] [improvableskills]:   -Registering
-[03:25:51] [Server thread/INFO] [improvableskills]: Checking state for improvableskills:ladder_king: true
-[03:25:51] [Server thread/INFO] [improvableskills]:   -Registering
-[03:25:51] [Server thread/INFO] [improvableskills]: Checking state for improvableskills:soft_landing: true
-[03:25:51] [Server thread/INFO] [improvableskills]:   -Registering
-[03:25:51] [Server thread/INFO] [improvableskills]: Checking state for improvableskills:attack_speed: true
-[03:25:51] [Server thread/INFO] [improvableskills]:   -Registering
-[03:25:51] [Server thread/INFO] [improvableskills]: Checking state for improvableskills:mining: true
-[03:25:51] [Server thread/INFO] [improvableskills]:   -Registering
-[03:25:51] [Server thread/INFO] [improvableskills]: Checking state for improvableskills:digging: true
-[03:25:51] [Server thread/INFO] [improvableskills]:   -Registering
-[03:25:51] [Server thread/INFO] [improvableskills]: Checking state for improvableskills:cutting: true
-[03:25:51] [Server thread/INFO] [improvableskills]:   -Registering
-[03:25:51] [Server thread/INFO] [improvableskills]: Checking state for improvableskills:obsidian_skin: true
-[03:25:51] [Server thread/INFO] [improvableskills]:   -Registering
-[03:25:51] [Server thread/INFO] [improvableskills]: Checking state for improvableskills:luck_of_the_sea: true
-[03:25:51] [Server thread/INFO] [improvableskills]:   -Registering
-[03:25:51] [Server thread/INFO] [improvableskills]: Checking state for improvableskills:health: true
-[03:25:51] [Server thread/INFO] [improvableskills]:   -Registering
-[03:25:51] [Server thread/INFO] [improvableskills]: Checking state for improvableskills:growth: true
-[03:25:51] [Server thread/INFO] [improvableskills]:   -Registering
-[03:25:51] [Server thread/INFO] [improvableskills]: Checking state for improvableskills:alchemist: true
-[03:25:51] [Server thread/INFO] [improvableskills]:   -Registering
-[03:25:51] [Server thread/INFO] [improvableskills]: Checking state for improvableskills:generic_protection: true
-[03:25:51] [Server thread/INFO] [improvableskills]:   -Registering
-[03:25:51] [Server thread/INFO] [improvableskills]: Checking state for improvableskills:treasure_sands: true
-[03:25:51] [Server thread/INFO] [improvableskills]:   -Registering
-[03:25:51] [Server thread/INFO] [improvableskills]: Checking state for improvableskills:atkdmg_melee: true
-[03:25:51] [Server thread/INFO] [improvableskills]:   -Registering
-[03:25:51] [Server thread/INFO] [improvableskills]: Checking state for improvableskills:atkdmg_ranged: true
-[03:25:51] [Server thread/INFO] [improvableskills]:   -Registering
-[03:25:51] [Server thread/INFO] [improvableskills]: Checking state for improvableskills:pvp: true
-[03:25:51] [Server thread/INFO] [improvableskills]:   -Registering
-[03:25:51] [Server thread/INFO] [improvableskills]: Checking state for improvableskills:enchanter: true
-[03:25:51] [Server thread/INFO] [improvableskills]:   -Registering
-[03:25:51] [Server thread/INFO] [improvableskills]: Checking state for improvableskills:ender_manipulator: true
-[03:25:51] [Server thread/INFO] [improvableskills]:   -Registering
-[03:25:51] [Server thread/INFO] [improvableskills]: Checking state for improvableskills:xp+: true
-[03:25:51] [Server thread/INFO] [improvableskills]:   -Registering
-[03:25:51] [Server thread/WARN] [FML]: No types have been added to Biome evilcraft:biome_degraded, types have been assigned on a best-effort guess: [WET, PLAINS]
-[03:25:51] [Server thread/INFO] [EvilCraft]: 1260 possible Broom base combinations are ready for flying!
-[03:25:51] [Server thread/INFO] [EvilCraft]: 18 Broom modifiers can be applied!
-[03:25:51] [Server thread/WARN] [vampirism]: [NightVision]-------Please ignore the following error!------
-[03:25:51] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `night_vision`, expected `vampirism`. This could be a intended override, but in most cases indicates a broken mod.
-[03:25:51] [Server thread/WARN] [vampirism]: [NightVision]-----------------------------------------------
-[03:25:51] [Server thread/INFO] [improvableskills]: RegistryEvent.Register<SoundEvent>
-[03:25:51] [Server thread/INFO] [FML]: Applying holder lookups
-[03:25:51] [Server thread/INFO] [FML]: Holder lookups applied
-[03:25:51] [Server thread/INFO] [FML]: Applying holder lookups
-[03:25:51] [Server thread/INFO] [FML]: Holder lookups applied
-[03:25:51] [Server thread/INFO] [FML]: Applying holder lookups
-[03:25:51] [Server thread/INFO] [FML]: Holder lookups applied
-[03:25:51] [Server thread/INFO] [FML]: Injecting itemstacks
-[03:25:51] [Server thread/INFO] [FML]: Itemstack injection complete
-[03:25:51] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Loading properties
-[03:25:51] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Default game type: SURVIVAL
-[03:25:51] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Generating keypair
-[03:25:52] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Starting Minecraft server on *:25565
-[03:25:52] [Server thread/INFO] [net.minecraft.network.NetworkSystem]: Using epoll channel type
-[03:25:52] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
-[03:25:52] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer]: The server will make no attempt to authenticate usernames. Beware.
-[03:25:52] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
-[03:25:52] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer]: To change this, set "online-mode" to "true" in the server.properties file.
-[03:25:52] [Server thread/INFO] [Astral Core]: [AstralTransformer] Transforming alm : net.minecraft.enchantment.EnchantmentHelper with 1 patches!
-[03:25:52] [Server thread/INFO] [Astral Core]: [AstralTransformer] Applied patch PATCHMODIFYENCHANTMENTLEVELS
-[03:25:52] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `evilcraft` for name `entangled_chalice`, expected `evilcraftcompat`. This could be a intended override, but in most cases indicates a broken mod.
-[03:25:52] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `evilcraft` for name `entangled_chalice_1`, expected `evilcraftcompat`. This could be a intended override, but in most cases indicates a broken mod.
-[03:25:52] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `evilcraft` for name `dark_tank_1`, expected `evilcraftcompat`. This could be a intended override, but in most cases indicates a broken mod.
-[03:25:52] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `evilcraft` for name `dark_tank_2`, expected `evilcraftcompat`. This could be a intended override, but in most cases indicates a broken mod.
-[03:25:52] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `evilcraft` for name `dark_tank_3`, expected `evilcraftcompat`. This could be a intended override, but in most cases indicates a broken mod.
-[03:25:52] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `evilcraft` for name `dark_tank_4`, expected `evilcraftcompat`. This could be a intended override, but in most cases indicates a broken mod.
-[03:25:52] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `evilcraft` for name `dark_tank_5`, expected `evilcraftcompat`. This could be a intended override, but in most cases indicates a broken mod.
-[03:25:52] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `evilcraft` for name `dark_tank_6`, expected `evilcraftcompat`. This could be a intended override, but in most cases indicates a broken mod.
-[03:25:52] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `evilcraft` for name `dark_tank_7`, expected `evilcraftcompat`. This could be a intended override, but in most cases indicates a broken mod.
-[03:25:52] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `evilcraft` for name `dark_tank_8`, expected `evilcraftcompat`. This could be a intended override, but in most cases indicates a broken mod.
-[03:25:52] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `evilcraft` for name `blood_extractor_1`, expected `evilcraftcompat`. This could be a intended override, but in most cases indicates a broken mod.
-[03:25:52] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `evilcraft` for name `blood_extractor_2`, expected `evilcraftcompat`. This could be a intended override, but in most cases indicates a broken mod.
-[03:25:52] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `evilcraft` for name `blood_extractor_3`, expected `evilcraftcompat`. This could be a intended override, but in most cases indicates a broken mod.
-[03:25:52] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `evilcraft` for name `blood_extractor_4`, expected `evilcraftcompat`. This could be a intended override, but in most cases indicates a broken mod.
-[03:25:52] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `evilcraft` for name `blood_extractor_5`, expected `evilcraftcompat`. This could be a intended override, but in most cases indicates a broken mod.
-[03:25:52] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `evilcraft` for name `blood_extractor_6`, expected `evilcraftcompat`. This could be a intended override, but in most cases indicates a broken mod.
-[03:25:52] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `evilcraft` for name `blood_extractor_7`, expected `evilcraftcompat`. This could be a intended override, but in most cases indicates a broken mod.
-[03:25:52] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `evilcraft` for name `blood_extractor_8`, expected `evilcraftcompat`. This could be a intended override, but in most cases indicates a broken mod.
-[03:25:52] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `evilcraft` for name `broom_part_1`, expected `evilcraftcompat`. This could be a intended override, but in most cases indicates a broken mod.
-[03:25:52] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `evilcraft` for name `broom_part_2`, expected `evilcraftcompat`. This could be a intended override, but in most cases indicates a broken mod.
-[03:25:52] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `evilcraft` for name `broom_part_3`, expected `evilcraftcompat`. This could be a intended override, but in most cases indicates a broken mod.
-[03:25:52] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `evilcraft` for name `broom_part_4`, expected `evilcraftcompat`. This could be a intended override, but in most cases indicates a broken mod.
-[03:25:52] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `evilcraft` for name `broom_part_5`, expected `evilcraftcompat`. This could be a intended override, but in most cases indicates a broken mod.
-[03:25:52] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `evilcraft` for name `broom_part_6`, expected `evilcraftcompat`. This could be a intended override, but in most cases indicates a broken mod.
-[03:25:52] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `evilcraft` for name `broom_part_7`, expected `evilcraftcompat`. This could be a intended override, but in most cases indicates a broken mod.
-[03:25:52] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `evilcraft` for name `broom_part_8`, expected `evilcraftcompat`. This could be a intended override, but in most cases indicates a broken mod.
-[03:25:52] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `evilcraft` for name `display_stand`, expected `evilcraftcompat`. This could be a intended override, but in most cases indicates a broken mod.
-[03:25:52] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `evilcraft` for name `deadbush`, expected `evilcraftcompat`. This could be a intended override, but in most cases indicates a broken mod.
-[03:25:52] [Server thread/INFO] [improvableskills]: RegistryEvent.Register<IRecipe>
-[03:25:53] [Server thread/WARN] [EvilCraft]: Invalid appendix info_book.evilcraft.second_age.tools.broom from mod evilcraft in an infobook: The broom modifier evilcraft:witherer has no valid items
-[03:25:53] [Server thread/WARN] [EvilCraft]: Invalid appendix info_book.evilcraft.second_age.tools.broom from mod evilcraft in an infobook: The broom modifier evilcraft:hungerer has no valid items
-[03:25:53] [Server thread/WARN] [EvilCraft]: Invalid appendix info_book.evilcraft.second_age.tools.broom from mod evilcraft in an infobook: The broom modifier evilcraft:kamikaze has no valid items
-[03:25:53] [Server thread/INFO] [FML]: Applying holder lookups
-[03:25:53] [Server thread/INFO] [FML]: Holder lookups applied
-[03:25:53] [Server thread/INFO] [Astral Sorcery]: Ignoring fluid crystaloil for rarity registry - it doesn't exist in the current environment
-[03:25:53] [Server thread/INFO] [Astral Sorcery]: Ignoring fluid empoweredoil for rarity registry - it doesn't exist in the current environment
-[03:25:53] [Server thread/INFO] [Astral Sorcery]: Ignoring fluid redstone for rarity registry - it doesn't exist in the current environment
-[03:25:53] [Server thread/INFO] [Astral Sorcery]: Ignoring fluid glowstone for rarity registry - it doesn't exist in the current environment
-[03:25:53] [Server thread/INFO] [Astral Sorcery]: Ignoring fluid ender for rarity registry - it doesn't exist in the current environment
-[03:25:53] [Server thread/INFO] [Astral Sorcery]: Ignoring fluid pyrotheum for rarity registry - it doesn't exist in the current environment
-[03:25:53] [Server thread/INFO] [Astral Sorcery]: Ignoring fluid cryotheum for rarity registry - it doesn't exist in the current environment
-[03:25:53] [Server thread/INFO] [Astral Sorcery]: Ignoring fluid refined_oil for rarity registry - it doesn't exist in the current environment
-[03:25:53] [Server thread/INFO] [Astral Sorcery]: Ignoring fluid refined_fuel for rarity registry - it doesn't exist in the current environment
-[03:25:53] [Server thread/INFO] [Astral Sorcery]: Ignoring fluid iron for rarity registry - it doesn't exist in the current environment
-[03:25:53] [Server thread/INFO] [Astral Sorcery]: Ignoring fluid gold for rarity registry - it doesn't exist in the current environment
-[03:25:53] [Server thread/INFO] [Astral Sorcery]: Ignoring fluid cobalt for rarity registry - it doesn't exist in the current environment
-[03:25:53] [Server thread/INFO] [Astral Sorcery]: Ignoring fluid ardite for rarity registry - it doesn't exist in the current environment
-[03:25:53] [Server thread/INFO] [Astral Sorcery]: Ignoring fluid emerald for rarity registry - it doesn't exist in the current environment
-[03:25:53] [Server thread/INFO] [Astral Sorcery]: Ignoring fluid fluidoil for rarity registry - it doesn't exist in the current environment
-[03:25:53] [Server thread/INFO] [Astral Sorcery]: Ignoring fluid fluidnitrodiesel for rarity registry - it doesn't exist in the current environment
-[03:25:53] [Server thread/INFO] [Astral Sorcery]: Ignoring fluid ic2uu_matter for rarity registry - it doesn't exist in the current environment
-[03:25:53] [Server thread/INFO] [Astral Sorcery]: Ignoring fluid ic2biomass for rarity registry - it doesn't exist in the current environment
-[03:25:53] [Server thread/INFO] [Astral Sorcery]: Ignoring fluid ic2biogas for rarity registry - it doesn't exist in the current environment
-[03:25:53] [Server thread/INFO] [Astral Sorcery]: Ignoring fluid mana for rarity registry - it doesn't exist in the current environment
-[03:25:53] [Server thread/INFO] [Astral Sorcery]: Ignoring fluid nacre for rarity registry - it doesn't exist in the current environment
-[03:25:53] [Netty Epoll Server IO #1/INFO] [FML]: Disconnecting Player: Server is still starting! Please wait before reconnecting.
-[03:25:54] [Netty Epoll Server IO #2/INFO] [FML]: Disconnecting Player: Server is still starting! Please wait before reconnecting.
-[03:25:54] [Server thread/INFO] [Astral Core]: [AstralTransformer] Transforming wh : net.minecraft.entity.ai.attributes.ModifiableAttributeInstance with 1 patches!
-[03:25:54] [Server thread/INFO] [Astral Core]: [AstralTransformer] Applied patch PATCHPOSTPROCESSATTRIBUTES
-[03:25:54] [Server thread/INFO] [Astral Sorcery]: Loaded OAK of minecraft into tree registry.
-[03:25:54] [Server thread/INFO] [Astral Sorcery]: Loaded SPRUCE of minecraft into tree registry.
-[03:25:54] [Server thread/INFO] [Astral Sorcery]: Loaded BIRCH of minecraft into tree registry.
-[03:25:54] [Server thread/INFO] [Astral Sorcery]: Loaded JUNGLE of minecraft into tree registry.
-[03:25:54] [Server thread/INFO] [Astral Sorcery]: Loaded ACACIA of minecraft into tree registry.
-[03:25:54] [Server thread/INFO] [Astral Sorcery]: Loaded DARK_OAK of minecraft into tree registry.
-[03:25:54] [Server thread/INFO] [Astral Sorcery]: Not loading tree type SLIME as the mod tconstruct is not loaded.
-[03:25:54] [Thread-10/INFO] [Cyclops Core]: Cyclops Core is up-to-date!
-[03:25:54] [Thread-10/INFO] [EvilCraft]: EvilCraft is up-to-date!
-[03:25:54] [Server thread/INFO] [ebwizardry]: Setting up spells config for 188 spells
-[03:25:54] [Server thread/INFO] [ebwizardry]: Setting up artefacts config
-[03:25:54] [Server thread/INFO] [ebwizardry]: Setting up resistances config
-[03:25:54] [AstralSorcery Patreon Effect Loader/WARN] [Astral Sorcery]: Skipped 4 patreon effects during loading due to malformed data!
-[03:25:54] [AstralSorcery Patreon Effect Loader/INFO] [Astral Sorcery]: Patreon effect loading finished.
-[03:25:54] [Server thread/INFO] [ebwizardry]: Loading spell properties from config folder
-[03:25:54] [Server thread/INFO] [ebwizardry]: Loading built-in spell properties for 189 spells in mod ebwizardry
-[03:25:54] [Server thread/INFO] [EvilCraft]: Registered packet handler.
-[03:25:54] [Netty Epoll Server IO #3/INFO] [FML]: Disconnecting Player: Server is still starting! Please wait before reconnecting.
-[03:25:54] [Thread-13/INFO] [teamlapen-lib]: [VersionChecker]Starting version check at https://maxanier.de/projects/vampirism/versions.php
-[03:25:55] [Server thread/INFO] [wolfarmor]: Performing server-side compatibility init for ebwizardry...
-[03:25:55] [Server thread/INFO] [betteranimalsplus]: Overspawning lammergeiers...
-[03:25:55] [Server thread/INFO] [FML]: Injecting itemstacks
-[03:25:55] [Server thread/INFO] [FML]: Itemstack injection complete
-[03:25:55] [Server thread/INFO] [Astral Sorcery]: Post compile recipes
-[03:25:55] [Server thread/WARN] [EvilCraft]: Could not find a fluid by name 'blood' for a fluid converter config.
-[03:25:55] [Server thread/WARN] [EvilCraft]: Could not find a fluid by name 'lifeessence' for a fluid converter config.
-[03:25:55] [Server thread/WARN] [EvilCraft]: Could not find a fluid by name 'hell_blood' for a fluid converter config.
-[03:25:55] [Netty Epoll Server IO #0/INFO] [FML]: Disconnecting Player: Server is still starting! Please wait before reconnecting.
-[03:25:55] [Server thread/INFO] [vampirism]: [VampirismEntityRegistry] Registering convertible net.minecraft.entity.monster.EntityPolarBear with blood 10 and handler null
-[03:25:55] [Server thread/INFO] [vampirism]: [VampirismEntityRegistry] Registering convertible net.minecraft.entity.passive.EntityCow with blood 10 and handler null
-[03:25:55] [Server thread/INFO] [vampirism]: [VampirismEntityRegistry] Registering convertible net.minecraft.entity.passive.EntityHorse with blood 13 and handler de.teamlapen.vampirism.entity.converted.EntityConvertedHorse$ConvertingHandler@61e65cd
-[03:25:55] [Server thread/INFO] [vampirism]: [VampirismEntityRegistry] Registering convertible net.minecraft.entity.passive.EntityOcelot with blood 5 and handler null
-[03:25:55] [Server thread/INFO] [vampirism]: [VampirismEntityRegistry] Registering convertible net.minecraft.entity.passive.EntityLlama with blood 8 and handler null
-[03:25:55] [Server thread/INFO] [vampirism]: [VampirismEntityRegistry] Registering convertible net.minecraft.entity.passive.EntityPig with blood 5 and handler null
-[03:25:55] [Server thread/INFO] [vampirism]: [VampirismEntityRegistry] Registering convertible net.minecraft.entity.passive.EntityRabbit with blood 2 and handler null
-[03:25:55] [Server thread/INFO] [vampirism]: [VampirismEntityRegistry] Registering convertible net.minecraft.entity.passive.EntitySheep with blood 5 and handler de.teamlapen.vampirism.entity.converted.EntityConvertedSheep$ConvertingHandler@3e71ff28
-[03:25:55] [Server thread/INFO] [vampirism]: [VampirismEntityRegistry] Registering convertible net.minecraft.entity.passive.EntityVillager with blood 15 and handler de.teamlapen.vampirism.entity.converted.EntityConvertedVillager$ConvertingHandler@1075837f
-[03:25:55] [Server thread/INFO] [vampirism]: [Potion]Fixing vanilla night vision potion types
-[03:25:55] [Server thread/INFO] [wolfarmor]: Performing server-side compatibility postInit for ebwizardry...
-[03:25:55] [Server thread/INFO] [betteranimalsplus]: Crazy bird creation complete.
-[03:25:55] [Server thread/INFO] [Waila]: Starting Waila...
-[03:25:55] [Server thread/INFO] [Waila]: Gathering annotated plugins...
-[03:25:55] [Server thread/INFO] [Waila]: Gathering wrapped IMC plugins...
-[03:25:55] [Server thread/INFO] [Waila]: Registering plugins...
-[03:25:55] [Server thread/INFO] [Waila]: Registering plugin at mcp.mobius.waila.addons.core.PluginCore
-[03:25:55] [Server thread/INFO] [Waila]: Registering plugin at mcp.mobius.waila.addons.minecraft.PluginMinecraft
-[03:25:55] [Server thread/INFO] [Waila]: Registering plugin at com.ferreusveritas.dynamictrees.compat.WailaCompat
-[03:25:55] [Server thread/INFO] [Waila]: Registering plugin at com.zeitheron.hammercore.compat.waila.GetWaila
-[03:25:55] [Server thread/INFO] [HammerLib]: Waila API hooked!
-[03:25:55] [Server thread/INFO] [Waila]: Registering plugin at mcp.mobius.waila.addons.capability.PluginCapability
-[03:25:55] [Server thread/INFO] [Waila]: Registering plugin at net.geforcemods.securitycraft.compat.waila.WailaDataProvider
-[03:25:55] [Server thread/INFO] [Waila]: Starting Waila took 69.61 ms
-[03:25:55] [Server thread/INFO] [wolfarmor]: Performing server-side compatibility loadComplete for ebwizardry...
-[03:25:56] [Server thread/INFO] [FML]: Forge Mod Loader has successfully loaded 37 mods
-[03:25:56] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Preparing level "world"
-[03:25:56] [Server thread/INFO] [FML]: Injecting existing registry data into this server instance
-[03:25:56] [Netty Epoll Server IO #1/INFO] [FML]: Disconnecting Player: Server is still starting! Please wait before reconnecting.
-[03:25:56] [Server thread/INFO] [FML]: Applying holder lookups
-[03:25:56] [Server thread/INFO] [FML]: Holder lookups applied
-[03:25:57] [Server thread/INFO] [FML]: Loading dimension 0 (world) (net.minecraft.server.dedicated.DedicatedServer@1c02c20e)
-[03:25:57] [Server thread/INFO] [improvableskills]: Injecting scroll for skill 'improvableskills:generic_protection' into LootTable 'minecraft:chests/simple_dungeon'!
-[03:25:57] [Server thread/INFO] [improvableskills]: Injecting parchment into LootTable 'minecraft:chests/simple_dungeon'!
-[03:25:57] [Server thread/WARN] [net.minecraft.world.storage.loot.LootTableManager]: Couldn't find resource table minecraft:structure/house1
-[03:25:57] [Server thread/INFO] [improvableskills]: Injecting scroll for skill 'improvableskills:xp+' into LootTable 'minecraft:entities/elder_guardian'!
-[03:25:57] [Server thread/INFO] [improvableskills]: Injecting scroll for skill 'improvableskills:alchemist' into LootTable 'minecraft:entities/witch'!
-[03:25:57] [Server thread/INFO] [improvableskills]: Injecting scroll for skill 'improvableskills:obsidian_skin' into LootTable 'minecraft:chests/nether_bridge'!
-[03:25:57] [Server thread/INFO] [improvableskills]: Injecting parchment into LootTable 'minecraft:chests/nether_bridge'!
-[03:25:57] [Server thread/INFO] [improvableskills]: Injecting parchment into LootTable 'minecraft:chests/abandoned_mineshaft'!
-[03:25:57] [Netty Epoll Server IO #2/INFO] [FML]: Disconnecting Player: Server is still starting! Please wait before reconnecting.
-[03:25:57] [Server thread/INFO] [improvableskills]: Injecting scroll for skill 'improvableskills:growth' into LootTable 'minecraft:chests/jungle_temple'!
-[03:25:57] [Server thread/INFO] [improvableskills]: Injecting parchment into LootTable 'minecraft:chests/jungle_temple'!
-[03:25:57] [Server thread/INFO] [improvableskills]: Injecting scroll for skill 'improvableskills:treasure_sands' into LootTable 'minecraft:chests/desert_pyramid'!
-[03:25:57] [Server thread/INFO] [improvableskills]: Injecting parchment into LootTable 'minecraft:chests/desert_pyramid'!
-[03:25:57] [Server thread/INFO] [improvableskills]: Injecting scroll for skill 'improvableskills:enchanter' into LootTable 'minecraft:chests/stronghold_library'!
-[03:25:57] [Server thread/INFO] [improvableskills]: Injecting parchment into LootTable 'minecraft:chests/stronghold_library'!
-[03:25:57] [Server thread/INFO] [improvableskills]: Injecting parchment into LootTable 'wolfarmor:chests/inject/dungeon'!
-[03:25:57] [Server thread/INFO] [improvableskills]: Injecting parchment into LootTable 'ebwizardry:chests/obelisk'!
-[03:25:57] [Server thread/INFO] [improvableskills]: Injecting parchment into LootTable 'minecraft:chests/spawn_bonus_chest'!
-[03:25:57] [Server thread/INFO] [improvableskills]: Injecting parchment into LootTable 'ebwizardry:chests/jungle_dispenser_additions'!
-[03:25:57] [Server thread/INFO] [improvableskills]: Injecting parchment into LootTable 'evilcraft:inject/chests/box_of_eternal_closure'!
-[03:25:57] [Server thread/INFO] [improvableskills]: Injecting parchment into LootTable 'minecraft:chests/stronghold_corridor'!
-[03:25:57] [Server thread/INFO] [improvableskills]: Injecting scroll for skill 'improvableskills:atkdmg_ranged' into LootTable 'minecraft:entities/skeleton'!
-[03:25:57] [Server thread/INFO] [improvableskills]: Injecting scroll for skill 'improvableskills:ender_manipulator' into LootTable 'minecraft:entities/enderman'!
-[03:25:57] [Server thread/INFO] [improvableskills]: Injecting parchment into LootTable 'ebwizardry:chests/shrine'!
-[03:25:57] [Server thread/INFO] [improvableskills]: Injecting parchment into LootTable 'minecraft:chests/igloo_chest'!
-[03:25:57] [Server thread/INFO] [improvableskills]: Injecting parchment into LootTable 'evilcraft:inject/chests/origins_of_darkness'!
-[03:25:57] [Server thread/INFO] [improvableskills]: Injecting parchment into LootTable 'minecraft:chests/stronghold_crossing'!
-[03:25:57] [Server thread/INFO] [improvableskills]: Injecting parchment into LootTable 'ebwizardry:chests/dungeon_additions'!
-[03:25:57] [Server thread/INFO] [improvableskills]: Injecting parchment into LootTable 'minecraft:chests/village_blacksmith'!
-[03:25:57] [Server thread/INFO] [improvableskills]: Injecting parchment into LootTable 'ebwizardry:chests/wizard_tower'!
-[03:25:57] [Server thread/INFO] [improvableskills]: Injecting parchment into LootTable 'minecraft:chests/jungle_temple_dispenser'!
-[03:25:57] [Server thread/INFO] [improvableskills]: Injecting parchment into LootTable 'minecraft:chests/woodland_mansion'!
-[03:25:57] [Server thread/INFO] [improvableskills]: Injecting scroll for skill 'improvableskills:health' into LootTable 'minecraft:chests/end_city_treasure'!
-[03:25:57] [Server thread/INFO] [improvableskills]: Injecting parchment into LootTable 'minecraft:chests/end_city_treasure'!
-[03:25:57] [Server thread/INFO] [improvableskills]: Injecting parchment into LootTable 'evilcraft:inject/chests/condensed_blood'!
-[03:25:57] [Server thread/INFO] [improvableskills]: Injecting scroll for skill 'improvableskills:luck_of_the_sea' into LootTable 'minecraft:gameplay/fishing'!
-[03:25:57] [Server thread/INFO] [net.minecraft.advancements.AdvancementList]: Loaded 618 advancements
-[03:25:57] [Server thread/INFO] [ebwizardry]: Loading custom spell properties for world world
-[03:25:57] [Server thread/INFO] [Astral Sorcery]: Checking GatewayCache integrity for dimension 0
-[03:25:57] [Server thread/INFO] [Astral Sorcery]: GatewayCache checked and fully loaded in 1ms! Collected and checked 0 gateway nodes!
-[03:25:57] [Server thread/INFO] [Astral Core]: [AstralTransformer] Transforming pa : net.minecraft.network.NetHandlerPlayServer with 1 patches!
-[03:25:57] [Server thread/INFO] [Astral Core]: [AstralTransformer] Applied patch PATCHSERVEREXTENDENTITYINTERACTREACH
-[03:25:57] [Server thread/INFO] [FML]: Loading dimension -1 (world) (net.minecraft.server.dedicated.DedicatedServer@1c02c20e)
-[03:25:57] [Server thread/INFO] [Astral Sorcery]: Checking GatewayCache integrity for dimension -1
-[03:25:57] [Server thread/INFO] [Astral Sorcery]: GatewayCache checked and fully loaded in 0ms! Collected and checked 0 gateway nodes!
-[03:25:57] [Server thread/INFO] [FML]: Loading dimension 1 (world) (net.minecraft.server.dedicated.DedicatedServer@1c02c20e)
-[03:25:57] [Server thread/INFO] [Astral Sorcery]: Checking GatewayCache integrity for dimension 1
-[03:25:57] [Server thread/INFO] [Astral Sorcery]: GatewayCache checked and fully loaded in 0ms! Collected and checked 0 gateway nodes!
-[03:25:57] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Preparing start region for level 0
-[03:25:58] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Preparing spawn area: 35%
-[03:25:59] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Done (3.389s)! For help, type "help" or "?"
-[03:25:59] [Server thread/INFO] [HammerLib]: Registering raytrace plugin: com.zeitheron.hammercore.internal.blocks.multipart.HammerCoreRaytracePlugin ...
-[03:25:59] [Server thread/INFO] [HammerLib]: Registered raytrace  plugin: com.zeitheron.hammercore.internal.blocks.multipart.HammerCoreRaytracePlugin in 0 ms
-[03:25:59] [Server thread/INFO] [Astral Sorcery]: Load CachedWorldData 'lightnetwork' for world 0
-[03:25:59] [Server thread/INFO] [Astral Sorcery]: Loading of 'lightnetwork' for world 0 finished.
-[03:25:59] [Server thread/INFO] [FML]: Unloading dimension -1
-[03:26:00] [Server thread/INFO] [FML]: Unloading dimension 1
-[03:26:11] [Netty Epoll Server IO #3/INFO] [FML]: Client protocol version 2
-[03:26:11] [Netty Epoll Server IO #3/INFO] [FML]: Client attempting to join with 39 mods : minecraft@1.12.2,wolfarmor@3.8.0,cyclopscore@1.6.7,astralsorcery@1.10.27,baubles@1.5.2,mca@6.1.0,creativecoredummy@1.0.0,openmodscore@0.12.2,creativecore@1.10.0,openmods@0.12.2,ebwizardry@4.3.11,jei@4.16.1.1000,radixcore@1.12.x-2.2.1,medieval_craft@1.14.4,evilcraftcompat@1.0.0,improvableskills@12.4.68,jeiintegration@1.6.0,roguelike@1.8.0,mcp@9.42,gravestone@1.10.3,hammercore@12.2.46,journeymap@1.12.2-5.7.1,securitycraft@v1.9.8,travelersbackpack@1.0.35,evilcraft@0.10.78,backpacks16840@3.5.12,elevatorid@1.3.14,FML@8.0.99.99,betteranimalsplus@9.0.1,vampirism@1.6.2,waila@1.8.26,durabilityviewer@1.6,teamlapen-lib@1.6.2,forge@14.23.5.2859,dynamictrees@1.12.2-0.9.29,exp_bottling@1.12.2-1,playerrevive@1.0,openblocks@1.8.1,xpbook@v2.0.1
-[03:26:11] [Netty Epoll Server IO #3/INFO] [journeymap]: CLIENT
-[03:26:13] [Server thread/INFO] [FML]: [Server thread] Server side modded connection established
-[03:26:13] [Server thread/INFO] [net.minecraft.server.management.PlayerList]: Jonaxwolf[/127.0.0.1:55522] logged in with entity id 200 at (-484.5, 67.0, 152.5)
-[03:26:13] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Jonaxwolf joined the game
-[03:26:13] [Server thread/INFO] [ebwizardry]: Sending global donation perk settings to Jonaxwolf
-[03:26:13] [Server thread/INFO] [ebwizardry]: Synchronising spell glyph data for Jonaxwolf
-[03:26:13] [Server thread/INFO] [ebwizardry]: Synchronising spell emitters for Jonaxwolf
-[03:26:13] [Server thread/INFO] [ebwizardry]: Synchronising config settings for Jonaxwolf
-[03:26:13] [Server thread/INFO] [ebwizardry]: Synchronising advancements for Jonaxwolf
-[03:26:13] [Server thread/INFO] [Waila]: Player EntityPlayerMP['Jonaxwolf'/200, l='world', x=-484.50, y=67.00, z=152.50] connected. Sending ping
-[03:26:13] [Server thread/INFO] [Astral Sorcery]: [Astral Sorcery] Waiting for server synchronization on login for Jonaxwolf...
-[03:26:13] [Server thread/INFO] [Astral Sorcery]: [Astral Sorcery] Synchronizing baseline information to Jonaxwolf
-[03:26:13] [Server thread/INFO] [ebwizardry]: Synchronising advancements for Jonaxwolf
-[03:26:13] [Server thread/INFO] [ebwizardry]: Synchronising advancements for Jonaxwolf
-[03:26:58] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: Jonaxwolf lost connection: Timed out
-[03:26:58] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Jonaxwolf left the game
-[03:26:58] [Server thread/WARN] [net.minecraft.network.NetworkManager]: handleDisconnection() called twice
-[03:27:31] [Netty Epoll Server IO #1/INFO] [FML]: Client protocol version 2
-[03:27:31] [Netty Epoll Server IO #1/INFO] [FML]: Client attempting to join with 40 mods : minecraft@1.12.2,wolfarmor@3.8.0,cyclopscore@1.6.7,astralsorcery@1.10.27,baubles@1.5.2,mca@6.1.0,creativecoredummy@1.0.0,openmodscore@0.12.2,creativecore@1.10.0,openmods@0.12.2,ebwizardry@4.3.11,jei@4.16.1.1000,radixcore@1.12.x-2.2.1,medieval_craft@1.14.4,evilcraftcompat@1.0.0,improvableskills@12.4.68,jeiintegration@1.6.0,roguelike@1.8.0,mcp@9.42,gravestone@1.10.3,hammercore@12.2.46,journeymap@1.12.2-5.7.1,securitycraft@v1.9.8,travelersbackpack@1.0.35,evilcraft@0.10.78,backpacks16840@3.5.12,elevatorid@1.3.14,FML@8.0.99.99,betteranimalsplus@9.0.1,vampirism@1.6.2,waila@1.8.26,durabilityviewer@1.6,tlauncher_custom_cape_skin@1.4,teamlapen-lib@1.6.2,forge@14.23.5.2860,dynamictrees@1.12.2-0.9.29,exp_bottling@1.12.2-1,playerrevive@1.0,openblocks@1.8.1,xpbook@v2.0.1
-[03:27:31] [Netty Epoll Server IO #1/INFO] [journeymap]: CLIENT
-[03:27:33] [Server thread/INFO] [FML]: [Server thread] Server side modded connection established
-[03:27:33] [Server thread/INFO] [net.minecraft.server.management.PlayerList]: facundoph[/127.0.0.1:42822] logged in with entity id 570 at (-486.6587903048078, 67.0, 211.34356707601742)
-[03:27:33] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: facundoph joined the game
-[03:27:33] [Server thread/INFO] [ebwizardry]: Sending global donation perk settings to facundoph
-[03:27:33] [Server thread/INFO] [ebwizardry]: Synchronising spell glyph data for facundoph
-[03:27:33] [Server thread/INFO] [ebwizardry]: Synchronising spell emitters for facundoph
-[03:27:33] [Server thread/INFO] [ebwizardry]: Synchronising config settings for facundoph
-[03:27:33] [Server thread/INFO] [ebwizardry]: Synchronising advancements for facundoph
-[03:27:33] [Server thread/INFO] [Waila]: Player EntityPlayerMP['facundoph'/570, l='world', x=-486.66, y=67.00, z=211.34] connected. Sending ping
-[03:27:33] [Server thread/INFO] [Astral Sorcery]: [Astral Sorcery] Waiting for server synchronization on login for facundoph...
-[03:27:33] [Server thread/INFO] [Astral Sorcery]: [Astral Sorcery] Synchronizing baseline information to facundoph
-[03:27:53] [Netty Epoll Server IO #3/INFO] [FML]: Client protocol version 2
-[03:27:53] [Netty Epoll Server IO #3/INFO] [FML]: Client attempting to join with 39 mods : minecraft@1.12.2,wolfarmor@3.8.0,cyclopscore@1.6.7,astralsorcery@1.10.27,baubles@1.5.2,mca@6.1.0,creativecoredummy@1.0.0,openmodscore@0.12.2,creativecore@1.10.0,openmods@0.12.2,ebwizardry@4.3.11,jei@4.16.1.1000,radixcore@1.12.x-2.2.1,medieval_craft@1.14.4,evilcraftcompat@1.0.0,improvableskills@12.4.68,jeiintegration@1.6.0,roguelike@1.8.0,mcp@9.42,gravestone@1.10.3,hammercore@12.2.46,journeymap@1.12.2-5.7.1,securitycraft@v1.9.8,travelersbackpack@1.0.35,evilcraft@0.10.78,backpacks16840@3.5.12,elevatorid@1.3.14,FML@8.0.99.99,betteranimalsplus@9.0.1,vampirism@1.6.2,waila@1.8.26,durabilityviewer@1.6,teamlapen-lib@1.6.2,forge@14.23.5.2859,dynamictrees@1.12.2-0.9.29,exp_bottling@1.12.2-1,playerrevive@1.0,openblocks@1.8.1,xpbook@v2.0.1
-[03:27:53] [Netty Epoll Server IO #3/INFO] [journeymap]: CLIENT
-[03:27:53] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: facundoph is bleeding...
-[03:27:54] [Server thread/INFO] [FML]: [Server thread] Server side modded connection established
-[03:27:54] [Server thread/INFO] [net.minecraft.server.management.PlayerList]: Jonaxwolf[/127.0.0.1:48574] logged in with entity id 1219 at (-477.896857571046, 68.0, 150.97755368538466)
-[03:27:54] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Jonaxwolf joined the game
-[03:27:54] [Server thread/INFO] [ebwizardry]: Sending global donation perk settings to Jonaxwolf
-[03:27:54] [Server thread/INFO] [ebwizardry]: Synchronising spell glyph data for Jonaxwolf
-[03:27:54] [Server thread/INFO] [ebwizardry]: Synchronising spell emitters for Jonaxwolf
-[03:27:54] [Server thread/INFO] [ebwizardry]: Synchronising config settings for Jonaxwolf
-[03:27:54] [Server thread/INFO] [ebwizardry]: Synchronising advancements for Jonaxwolf
-[03:27:54] [Server thread/INFO] [Waila]: Player EntityPlayerMP['Jonaxwolf'/1219, l='world', x=-477.90, y=68.00, z=150.98] connected. Sending ping
-[03:27:54] [Server thread/INFO] [Astral Sorcery]: [Astral Sorcery] Waiting for server synchronization on login for Jonaxwolf...
-[03:27:54] [Server thread/INFO] [Astral Sorcery]: [Astral Sorcery] Synchronizing baseline information to Jonaxwolf
-[03:29:01] [Server thread/INFO] [ebwizardry]: Synchronising advancements for Jonaxwolf
-[03:31:07] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [facundoph: Set game difficulty to Hard]
-[03:31:31] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [facundoph: Opped Jonaxwolf]
-[03:31:36] [Server thread/INFO] [ebwizardry]: Synchronising advancements for Jonaxwolf
-[03:31:36] [Server thread/INFO] [ebwizardry]: Synchronising advancements for Jonaxwolf
-[03:31:36] [Server thread/INFO] [ebwizardry]: Synchronising advancements for Jonaxwolf
-[03:31:36] [Server thread/INFO] [ebwizardry]: Synchronising advancements for Jonaxwolf
-[03:31:36] [Server thread/INFO] [ebwizardry]: Synchronising advancements for Jonaxwolf
-[03:31:36] [Server thread/INFO] [ebwizardry]: Synchronising advancements for Jonaxwolf
-[03:31:36] [Server thread/INFO] [ebwizardry]: Synchronising advancements for Jonaxwolf
-[03:31:36] [Server thread/INFO] [ebwizardry]: Synchronising advancements for Jonaxwolf
-[03:31:36] [Server thread/INFO] [ebwizardry]: Synchronising advancements for Jonaxwolf
-[03:31:36] [Server thread/INFO] [ebwizardry]: Synchronising advancements for Jonaxwolf
-[03:31:36] [Server thread/INFO] [ebwizardry]: Synchronising advancements for Jonaxwolf
-[03:31:36] [Server thread/INFO] [ebwizardry]: Synchronising advancements for Jonaxwolf
-[03:32:06] [Server thread/INFO] [ebwizardry]: Synchronising advancements for Jonaxwolf
-[03:32:06] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Jonaxwolf has made the advancement [Monster Hunter]
-[03:32:06] [Server thread/INFO] [ebwizardry]: Synchronising advancements for Jonaxwolf
-[03:33:35] [Server thread/INFO] [ebwizardry]: Synchronising advancements for Jonaxwolf
-[03:33:35] [Server thread/INFO] [ebwizardry]: Synchronising advancements for Jonaxwolf
-[03:33:35] [Server thread/INFO] [ebwizardry]: Synchronising advancements for Jonaxwolf
-[03:33:35] [Server thread/INFO] [ebwizardry]: Synchronising advancements for Jonaxwolf
-[03:34:28] [Server thread/INFO] [ebwizardry]: Synchronising advancements for Jonaxwolf
-[03:34:28] [Server thread/INFO] [ebwizardry]: Synchronising advancements for Jonaxwolf
-[03:34:28] [Server thread/INFO] [ebwizardry]: Synchronising advancements for Jonaxwolf
-[03:34:28] [Server thread/INFO] [ebwizardry]: Synchronising advancements for Jonaxwolf
-[03:34:28] [Server thread/INFO] [ebwizardry]: Synchronising advancements for Jonaxwolf
-[03:34:28] [Server thread/INFO] [ebwizardry]: Synchronising advancements for Jonaxwolf
-[03:34:28] [Server thread/INFO] [ebwizardry]: Synchronising advancements for Jonaxwolf
-[03:34:28] [Server thread/INFO] [ebwizardry]: Synchronising advancements for Jonaxwolf
-[03:34:28] [Server thread/INFO] [ebwizardry]: Synchronising advancements for Jonaxwolf
-[03:34:28] [Server thread/INFO] [ebwizardry]: Synchronising advancements for Jonaxwolf
-[03:34:28] [Server thread/INFO] [ebwizardry]: Synchronising advancements for Jonaxwolf
-[03:34:28] [Server thread/INFO] [ebwizardry]: Synchronising advancements for Jonaxwolf
-[03:34:28] [Server thread/INFO] [ebwizardry]: Synchronising advancements for Jonaxwolf
-[03:34:28] [Server thread/INFO] [ebwizardry]: Synchronising advancements for Jonaxwolf
-[03:34:28] [Server thread/INFO] [ebwizardry]: Synchronising advancements for Jonaxwolf
-[03:34:28] [Server thread/INFO] [ebwizardry]: Synchronising advancements for Jonaxwolf
-[03:34:28] [Server thread/INFO] [ebwizardry]: Synchronising advancements for Jonaxwolf
-[03:34:28] [Server thread/INFO] [ebwizardry]: Synchronising advancements for Jonaxwolf
-[03:34:28] [Server thread/INFO] [ebwizardry]: Synchronising advancements for Jonaxwolf
-[03:34:44] [Server thread/INFO] [ebwizardry]: Synchronising advancements for Jonaxwolf
-[03:35:08] [Server thread/INFO] [ebwizardry]: Synchronising advancements for Jonaxwolf
-[03:35:08] [Server thread/INFO] [ebwizardry]: Synchronising advancements for Jonaxwolf
-[03:35:08] [Server thread/INFO] [ebwizardry]: Synchronising advancements for Jonaxwolf
-[03:35:08] [Server thread/INFO] [ebwizardry]: Synchronising advancements for Jonaxwolf
-[03:35:08] [Server thread/INFO] [ebwizardry]: Synchronising advancements for Jonaxwolf
-[03:35:08] [Server thread/INFO] [ebwizardry]: Synchronising advancements for Jonaxwolf
-[03:35:10] [Server thread/INFO] [ebwizardry]: Synchronising advancements for Jonaxwolf
-[03:35:10] [Server thread/INFO] [ebwizardry]: Synchronising advancements for Jonaxwolf
-[03:35:48] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Jonaxwolf has made the advancement [Stone Age]
-[03:35:48] [Server thread/INFO] [ebwizardry]: Synchronising advancements for Jonaxwolf
-[03:35:48] [Server thread/INFO] [ebwizardry]: Synchronising advancements for Jonaxwolf
-[03:35:48] [Server thread/INFO] [ebwizardry]: Synchronising advancements for Jonaxwolf
-[03:35:48] [Server thread/INFO] [ebwizardry]: Synchronising advancements for Jonaxwolf
-[03:35:48] [Server thread/INFO] [ebwizardry]: Synchronising advancements for Jonaxwolf
-[03:35:48] [Server thread/INFO] [ebwizardry]: Synchronising advancements for Jonaxwolf
-[03:35:48] [Server thread/INFO] [ebwizardry]: Synchronising advancements for Jonaxwolf
-[03:35:48] [Server thread/INFO] [ebwizardry]: Synchronising advancements for Jonaxwolf
-[03:35:48] [Server thread/INFO] [ebwizardry]: Synchronising advancements for Jonaxwolf
-[03:35:48] [Server thread/INFO] [ebwizardry]: Synchronising advancements for Jonaxwolf
-[03:35:48] [Server thread/INFO] [ebwizardry]: Synchronising advancements for Jonaxwolf
-[03:36:22] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Jonaxwolf has made the advancement [Getting an Upgrade]
-[03:36:22] [Server thread/INFO] [ebwizardry]: Synchronising advancements for Jonaxwolf
-[03:36:22] [Server thread/INFO] [ebwizardry]: Synchronising advancements for Jonaxwolf
-[03:36:48] [Server thread/WARN] [net.minecraft.entity.EntityTrackerEntry]: Fetching addPacket for removed entity
-[03:38:47] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: facundoph is bleeding...
-[03:39:13] [Server thread/WARN] [net.minecraft.entity.EntityTrackerEntry]: Fetching addPacket for removed entity
-[03:39:52] [Server thread/WARN] [net.minecraft.entity.EntityTrackerEntry]: Fetching addPacket for removed entity
-[03:41:07] [Server thread/INFO] [ebwizardry]: Synchronising advancements for facundoph
-[03:41:11] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: Jonaxwolf lost connection: Timed out
-[03:41:11] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Jonaxwolf left the game
-[03:42:09] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: facundoph lost connection: You logged in from another location
-[03:42:09] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: facundoph left the game
-[03:42:09] [Netty Epoll Server IO #0/INFO] [FML]: Client protocol version 2
-[03:42:09] [Netty Epoll Server IO #0/INFO] [FML]: Client attempting to join with 40 mods : minecraft@1.12.2,wolfarmor@3.8.0,cyclopscore@1.6.7,astralsorcery@1.10.27,baubles@1.5.2,mca@6.1.0,creativecoredummy@1.0.0,openmodscore@0.12.2,creativecore@1.10.0,openmods@0.12.2,ebwizardry@4.3.11,jei@4.16.1.1000,radixcore@1.12.x-2.2.1,medieval_craft@1.14.4,evilcraftcompat@1.0.0,improvableskills@12.4.68,jeiintegration@1.6.0,roguelike@1.8.0,mcp@9.42,gravestone@1.10.3,hammercore@12.2.46,journeymap@1.12.2-5.7.1,securitycraft@v1.9.8,travelersbackpack@1.0.35,evilcraft@0.10.78,backpacks16840@3.5.12,elevatorid@1.3.14,FML@8.0.99.99,betteranimalsplus@9.0.1,vampirism@1.6.2,waila@1.8.26,durabilityviewer@1.6,tlauncher_custom_cape_skin@1.4,teamlapen-lib@1.6.2,forge@14.23.5.2860,dynamictrees@1.12.2-0.9.29,exp_bottling@1.12.2-1,playerrevive@1.0,openblocks@1.8.1,xpbook@v2.0.1
-[03:42:09] [Netty Epoll Server IO #0/INFO] [journeymap]: CLIENT
-[03:42:11] [Server thread/INFO] [FML]: [Server thread] Server side modded connection established
-[03:42:11] [Server thread/INFO] [net.minecraft.server.management.PlayerList]: facundoph[/127.0.0.1:41404] logged in with entity id 10215 at (-464.12459297702065, 64.0, 147.34551012412012)
-[03:42:11] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: facundoph joined the game
-[03:42:11] [Server thread/INFO] [ebwizardry]: Sending global donation perk settings to facundoph
-[03:42:11] [Server thread/INFO] [ebwizardry]: Synchronising spell glyph data for facundoph
-[03:42:11] [Server thread/INFO] [ebwizardry]: Synchronising spell emitters for facundoph
-[03:42:11] [Server thread/INFO] [ebwizardry]: Synchronising config settings for facundoph
-[03:42:11] [Server thread/INFO] [ebwizardry]: Synchronising advancements for facundoph
-[03:42:11] [Server thread/INFO] [Waila]: Player EntityPlayerMP['facundoph'/10215, l='world', x=-464.12, y=64.00, z=147.35] connected. Sending ping
-[03:42:11] [Server thread/INFO] [Astral Sorcery]: [Astral Sorcery] Waiting for server synchronization on login for facundoph...
-[03:42:11] [Server thread/INFO] [Astral Sorcery]: [Astral Sorcery] Synchronizing baseline information to facundoph
-[03:45:57] [Netty Epoll Server IO #1/INFO] [FML]: Client protocol version 2
-[03:45:57] [Netty Epoll Server IO #1/INFO] [FML]: Client attempting to join with 39 mods : minecraft@1.12.2,wolfarmor@3.8.0,cyclopscore@1.6.7,astralsorcery@1.10.27,baubles@1.5.2,mca@6.1.0,creativecoredummy@1.0.0,openmodscore@0.12.2,creativecore@1.10.0,openmods@0.12.2,ebwizardry@4.3.11,jei@4.16.1.1000,radixcore@1.12.x-2.2.1,medieval_craft@1.14.4,evilcraftcompat@1.0.0,improvableskills@12.4.68,jeiintegration@1.6.0,roguelike@1.8.0,mcp@9.42,gravestone@1.10.3,hammercore@12.2.46,journeymap@1.12.2-5.7.1,securitycraft@v1.9.8,travelersbackpack@1.0.35,evilcraft@0.10.78,backpacks16840@3.5.12,elevatorid@1.3.14,FML@8.0.99.99,betteranimalsplus@9.0.1,vampirism@1.6.2,waila@1.8.26,durabilityviewer@1.6,teamlapen-lib@1.6.2,forge@14.23.5.2859,dynamictrees@1.12.2-0.9.29,exp_bottling@1.12.2-1,playerrevive@1.0,openblocks@1.8.1,xpbook@v2.0.1
-[03:45:57] [Netty Epoll Server IO #1/INFO] [journeymap]: CLIENT
-[03:45:58] [Server thread/INFO] [FML]: [Server thread] Server side modded connection established
-[03:45:58] [Server thread/INFO] [net.minecraft.server.management.PlayerList]: Jonaxwolf[/127.0.0.1:33680] logged in with entity id 12617 at (-483.8729946355179, 68.0, 140.11267433238285)
-[03:45:58] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Jonaxwolf joined the game
-[03:45:58] [Server thread/INFO] [ebwizardry]: Sending global donation perk settings to Jonaxwolf
-[03:45:58] [Server thread/INFO] [ebwizardry]: Synchronising spell glyph data for Jonaxwolf
-[03:45:58] [Server thread/INFO] [ebwizardry]: Synchronising spell emitters for Jonaxwolf
-[03:45:58] [Server thread/INFO] [ebwizardry]: Synchronising config settings for Jonaxwolf
-[03:45:58] [Server thread/INFO] [ebwizardry]: Synchronising advancements for Jonaxwolf
-[03:45:58] [Server thread/INFO] [Waila]: Player EntityPlayerMP['Jonaxwolf'/12617, l='world', x=-483.87, y=68.00, z=140.11] connected. Sending ping
-[03:45:58] [Server thread/INFO] [Astral Sorcery]: [Astral Sorcery] Waiting for server synchronization on login for Jonaxwolf...
-[03:45:58] [Server thread/INFO] [Astral Sorcery]: [Astral Sorcery] Synchronizing baseline information to Jonaxwolf
-[03:49:04] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Jonaxwolf is bleeding...
-[03:50:04] [Server thread/INFO] [OpenMods]: openblocks.common.PlayerInventoryStore.onPlayerDeath(PlayerInventoryStore.java:304): Storing post-mortem inventory into /workspaces/shawnfrost77/servidor_minecraft/./world/data/inventory-Jonaxwolf-2024-12-09_03.50.04-death-0.dat. It can be restored with command '/ob_inventory restore Jonaxwolf Jonaxwolf-2024-12-09_03.50.04-death-0'
-[03:50:04] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Jonaxwolf was slain by Zombie
-[03:50:04] [Server thread/INFO] [OpenMods]: openblocks.common.PlayerDeathHandler$GraveCallable.tryPlaceGrave(PlayerDeathHandler.java:200): Grave for (9e76f26a-5736-3486-8492-ef176c6b5b36,Jonaxwolf) was spawned at (BlockPos{x=-484, y=67, z=157}) (player died at (BlockPos{x=-483, y=67, z=157}))
-[03:50:09] [Server thread/INFO] [ebwizardry]: Sending global donation perk settings to Jonaxwolf
-[03:50:41] [Server thread/INFO] [ebwizardry]: Synchronising advancements for Jonaxwolf
-[03:50:41] [Server thread/INFO] [ebwizardry]: Synchronising advancements for Jonaxwolf
-[03:50:41] [Server thread/INFO] [ebwizardry]: Synchronising advancements for Jonaxwolf
-[03:50:41] [Server thread/INFO] [ebwizardry]: Synchronising advancements for Jonaxwolf
-[03:50:41] [Server thread/INFO] [ebwizardry]: Synchronising advancements for Jonaxwolf
-[03:50:41] [Server thread/INFO] [ebwizardry]: Synchronising advancements for Jonaxwolf
-[03:50:49] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [facundoph: Set game difficulty to Peaceful]
-[03:50:58] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [facundoph: Set game difficulty to Hard]
-[03:52:06] [Server thread/INFO] [ebwizardry]: Synchronising advancements for Jonaxwolf
-[03:54:49] [Server thread/INFO] [Astral Sorcery]: Load CachedWorldData 'structures' for world 0
-[03:54:49] [Server thread/INFO] [Astral Sorcery]: Loading of 'structures' for world 0 finished.
-[03:54:49] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Boat (vehicle of Jonaxwolf) moved too quickly! -6.287358619260203,0.0,8.059440182124831
-[03:54:49] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Boat (vehicle of Jonaxwolf) moved too quickly! -6.561209087274108,0.0,8.34873809766836
-[03:54:49] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Boat (vehicle of Jonaxwolf) moved too quickly! -6.836023778589606,0.0,8.637325329749189
-[03:54:49] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Boat (vehicle of Jonaxwolf) moved too quickly! -7.111722498218057,0.0,8.925256633684313
-[03:54:49] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Boat (vehicle of Jonaxwolf) moved too quickly! -7.388233063221094,0.0,9.212581279944487
-[03:54:49] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Boat (vehicle of Jonaxwolf) moved too quickly! -7.66548779694449,0.0,9.499346325826195
-[03:54:49] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Boat (vehicle of Jonaxwolf) moved too quickly! -7.9434230858403225,0.0,9.785596840494463
-[03:54:49] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Boat (vehicle of Jonaxwolf) moved too quickly! -8.221981672129061,0.0,10.071373382471421
-[03:54:49] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Boat (vehicle of Jonaxwolf) moved too quickly! -8.501112020085202,0.0,10.35671244697545
-[03:56:04] [Server thread/WARN] [net.minecraft.entity.EntityTrackerEntry]: Fetching addPacket for removed entity
-[03:56:09] [Server thread/INFO] [ebwizardry]: Synchronising advancements for Jonaxwolf
-[03:56:09] [Server thread/INFO] [ebwizardry]: Synchronising advancements for Jonaxwolf
-[03:56:09] [Server thread/INFO] [ebwizardry]: Synchronising advancements for Jonaxwolf
-[03:56:09] [Server thread/INFO] [ebwizardry]: Synchronising advancements for Jonaxwolf
-[03:56:09] [Server thread/INFO] [ebwizardry]: Synchronising advancements for Jonaxwolf
-[03:56:09] [Server thread/INFO] [ebwizardry]: Synchronising advancements for Jonaxwolf
-[03:56:09] [Server thread/INFO] [ebwizardry]: Synchronising advancements for Jonaxwolf
-[03:56:09] [Server thread/INFO] [ebwizardry]: Synchronising advancements for Jonaxwolf
-[03:56:09] [Server thread/INFO] [ebwizardry]: Synchronising advancements for Jonaxwolf
-[03:56:09] [Server thread/INFO] [ebwizardry]: Synchronising advancements for Jonaxwolf
-[03:56:09] [Server thread/INFO] [ebwizardry]: Synchronising advancements for Jonaxwolf
-[03:56:09] [Server thread/INFO] [ebwizardry]: Synchronising advancements for Jonaxwolf
-[03:56:09] [Server thread/INFO] [ebwizardry]: Synchronising advancements for Jonaxwolf
-[03:56:09] [Server thread/INFO] [ebwizardry]: Synchronising advancements for Jonaxwolf
-[03:56:09] [Server thread/INFO] [ebwizardry]: Synchronising advancements for Jonaxwolf
-[03:56:09] [Server thread/INFO] [ebwizardry]: Synchronising advancements for Jonaxwolf
-[03:56:09] [Server thread/INFO] [ebwizardry]: Synchronising advancements for Jonaxwolf
-[03:56:16] [Server thread/INFO] [ebwizardry]: Synchronising advancements for Jonaxwolf
-[03:56:16] [Server thread/INFO] [ebwizardry]: Synchronising advancements for Jonaxwolf
-[03:56:16] [Server thread/INFO] [ebwizardry]: Synchronising advancements for Jonaxwolf
-[03:58:26] [Server thread/INFO] [ebwizardry]: Synchronising advancements for Jonaxwolf
-[03:58:26] [Server thread/INFO] [ebwizardry]: Synchronising advancements for Jonaxwolf
-[03:58:52] [Server thread/INFO] [ebwizardry]: Synchronising advancements for Jonaxwolf
-[04:02:14] [Server thread/INFO] [ebwizardry]: Synchronising advancements for Jonaxwolf
-[04:02:14] [Server thread/INFO] [ebwizardry]: Synchronising advancements for Jonaxwolf
-[04:03:32] [Server thread/INFO] [ebwizardry]: Synchronising advancements for Jonaxwolf
-[04:03:32] [Server thread/INFO] [ebwizardry]: Synchronising advancements for Jonaxwolf
-[04:03:32] [Server thread/INFO] [ebwizardry]: Synchronising advancements for Jonaxwolf
-[04:03:32] [Server thread/INFO] [ebwizardry]: Synchronising advancements for Jonaxwolf
-[04:03:32] [Server thread/INFO] [ebwizardry]: Synchronising advancements for Jonaxwolf
-[04:03:32] [Server thread/INFO] [ebwizardry]: Synchronising advancements for Jonaxwolf
-[04:03:32] [Server thread/INFO] [ebwizardry]: Synchronising advancements for Jonaxwolf
-[04:03:32] [Server thread/INFO] [ebwizardry]: Synchronising advancements for Jonaxwolf
-[04:03:32] [Server thread/INFO] [ebwizardry]: Synchronising advancements for Jonaxwolf
-[04:03:32] [Server thread/INFO] [ebwizardry]: Synchronising advancements for Jonaxwolf
-[04:03:32] [Server thread/INFO] [ebwizardry]: Synchronising advancements for Jonaxwolf
-[04:03:32] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Jonaxwolf has made the advancement [Acquire Hardware]
-[04:03:32] [Server thread/INFO] [ebwizardry]: Synchronising advancements for Jonaxwolf
-[04:03:32] [Server thread/INFO] [ebwizardry]: Synchronising advancements for Jonaxwolf
-[04:03:32] [Server thread/INFO] [ebwizardry]: Synchronising advancements for Jonaxwolf
-[04:03:32] [Server thread/INFO] [ebwizardry]: Synchronising advancements for Jonaxwolf
-[04:03:32] [Server thread/INFO] [ebwizardry]: Synchronising advancements for Jonaxwolf
-[04:03:32] [Server thread/INFO] [ebwizardry]: Synchronising advancements for Jonaxwolf
-[04:03:32] [Server thread/INFO] [ebwizardry]: Synchronising advancements for Jonaxwolf
-[04:03:32] [Server thread/INFO] [ebwizardry]: Synchronising advancements for Jonaxwolf
-[04:03:32] [Server thread/INFO] [ebwizardry]: Synchronising advancements for Jonaxwolf
-[04:03:34] [Server thread/INFO] [ebwizardry]: Synchronising advancements for Jonaxwolf
-[04:03:40] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Jonaxwolf has made the advancement [Isn't It Iron Pick]
-[04:03:40] [Server thread/INFO] [ebwizardry]: Synchronising advancements for Jonaxwolf
-[04:03:47] [Server thread/INFO] [ebwizardry]: Synchronising advancements for Jonaxwolf
-[04:04:26] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Jonaxwolf has made the advancement [Suit Up]
-[04:04:26] [Server thread/INFO] [ebwizardry]: Synchronising advancements for Jonaxwolf
-[04:04:46] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: facundoph is bleeding...
-[04:05:46] [Server thread/INFO] [OpenMods]: openblocks.common.PlayerInventoryStore.onPlayerDeath(PlayerInventoryStore.java:304): Storing post-mortem inventory into /workspaces/shawnfrost77/servidor_minecraft/./world/data/inventory-facundoph-2024-12-09_04.05.46-death-0.dat. It can be restored with command '/ob_inventory restore facundoph facundoph-2024-12-09_04.05.46-death-0'
-[04:05:46] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: facundoph was blown up by Creeper
-[04:05:46] [Server thread/INFO] [OpenMods]: openblocks.common.PlayerDeathHandler$GraveCallable.tryPlaceGrave(PlayerDeathHandler.java:200): Grave for (5da6adc4-418f-3422-8cea-cee961720aee,facundoph) was spawned at (BlockPos{x=-475, y=62, z=153}) (player died at (BlockPos{x=-475, y=62, z=152}))
-[04:07:25] [Server thread/WARN] [net.minecraft.entity.EntityTrackerEntry]: Fetching addPacket for removed entity
-[04:10:03] [Server thread/WARN] [net.minecraft.entity.EntityTrackerEntry]: Fetching addPacket for removed entity
-[04:10:15] [Server thread/WARN] [net.minecraft.entity.EntityTrackerEntry]: Fetching addPacket for removed entity
-[04:12:55] [Server thread/WARN] [net.minecraft.entity.EntityTrackerEntry]: Fetching addPacket for removed entity
-[04:15:08] [Server thread/INFO] [ebwizardry]: Synchronising advancements for Jonaxwolf
-[04:15:08] [Server thread/INFO] [ebwizardry]: Synchronising advancements for Jonaxwolf
-[04:15:37] [Server thread/WARN] [net.minecraft.entity.EntityTrackerEntry]: Fetching addPacket for removed entity
-[04:15:53] [Server thread/WARN] [net.minecraft.entity.EntityTrackerEntry]: Fetching addPacket for removed entity
-[04:17:11] [Server thread/INFO] [ebwizardry]: Synchronising advancements for Jonaxwolf
-[04:17:11] [Server thread/INFO] [ebwizardry]: Synchronising advancements for Jonaxwolf
-[04:17:11] [Server thread/INFO] [ebwizardry]: Synchronising advancements for Jonaxwolf
-[04:17:11] [Server thread/INFO] [ebwizardry]: Synchronising advancements for Jonaxwolf
-[04:17:11] [Server thread/INFO] [ebwizardry]: Synchronising advancements for Jonaxwolf
-[04:17:11] [Server thread/INFO] [ebwizardry]: Synchronising advancements for Jonaxwolf
-[04:17:11] [Server thread/INFO] [ebwizardry]: Synchronising advancements for Jonaxwolf
-[04:17:11] [Server thread/INFO] [ebwizardry]: Synchronising advancements for Jonaxwolf
-[04:17:11] [Server thread/INFO] [ebwizardry]: Synchronising advancements for Jonaxwolf
-[04:17:11] [Server thread/INFO] [ebwizardry]: Synchronising advancements for Jonaxwolf
-[04:17:11] [Server thread/INFO] [ebwizardry]: Synchronising advancements for Jonaxwolf
-[04:17:11] [Server thread/INFO] [ebwizardry]: Synchronising advancements for Jonaxwolf
-[04:17:26] [Server thread/INFO] [ebwizardry]: Synchronising advancements for Jonaxwolf
-[04:18:14] [Server thread/INFO] [ebwizardry]: Synchronising advancements for Jonaxwolf
-[04:18:39] [Server thread/WARN] [net.minecraft.entity.EntityTrackerEntry]: Fetching addPacket for removed entity
-[04:18:45] [Server thread/WARN] [net.minecraft.entity.EntityTrackerEntry]: Fetching addPacket for removed entity
-[04:22:01] [Server thread/INFO] [ebwizardry]: Synchronising advancements for Jonaxwolf
-[04:22:01] [Server thread/INFO] [ebwizardry]: Synchronising advancements for Jonaxwolf
-[04:22:01] [Server thread/INFO] [ebwizardry]: Synchronising advancements for Jonaxwolf
-[04:22:01] [Server thread/INFO] [ebwizardry]: Synchronising advancements for Jonaxwolf
-[04:22:01] [Server thread/INFO] [ebwizardry]: Synchronising advancements for Jonaxwolf
-[04:22:01] [Server thread/INFO] [ebwizardry]: Synchronising advancements for Jonaxwolf
-[04:22:24] [Server thread/INFO] [ebwizardry]: Synchronising advancements for Jonaxwolf
-[04:22:24] [Server thread/INFO] [ebwizardry]: Synchronising advancements for Jonaxwolf
-[04:24:44] [Server thread/WARN] [net.minecraft.entity.EntityTrackerEntry]: Fetching addPacket for removed entity
-[04:24:47] [Server thread/WARN] [net.minecraft.entity.EntityTrackerEntry]: Fetching addPacket for removed entity
-[04:27:13] [Server thread/INFO] [ebwizardry]: Synchronising advancements for Jonaxwolf
-[04:27:13] [Server thread/INFO] [ebwizardry]: Synchronising advancements for Jonaxwolf
-[04:27:20] [Server thread/INFO] [ebwizardry]: Synchronising advancements for Jonaxwolf
-[04:27:40] [Server thread/WARN] [net.minecraft.entity.EntityTrackerEntry]: Fetching addPacket for removed entity
-[04:30:29] [Server thread/WARN] [net.minecraft.entity.EntityTrackerEntry]: Fetching addPacket for removed entity
-[04:30:48] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: Jonaxwolf lost connection: Timed out
-[04:30:48] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Jonaxwolf left the game
-[04:30:48] [Server thread/WARN] [net.minecraft.network.NetworkManager]: handleDisconnection() called twice
-[04:36:36] [Server thread/WARN] [net.minecraft.entity.EntityTrackerEntry]: Fetching addPacket for removed entity
-[04:47:19] [Server thread/WARN] [net.minecraft.entity.EntityTrackerEntry]: Fetching addPacket for removed entity
-[04:54:56] [Server thread/WARN] [net.minecraft.entity.EntityTrackerEntry]: Fetching addPacket for removed entity
-[04:55:00] [Server thread/WARN] [net.minecraft.entity.EntityTrackerEntry]: Fetching addPacket for removed entity
-[04:58:33] [Server thread/WARN] [net.minecraft.entity.EntityTrackerEntry]: Fetching addPacket for removed entity
-[04:58:45] [Server thread/WARN] [net.minecraft.entity.EntityTrackerEntry]: Fetching addPacket for removed entity
-[04:58:51] [Server thread/WARN] [net.minecraft.entity.EntityTrackerEntry]: Fetching addPacket for removed entity
-[04:58:58] [Server thread/WARN] [net.minecraft.entity.EntityTrackerEntry]: Fetching addPacket for removed entity
-[05:04:16] [Server thread/WARN] [net.minecraft.entity.EntityTrackerEntry]: Fetching addPacket for removed entity
-[05:04:31] [Server thread/WARN] [net.minecraft.entity.EntityTrackerEntry]: Fetching addPacket for removed entity
-[05:08:06] [Server thread/WARN] [net.minecraft.entity.EntityTrackerEntry]: Fetching addPacket for removed entity
-[05:08:12] [Server thread/WARN] [net.minecraft.entity.EntityTrackerEntry]: Fetching addPacket for removed entity
-[05:19:13] [Server thread/WARN] [net.minecraft.entity.EntityTrackerEntry]: Fetching addPacket for removed entity
-[05:19:16] [Server thread/WARN] [net.minecraft.entity.EntityTrackerEntry]: Fetching addPacket for removed entity
-[05:37:51] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: facundoph lost connection: Timed out
-[05:37:51] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: facundoph left the game
+[20:39:07] [ServerMain/INFO]: [bootstrap] Running Java 21 (OpenJDK 64-Bit Server VM 21.0.7+6-Ubuntu-0ubuntu124.04; Ubuntu null) on Linux 6.8.0-1027-azure (amd64)
+[20:39:07] [ServerMain/INFO]: [bootstrap] Loading Paper 1.21.7-17-main@b4466ec (2025-07-06T18:59:07Z) for Minecraft 1.21.7
+[20:39:07] [ServerMain/INFO]: [PluginInitializerManager] Initializing plugins...
+[20:39:07] [ServerMain/INFO]: [PluginInitializerManager] Initialized 0 plugins
+[20:39:09] [Paper Plugin Remapper Thread - 0/INFO]: [ReobfServer] Remapping server...
+[20:39:22] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
+[20:39:22] [ServerMain/INFO]: Found new data pack file/bukkit, loading it automatically
+[20:39:22] [ServerMain/INFO]: Found new data pack paper, loading it automatically
+[20:39:24] [Paper Plugin Remapper Thread - 0/INFO]: [ReobfServer] Done remapping server in 14934ms.
+[20:39:26] [ServerMain/INFO]: Loaded 1407 recipes
+[20:39:26] [ServerMain/INFO]: Loaded 1520 advancements
+[20:39:26] [ServerMain/INFO]: [ca.spottedleaf.dataconverter.minecraft.datatypes.MCTypeRegistry] Initialising converters for DataConverter...
+[20:39:27] [ServerMain/INFO]: [ca.spottedleaf.dataconverter.minecraft.datatypes.MCTypeRegistry] Finished initialising converters for DataConverter in 883.6ms
+[20:39:27] [Server thread/INFO]: Starting minecraft server version 1.21.7
+[20:39:27] [Server thread/INFO]: Loading properties
+[20:39:27] [Server thread/INFO]: This server is running Paper version 1.21.7-17-main@b4466ec (2025-07-06T18:59:07Z) (Implementing API version 1.21.7-R0.1-SNAPSHOT)
+[20:39:27] [Server thread/INFO]: [spark] This server bundles the spark profiler. For more information please visit https://docs.papermc.io/paper/profiling
+[20:39:27] [Server thread/INFO]: Server Ping Player Sample Count: 12
+[20:39:27] [Server thread/INFO]: Using 4 threads for Netty based IO
+[20:39:28] [Server thread/INFO]: [MoonriseCommon] Paper is using 1 worker threads, 1 I/O threads
+[20:39:28] [Server thread/INFO]: [ChunkTaskScheduler] Chunk system is using population gen parallelism: true
+[20:39:29] [Server thread/INFO]: Default game type: SURVIVAL
+[20:39:29] [Server thread/INFO]: Generating keypair
+[20:39:29] [Server thread/INFO]: Starting Minecraft server on *:25565
+[20:39:29] [Server thread/INFO]: Using epoll channel type
+[20:39:29] [Server thread/INFO]: Paper: Using libdeflate (Linux x86_64) compression from Velocity.
+[20:39:29] [Server thread/INFO]: Paper: Using OpenSSL 3.x.x (Linux x86_64) cipher from Velocity.
+[20:39:29] [Server thread/INFO]: Preparing level "world"
+[20:39:30] [Server thread/INFO]: ---- Migration of old nether folder required ----
+[20:39:30] [Server thread/INFO]: Unfortunately due to the way that Minecraft implemented multiworld support in 1.6, Bukkit requires that you move your nether folder to a new location in order to operate correctly.
+[20:39:30] [Server thread/INFO]: We will move this folder for you, but it will mean that you need to move it back should you wish to stop using Bukkit in the future.
+[20:39:30] [Server thread/INFO]: Attempting to move world/DIM-1 to world_nether/DIM-1...
+[20:39:30] [Server thread/INFO]: Success! To restore nether in the future, simply move world_nether/DIM-1 to world/DIM-1
+[20:39:30] [Server thread/INFO]: ---- Migration of old nether folder complete ----
+[20:39:30] [Server thread/INFO]: ---- Migration of old the_end folder required ----
+[20:39:30] [Server thread/INFO]: Unfortunately due to the way that Minecraft implemented multiworld support in 1.6, Bukkit requires that you move your the_end folder to a new location in order to operate correctly.
+[20:39:30] [Server thread/INFO]: We will move this folder for you, but it will mean that you need to move it back should you wish to stop using Bukkit in the future.
+[20:39:30] [Server thread/INFO]: Attempting to move world/DIM1 to world_the_end/DIM1...
+[20:39:30] [Server thread/INFO]: Success! To restore the_end in the future, simply move world_the_end/DIM1 to world/DIM1
+[20:39:30] [Server thread/INFO]: ---- Migration of old the_end folder complete ----
+[20:39:30] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[20:39:31] [Server thread/INFO]: Preparing spawn area: 0%
+[20:39:31] [Server thread/INFO]: Preparing spawn area: 0%
+[20:39:32] [Server thread/INFO]: Preparing spawn area: 0%
+[20:39:32] [Server thread/INFO]: Preparing spawn area: 0%
+[20:39:32] [Server thread/INFO]: Preparing spawn area: 0%
+[20:39:32] [Server thread/INFO]: Time elapsed: 2124 ms
+[20:39:32] [Server thread/INFO]: Preparing start region for dimension minecraft:the_nether
+[20:39:33] [Server thread/INFO]: Preparing spawn area: 0%
+[20:39:33] [Server thread/INFO]: Preparing spawn area: 0%
+[20:39:33] [Server thread/INFO]: Preparing spawn area: 0%
+[20:39:34] [Server thread/INFO]: Preparing spawn area: 0%
+[20:39:34] [Server thread/INFO]: Preparing spawn area: 0%
+[20:39:35] [Server thread/INFO]: Preparing spawn area: 0%
+[20:39:35] [Server thread/INFO]: Preparing spawn area: 0%
+[20:39:36] [Server thread/INFO]: Preparing spawn area: 0%
+[20:39:36] [Server thread/INFO]: Preparing spawn area: 2%
+[20:39:37] [Server thread/INFO]: Preparing spawn area: 2%
+[20:39:38] [Server thread/INFO]: Preparing spawn area: 8%
+[20:39:38] [Server thread/INFO]: Preparing spawn area: 10%
+[20:39:38] [Server thread/INFO]: Preparing spawn area: 18%
+[20:39:39] [Server thread/INFO]: Preparing spawn area: 18%
+[20:39:39] [Server thread/INFO]: Preparing spawn area: 51%
+[20:39:40] [Server thread/INFO]: Preparing spawn area: 51%
+[20:39:40] [Server thread/INFO]: Preparing spawn area: 61%
+[20:39:41] [Server thread/INFO]: Preparing spawn area: 61%
+[20:39:41] [Server thread/INFO]: Time elapsed: 8921 ms
+[20:39:41] [Server thread/INFO]: Preparing start region for dimension minecraft:the_end
+[20:39:41] [Server thread/INFO]: Preparing spawn area: 0%
+[20:39:42] [Server thread/INFO]: Preparing spawn area: 0%
+[20:39:42] [Server thread/INFO]: Preparing spawn area: 16%
+[20:39:43] [Server thread/INFO]: Preparing spawn area: 32%
+[20:39:43] [Server thread/INFO]: Preparing spawn area: 77%
+[20:39:43] [Server thread/INFO]: Time elapsed: 2084 ms
+[20:39:44] [Server thread/INFO]: [spark] Starting background profiler...
+[20:39:45] [Server thread/INFO]: Done preparing level "world" (15.792s)
+[20:39:45] [Server thread/INFO]: Running delayed init tasks
+[20:39:45] [Server thread/INFO]: Done (39.565s)! For help, type "help"
+[20:39:45] [Server thread/INFO]: *************************************************************************************
+[20:39:45] [Server thread/INFO]: This is the first time you're starting this server.
+[20:39:45] [Server thread/INFO]: It's recommended you read our 'Getting Started' documentation for guidance.
+[20:39:45] [Server thread/INFO]: View this and more helpful information here: https://docs.papermc.io/paper/next-steps
+[20:39:45] [Server thread/INFO]: *************************************************************************************
+[20:40:45] [Server thread/INFO]: Server empty for 60 seconds, pausing
+[20:41:34] [Server thread/INFO]: Stopping the server
+[20:41:34] [Server thread/INFO]: Stopping server
+[20:41:34] [Server thread/INFO]: Saving players
+[20:41:34] [Server thread/INFO]: Saving worlds
+[20:41:34] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[20:41:34] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk system to halt for world 'world'
+[20:41:34] [Server thread/INFO]: [ChunkHolderManager] Halted chunk system for world 'world'
+[20:41:34] [Server thread/INFO]: [ChunkHolderManager] Saving all chunkholders for world 'world'
+[20:41:34] [Server thread/INFO]: [ChunkHolderManager] Saved 0 block chunks, 4 entity chunks, 0 poi chunks in world 'world' in 0.01s
+[20:41:34] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk I/O to halt for world 'world'
+[20:41:34] [Server thread/INFO]: [ChunkHolderManager] Halted I/O scheduler for world 'world'
+[20:41:34] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world_nether]'/minecraft:the_nether
+[20:41:34] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk system to halt for world 'world_nether'
+[20:41:34] [Server thread/INFO]: [ChunkHolderManager] Halted chunk system for world 'world_nether'
+[20:41:34] [Server thread/INFO]: [ChunkHolderManager] Saving all chunkholders for world 'world_nether'
+[20:41:35] [Server thread/INFO]: [ChunkHolderManager] Saved 792 block chunks, 0 entity chunks, 0 poi chunks in world 'world_nether' in 0.85s
+[20:41:35] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk I/O to halt for world 'world_nether'
+[20:41:35] [Server thread/INFO]: [ChunkHolderManager] Halted I/O scheduler for world 'world_nether'
+[20:41:35] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world_the_end]'/minecraft:the_end
+[20:41:35] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk system to halt for world 'world_the_end'
+[20:41:35] [Server thread/INFO]: [ChunkHolderManager] Halted chunk system for world 'world_the_end'
+[20:41:35] [Server thread/INFO]: [ChunkHolderManager] Saving all chunkholders for world 'world_the_end'
+[20:41:35] [Server thread/INFO]: [ChunkHolderManager] Saved 792 block chunks, 2 entity chunks, 0 poi chunks in world 'world_the_end' in 0.52s
+[20:41:35] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk I/O to halt for world 'world_the_end'
+[20:41:35] [Server thread/INFO]: [ChunkHolderManager] Halted I/O scheduler for world 'world_the_end'
+[20:41:35] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[20:41:35] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[20:41:35] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[20:41:35] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
+[20:41:35] [Server thread/INFO]: Waiting for all RegionFile I/O tasks to complete...
+[20:41:35] [Server thread/INFO]: All RegionFile I/O tasks to complete
+[20:41:35] [Server thread/INFO]: [MoonriseCommon] Awaiting termination of worker pool for up to 60s...
+[20:41:35] [Server thread/INFO]: [MoonriseCommon] Awaiting termination of I/O pool for up to 60s...
